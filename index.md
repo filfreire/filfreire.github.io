@@ -1,6 +1,4 @@
-# Hello.
-
-## About me
+## Hello.
 
 I'm Filipe and I'm a Test Engineer and a Developer.
 
