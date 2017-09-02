@@ -1,17 +1,18 @@
 ## Hello.
 
-I'm Filipe and I'm a Test Engineer and a Developer.
+I'm Filipe and I'm a Tester and a Developer.
 
 ## About this blog
 
-This blog is under construction, what kind of posts you can expect in the near future:
+This blog is under construction, first version will be ready during September 2017.
+
+What kind of posts you can expect in the near future:
 - Personal experiences in testing
 - Personal experiences in coding
-- Sleeps and waits in testing
-- Testing angular material
-- Testing microservices
-- Continuous Integration pipelines
-- Agile testing
+- Object oriented programming
+- Interesting books (on testing & programming, and on other subjects)
+- Continuous Integration + Deployement + Delivery
+- Other stuff
 
 Thank you for stopping by. Stay tuned :)
 
@@ -35,5 +36,6 @@ Thank you for stopping by. Stay tuned :)
 
 
 ## Other Contributions
+- I'm trying to contribute to OSS everyday, I'm starting with [Rultor](https://github.com/yegor256/rultor) a devops assistant
 - Some minor contributions to [ERDDAP](http://coastwatch.pfeg.noaa.gov/erddap/download/changes.html) data server for oceanographic data.
 
