@@ -26,7 +26,7 @@ Thank you for stopping by. Stay tuned :)
 
 ## Upcoming talks
 - "Waiting is boring" at Pixels Camp (28-30 September 2017)
-- TBA - co-presented with André Costa, at Porto Testers Meetup #8 (14 September 2017)
+- ["You're more than your tools"](https://www.eventbrite.pt/e/bilhetes-porto-testers-meetup-21-37305787615) - co-presented with André Costa, at Porto Testers Meetup #2.1 (14 September 2017)
 
 ## Past talks
 - DevOps Porto #7 Lightning Talk - 3 August 2017
