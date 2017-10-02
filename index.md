@@ -25,9 +25,10 @@ Thank you for stopping by. Stay tuned :)
 
 ## Upcoming talks
 - TBA 2018
-- "Waiting is boring" at Pixels Camp (28-30 September 2017)
+- TBA 2017
 
 ## Past talks
+- ["Waiting is boring"](https://speakerdeck.com/filipe/waiting-is-boring) at Pixels Camp (28-30 September 2017)
 - ["You're more than your tools"](https://www.eventbrite.pt/e/bilhetes-porto-testers-meetup-21-37305787615) - co-presented with André Costa, at Porto Testers Meetup #2.1 (14 September 2017)
 - [You don't need a DevOps to "be DevOps"](https://www.meetup.com/devopsporto/events/241838901/) at DevOps Porto #7 - 3 August 2017
 - "An automated approach to test multiple microservices" at [Porto Testers Meetup #6 - 9 May 2017](https://www.eventbrite.pt/e/bilhetes-porto-testers-meetup-6-33774996925)
