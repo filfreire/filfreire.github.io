@@ -35,11 +35,14 @@ Thank you for stopping by. Stay tuned :)
 - "Hiptest Overview" at [Test our Coffee event - 11 October 2016](https://www.pstqb.pt/11102016-pt)
 - "Ideas for a more dynamic test framework" internal session at Jumia Services - 2016
 
-
 ## Other Contributions
 I'm trying to contribute to OSS everyday, projects I contributed in a way so far:
 - [Tacit](https://github.com/yegor256/tacit) a CSS framework.
 - [Rultor](https://github.com/yegor256/rultor) a devops assistant.
 - [Cactoos](https://github.com/yegor256/cactoos) an Object-oriented Java Primitives library.
 - Some minor contributions to [ERDDAP](http://coastwatch.pfeg.noaa.gov/erddap/download/changes.html) data server for oceanographic data.
+
+## "Hosting/Organizing Events"
+- I helped hosting and organizing [Hacktoberfest in Porto 2017](https://www.eventbrite.com/e/hacktoberfest-in-porto-tickets-38465845379).
+- I helped hosting [Porto Testers Meetup #2.1](https://www.eventbrite.pt/e/bilhetes-porto-testers-meetup-21-37305787615).
 
