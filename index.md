@@ -4,7 +4,7 @@ I'm Filipe and I'm a Tester and a Developer.
 
 ## About this blog
 
-This blog is under construction, first version will be ready during late September 2017.
+This blog is under construction, first version will be ready during late ~~September~~ November 2017.
 
 What kind of posts you can expect in the near future:
 - Personal experiences in testing
@@ -37,5 +37,9 @@ Thank you for stopping by. Stay tuned :)
 
 
 ## Other Contributions
-- I'm trying to contribute to OSS everyday, I'm starting with [Rultor](https://github.com/yegor256/rultor) a devops assistant.
+I'm trying to contribute to OSS everyday, projects I contributed in a way so far:
+- [Tacit](https://github.com/yegor256/tacit) a CSS framework.
+- [Rultor](https://github.com/yegor256/rultor) a devops assistant.
+- [Cactoos](https://github.com/yegor256/cactoos) an Object-oriented Java Primitives library.
 - Some minor contributions to [ERDDAP](http://coastwatch.pfeg.noaa.gov/erddap/download/changes.html) data server for oceanographic data.
+
