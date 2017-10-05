@@ -1,16 +1,10 @@
-## Hello.
-
-I'm Filipe and I'm a Tester and a Developer.
+Hello. I'm Filipe and I'm a Tester and a Developer.
 
 ## About this blog
 
-This blog is under construction, first version will be ready during late ~~September~~ November 2017.
-
-What kind of posts you can expect in the near future:
-- Personal experiences in testing
-- Personal experiences in coding
+This blog is under construction, first version will be ready during late ~~September~~ November 2017. What kind of posts you can expect in the near future:
+- Personal experiences in testing and in coding
 - Object oriented programming
-- Interesting books (on testing & programming, and on other subjects)
 - Continuous Integration + Deployement + Delivery
 - Other stuff
 
@@ -24,8 +18,7 @@ Thank you for stopping by. Stay tuned :)
 - My [bdd (Cucumber + Spring boot)](https://github.com/filfreire/bdd) project *(forked)*;
 
 ## Upcoming talks
-- TBA 2018
-- TBA 2017
+- TBA 2017 and 2018
 
 ## Past talks
 - ["Waiting is boring"](https://speakerdeck.com/filipe/waiting-is-boring) at Pixels Camp (28-30 September 2017)
@@ -35,7 +28,7 @@ Thank you for stopping by. Stay tuned :)
 - "Hiptest Overview" at [Test our Coffee event - 11 October 2016](https://www.pstqb.pt/11102016-pt)
 - "Ideas for a more dynamic test framework" internal session at Jumia Services - 2016
 
-## Other Contributions
+## Open-source Contributions
 I'm trying to contribute to OSS everyday, projects I contributed in a way so far:
 - [Tacit](https://github.com/yegor256/tacit) a CSS framework.
 - [Rultor](https://github.com/yegor256/rultor) a devops assistant.
@@ -46,3 +39,10 @@ I'm trying to contribute to OSS everyday, projects I contributed in a way so far
 - I helped hosting and organizing [Hacktoberfest in Porto 2017](https://www.eventbrite.com/e/hacktoberfest-in-porto-tickets-38465845379).
 - I helped hosting [Porto Testers Meetup #2.1](https://www.eventbrite.pt/e/bilhetes-porto-testers-meetup-21-37305787615).
 
+## Interesting books (list is WiP)
+- Elegant Objects (vol.1 and 2) by Yegor Bugayenko
+- Growing Object-Oriented Software Guided by Tests by S. Freeman and  N.Pryce
+- Agile Testing by Lisa Crispin and Janet Gregory
+- Lessons learned in Software Testing: A context-driven approach
+- Testing Extreme Programming
+- Effective C++
