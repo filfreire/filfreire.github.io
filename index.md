@@ -1,6 +1,6 @@
 Hello. I'm Filipe and I'm a Tester and a Developer.
 
-[twitter @filrfreire](https://twitter.com/filrfreire) - [github @filfreire](https://github.com/filfreire) - [linkedin](https://www.linkedin.com/in/filfreire) - [stackoverflow](https://stackoverflow.com/users/7468990/filfreire)
+[twitter @filrfreire](https://twitter.com/filrfreire) - [github @filfreire](https://github.com/filfreire) - [linkedin](https://www.linkedin.com/in/filfreire) - [stackoverflow](https://stackoverflow.com/users/7468990/filfreire) - [gitlab @filipefreire](https://gitlab.com/filipefreire)
 
 ## About this blog
 
