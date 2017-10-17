@@ -22,6 +22,7 @@ Thank you for stopping by. Stay tuned :)
 
 ## Upcoming talks
 
+- Hands-on with [Tacit](https://github.com/yegor256/tacit) - lightning talk at [Porto Codes October](https://www.meetup.com/portocodes/events/243675088/) (18 October 2017)
 - TBA 2017 and 2018
 
 ## Past talks
