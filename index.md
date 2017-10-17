@@ -46,7 +46,7 @@ I'm trying to contribute to OSS everyday, projects I contributed in a way so far
 
 ## "Hosting/Organizing Events"
 
-- I helped hosting and organizing [Hacktoberfest in Porto 2017](https://www.eventbrite.com/e/hacktoberfest-in-porto-tickets-38465845379).
+- I helped hosting and organizing [Hacktoberfest in Porto 2017](https://www.eventbrite.com/e/hacktoberfest-in-porto-tickets-38465845379) ([Github page](https://github.com/HacktoberfestOPO/2017)).
 - I helped hosting [Porto Testers Meetup #2.1](https://www.eventbrite.pt/e/bilhetes-porto-testers-meetup-21-37305787615).
 
 ## Interesting books (list is WiP)
