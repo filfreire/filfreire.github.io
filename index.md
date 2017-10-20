@@ -22,11 +22,11 @@ Thank you for stopping by. Stay tuned :)
 
 ## Upcoming talks
 
-- Hands-on with [Tacit](https://github.com/yegor256/tacit) - lightning talk at [Porto Codes October](https://www.meetup.com/portocodes/events/243675088/) (18 October 2017)
 - TBA 2017 and 2018
 
 ## Past talks
 
+- Hands-on with [Tacit](https://github.com/yegor256/tacit) - lightning talk at [Porto Codes October](https://www.me    etup.com/portocodes/events/243675088/) (18 October 2017)
 - ["Waiting is boring"](https://speakerdeck.com/filipe/waiting-is-boring) at Pixels Camp (28-30 September 2017)
 - ["You're more than your tools"](https://www.eventbrite.pt/e/bilhetes-porto-testers-meetup-21-37305787615) ([Video in Portuguese](https://youtu.be/hx-T5xItraQ)) - co-presented with André Costa, at Porto Testers Meetup #2.1 (14 September 2017)
 - [You don't need a DevOps to "be DevOps"](https://www.meetup.com/devopsporto/events/241838901/) at DevOps Porto #7 - 3 August 2017
