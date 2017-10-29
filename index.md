@@ -14,11 +14,11 @@ Thank you for stopping by. Stay tuned :)
 
 ## Projects & Other stuff:
 
+- [CommentCop](https://github.com/filfreire/CommentCop) - console app created for operations with Github comments.
 - My [testing notes](https://github.com/filfreire/testing/blob/master/README.md);
 - JS and HTML [experiments](https://github.com/dembros/tileMe);
 - Sindi, an app for union workers (WIP);
 - PwnNotes [experiment project](https://github.com/dembros/PwnNotes) (currently a bit abandoned).
-- My [bdd (Cucumber + Spring boot)](https://github.com/filfreire/bdd) project *(forked)*;
 
 ## Upcoming talks
 
