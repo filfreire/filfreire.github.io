@@ -1,6 +1,6 @@
 Hello. I'm Filipe and I'm a Tester and a Developer.
 
-[twitter @filrfreire](https://twitter.com/filrfreire) - [github @filfreire](https://github.com/filfreire) - [linkedin](https://www.linkedin.com/in/filfreire) - [stackoverflow](https://stackoverflow.com/users/7468990/filfreire) - [gitlab @filipefreire](https://gitlab.com/filipefreire) - [speakerdeck @filipe](https://speakerdeck.com/filipe)
+[twitter @filrfreire](https://twitter.com/filrfreire) - [github @filfreire](https://github.com/filfreire) - [linkedin](https://www.linkedin.com/in/filfreire) - [stackoverflow](https://stackoverflow.com/users/7468990/filfreire) - [gitlab @filipefreire](https://gitlab.com/filipefreire) - [speakerdeck @filipe](https://speakerdeck.com/filipe) - [telegram @filfreire](https://t.me/filfreire)
 
 ## About this blog
 
