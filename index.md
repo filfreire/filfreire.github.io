@@ -20,6 +20,8 @@ Thank you for stopping by. Stay tuned :)
 - Sindi, an app for union workers (WIP);
 - PwnNotes [experiment project](https://github.com/dembros/PwnNotes) (currently a bit abandoned).
 
+I'm currently an active member of [Porto Testers Meetup](https://portotestersmeetup.github.io).
+
 ## Upcoming talks
 
 - TBA 2017 and 2018
