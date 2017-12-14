@@ -24,7 +24,7 @@ I'm currently an active member of [Porto Testers Meetup](https://portotestersmee
 
 ## Upcoming talks
 
-- Elegant Objects and Cactoos - TBA (21 December 2017)
+- Elegant Objects and Cactoos - [Porto Codes](https://www.meetup.com/portocodes/events/245727845/) (21 December 2017)
 - TBA 2018
 
 ## Past talks
