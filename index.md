@@ -57,12 +57,12 @@ I'm trying to contribute to OSS everyday, projects I contributed in a way so far
 
 This is a list of books I enjoyed reading and would recommend to any fellow developer or tester. I personally think they're awesome.
 
-- Elegant Objects (vol.1 and 2) by Yegor Bugayenko
-- Growing Object-Oriented Software Guided by Tests by S. Freeman and  N.Pryce
-- Agile Testing by Lisa Crispin and Janet Gregory
-- Lessons learned in Software Testing: A context-driven approach by James Bach et al.
-- Testing Extreme Programming by Lisa Crispin
-- Effective C++ by Scott Meyers
+- Elegant Objects (vol.1 and 2) by Yegor Bugayenko ([Amazon vol.1](http://amzn.eu/6QIDf9c), [Amazon vol.2](http://amzn.eu/c4U3YKK))
+- Growing Object-Oriented Software Guided by Tests by S. Freeman and  N.Pryce ([Amazon](http://amzn.eu/amnWxaY))
+- Agile Testing by Lisa Crispin and Janet Gregory ([Amazon](http://amzn.eu/6PKDpxe))
+- Lessons learned in Software Testing: A context-driven approach by James Bach et al. ([Amazon](http://amzn.eu/4DDoHIh))
+- Testing Extreme Programming by Lisa Crispin ([Amazon](http://amzn.eu/dIXPMBg))
+- Effective C++ by Scott Meyers ([Amazon](http://amzn.eu/2hIIjY3))
 
 
 {% if site.google_analytics and jekyll.environment == 'production' %}
