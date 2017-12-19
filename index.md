@@ -15,9 +15,9 @@ Thank you for stopping by. Stay tuned :)
 ## Projects & Other stuff:
 
 - [CommentCop](https://github.com/filfreire/CommentCop) - console app created for operations with Github comments.
+- [theOPOmarket](https://github.com/filfreire/theOPOmarket) - An opinionated down-to-earth take on Engineering "Job" Market of Porto, Portugal
 - My [testing notes](https://github.com/filfreire/testing/blob/master/README.md);
 - JS and HTML [experiments](https://github.com/dembros/tileMe);
-- Sindi, an app for union workers (WIP);
 - PwnNotes [experiment project](https://github.com/dembros/PwnNotes) (currently a bit abandoned).
 
 I'm currently an active member of [Porto Testers Meetup](https://portotestersmeetup.github.io).
