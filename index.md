@@ -1,6 +1,12 @@
-Hello. I'm Filipe and I'm a Tester and a Developer.
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
-[twitter @filrfreire](https://twitter.com/filrfreire) - [github @filfreire](https://github.com/filfreire) - [linkedin](https://www.linkedin.com/in/filfreire) - [stackoverflow](https://stackoverflow.com/users/7468990/filfreire) - [gitlab @filipefreire](https://gitlab.com/filipefreire) - [speakerdeck @filipe](https://speakerdeck.com/filipe) - [telegram @filfreire](https://t.me/filfreire)
+Hello. I'm Filipe and I'm a Tester and a Developer.
+<li><a href="https://twitter.com/filrfreire"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+<li><a href="https://github.com/filfreire"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+<li><a href="https://www.linkedin.com/in/filfreire"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+<li><a href="https://stackoverflow.com/users/7468990/filfreire"><i class="fa fa-stack-overflow" aria-hidden="true"></i></a></li>
+<li><a href="https://gitlab.com/filipefreire"><i class="fa fa-gitlab" aria-hidden="true"></i></a></li>
+<li><a href="https://t.me/filfreire"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
 
 ## About this blog
 
@@ -27,6 +33,8 @@ I'm currently an active member of [Porto Testers Meetup](https://portotestersmee
 - TBA 2018
 
 ## Past talks
+
+You can view the slides for most of my talks over at [speakerdeck (@filipe)](https://speakerdeck.com/filipe).
 
 - Elegant Objects and Cactoos - [Porto Codes](https://www.meetup.com/portocodes/events/245727845/) (21 December 2017) ([slides](https://speakerdeck.com/filipe/elegant-objects-and-cactoos))
 - Hands-on with [Tacit](https://github.com/yegor256/tacit) - lightning talk at [Porto Codes October](https://www.meetup.com/portocodes/events/243675088/) (19 October 2017) ([slides](https://speakerdeck.com/filipe/tacit))
