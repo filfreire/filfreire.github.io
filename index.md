@@ -1,12 +1,7 @@
-<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 
-Hello. I'm Filipe and I'm a Tester and a Developer.
-<li><a href="https://twitter.com/filrfreire"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-<li><a href="https://github.com/filfreire"><i class="fa fa-github" aria-hidden="true"></i></a></li>
-<li><a href="https://www.linkedin.com/in/filfreire"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-<li><a href="https://stackoverflow.com/users/7468990/filfreire"><i class="fa fa-stack-overflow" aria-hidden="true"></i></a></li>
-<li><a href="https://gitlab.com/filipefreire"><i class="fa fa-gitlab" aria-hidden="true"></i></a></li>
-<li><a href="https://t.me/filfreire"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+Hello. I'm Filipe and I'm a Tester and a Developer. 
+<a href="https://twitter.com/filrfreire"><i class="fa fa-twitter" aria-hidden="true"></i></a> <a href="https://github.com/filfreire"><i class="fa fa-github" aria-hidden="true"></i></a> <a href="https://www.linkedin.com/in/filfreire"><i class="fa fa-linkedin" aria-hidden="true"></i></a> <a href="https://stackoverflow.com/users/7468990/filfreire"><i class="fa fa-stack-overflow" aria-hidden="true"></i></a> <a href="https://gitlab.com/filipefreire"><i class="fa fa-gitlab" aria-hidden="true"></i></a> <a href="https://t.me/filfreire"><i class="fa fa-telegram" aria-hidden="true"></i></a>
 
 ## About this blog
 
