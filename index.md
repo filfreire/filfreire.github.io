@@ -19,7 +19,6 @@ Thank you for stopping by. Stay tuned :)
 - [theOPOmarket](https://github.com/filfreire/theOPOmarket) - An opinionated down-to-earth take on Engineering "Job" Market of Porto, Portugal
 - My [testing notes](https://github.com/filfreire/testing/blob/master/README.md);
 - JS and HTML [experiments](https://github.com/dembros/tileMe);
-- PwnNotes [experiment project](https://github.com/dembros/PwnNotes) (currently a bit abandoned).
 
 I'm currently an active member of [Porto Testers Meetup](https://portotestersmeetup.github.io).
 
@@ -46,6 +45,7 @@ I'm trying to contribute to OSS everyday, projects I contributed in a way so far
 
 - [Tacit](https://github.com/yegor256/tacit) a CSS framework (I'm heavily involved with this one, feel free to submit an Issue/PR).
 - [Rultor](https://github.com/yegor256/rultor) a devops assistant.
+- [OpenTomb](https://github.com/opentomb/OpenTomb) an open-source Tomb Raider 1-5 engine remake.
 - [Cactoos](https://github.com/yegor256/cactoos) an Object-oriented Java Primitives library.
 - Some minor contributions to [ERDDAP](http://coastwatch.pfeg.noaa.gov/erddap/download/changes.html) data server for oceanographic data.
 
