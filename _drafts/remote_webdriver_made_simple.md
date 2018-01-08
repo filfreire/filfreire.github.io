@@ -14,7 +14,8 @@ If you need to quickly do some scraping of "static"-like pages you can setup a s
 
 ## Setting up Webdriver dynamically
 
-First, let's set up an interface for our WebDriver that can have multiple implementations (it can be for a remote browser or a local browser)
+First, let's set up an interface for our WebDriver that can have multiple implementations (it can be for a remote browser or a local browser):
+
 ```java
 import org.openqa.selenium.WebDriver;
 
