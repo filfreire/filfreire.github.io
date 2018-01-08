@@ -38,6 +38,11 @@ Bear with me, I'm aggainst this idea also. The path is clear: having both amazin
 
 There's another thing: a tester that cares doesn't test only the software developed. A tester that cares tests everything. Process, people, project, everything. I'll write more about this on a future post.
 
+By the end of reading this you probably have an idea that I'm being a "douche". Bare with me.
 
+In life sometimes we're forced to take paths we like less, that are not our dreams. In the case of testers that's also true. Many of us join the craft but our dreams were something else.
+The idea I'd like you to take from this is, follow your dreams. If it's testing, be the best you can be, if it's something else, dedicate and commit yourself to it. There's always time to
+follow our passions, even if it is just a tiny bit of our day. Every tiny bit a day will make a big difference over time.
 
+Remember: you can fool everyone, but yourself.
 
