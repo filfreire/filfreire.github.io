@@ -12,9 +12,9 @@ If you need to quickly do some scraping of "static"-like pages you can setup a s
 
 
 
-## Setting up Webdriver dinamically
+## Setting up Webdriver dynamically
 
-First let's setup an interface for our WebDriver that can have multiple implementations (it can be for a remote browser or a local browser)
+First, let's set up an interface for our WebDriver that can have multiple implementations (it can be for a remote browser or a local browser)
 ```java
 import org.openqa.selenium.WebDriver;
 
@@ -84,7 +84,7 @@ public class LocalFirefoxDriver implements Driver {
 ```
 
 Now, for a remote WebDriver, useful for running your tests/scrapping scripts on CI-like environment (like Jenkins, Travis, Gitlab CI, CircleCI, etc)
-you can apply the same interface, only difference is you'll need to get the url for the remote driver instead of a path for a driver on your machine.
+you can apply the same interface, the only difference is you'll need to get the URL for the remote driver instead of a path for a driver on your machine.
 
 ```java
 import java.net.MalformedURLException;
