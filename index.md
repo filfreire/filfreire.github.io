@@ -25,6 +25,7 @@ I'm currently an active member of [Porto Testers Meetup](https://portotestersmee
 ## Upcoming talks
 
 - TBA 2018
+- TBA February 2018
 
 ## Past talks
 
