@@ -1,0 +1,7 @@
+contacts:
+twitter - https://twitter.com/filrfreire
+github - https://github.com/filfreire
+linkedin - https://www.linkedin.com/in/filfreire
+stackoverflow - https://stackoverflow.com/users/7468990/filfreire
+gitlab - https://gitlab.com/filipefreire
+telegram - https://t.me/filfreire
