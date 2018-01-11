@@ -5,10 +5,10 @@ Hello. I'm Filipe and I'm a Tester and a Developer.
 
 ## About this blog
 
-This blog is under construction, first version will be ready during late January 2018. What kind of posts you can expect in the near future:
+This blog is under construction, the first version will be ready during late January 2018. What kind of posts you can expect in the near future:
 - Personal experiences in testing and in coding
-- Object oriented programming
-- Continuous Integration + Deployement + Delivery
+- Object-oriented programming
+- Continuous Integration + Deployment + Delivery
 - Other stuff
 
 Thank you for stopping by. Stay tuned :)
@@ -42,10 +42,10 @@ You can view the slides for most of my talks over at [speakerdeck (@filipe)](htt
 
 ## Open-source Contributions
 
-I'm trying to contribute to OSS everyday, projects I contributed in a way so far:
+I'm trying to contribute to OSS every day, projects I contributed in a way so far:
 
 - [Tacit](https://github.com/yegor256/tacit) a CSS framework (I'm heavily involved with this one, feel free to submit an Issue/PR).
-- [Rultor](https://github.com/yegor256/rultor) a devops assistant.
+- [Rultor](https://github.com/yegor256/rultor) a DevOps assistant.
 - [OpenTomb](https://github.com/opentomb/OpenTomb) an open-source Tomb Raider 1-5 engine remake.
 - [Cactoos](https://github.com/yegor256/cactoos) an Object-oriented Java Primitives library.
 - Some minor contributions to [ERDDAP](http://coastwatch.pfeg.noaa.gov/erddap/download/changes.html) data server for oceanographic data.
@@ -54,8 +54,8 @@ I'm trying to contribute to OSS everyday, projects I contributed in a way so far
 
 ## "Hosting/Organizing Events"
 
-- I helped hosting and organizing [Hacktoberfest in Porto 2017](https://www.eventbrite.com/e/hacktoberfest-in-porto-tickets-38465845379) ([Github page](https://github.com/HacktoberfestOPO/2017)).
-- I helped hosting [Porto Testers Meetup #2.1](https://www.eventbrite.pt/e/bilhetes-porto-testers-meetup-21-37305787615).
+- I helped to host and to organize [Hacktoberfest in Porto 2017](https://www.eventbrite.com/e/hacktoberfest-in-porto-tickets-38465845379) ([Github page](https://github.com/HacktoberfestOPO/2017)).
+- I helped to host [Porto Testers Meetup #2.1](https://www.eventbrite.pt/e/bilhetes-porto-testers-meetup-21-37305787615).
 
 ## Interesting books (list is WiP)
 
