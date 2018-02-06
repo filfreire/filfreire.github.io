@@ -5,7 +5,7 @@ Hello. I'm Filipe and I'm a Tester and a Developer.
 
 ## About this blog
 
-This blog is under construction, the first version will be ready during late January 2018. What kind of posts you can expect in the near future:
+This blog is under construction, the first version will be ready during late February 2018. What kind of posts you can expect in the near future:
 - Personal experiences in testing and in coding
 - Object-oriented programming
 - Continuous Integration + Deployment + Delivery
