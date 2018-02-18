@@ -70,6 +70,9 @@ This is a list of books I enjoyed reading and would recommend to any fellow deve
 - Testing Extreme Programming by Lisa Crispin ([Amazon](http://amzn.eu/dIXPMBg))
 - Effective C++ by Scott Meyers ([Amazon](http://amzn.eu/2hIIjY3))
 
+## Other stuff
+
+- For the most curious, I have this [amazon wishlist](http://amzn.eu/batqdIF).
 
 {% if site.google_analytics and jekyll.environment == 'production' %}
 {% include analytics.html %}
