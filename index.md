@@ -22,7 +22,7 @@ Thank you for stopping by. Stay tuned :)
 - My [testing notes](https://github.com/filfreire/testing/blob/master/README.md);
 - JS and HTML [experiments](https://github.com/dembros/tileMe);
 
-I'm currently an active member of [Porto Testers Meetup](https://portotestersmeetup.github.io).
+I'm currently an active member of the organizers of [Porto Testers Meetup](https://portotestersmeetup.github.io). I'm also helping Pedro Tavares ([@ordepdev](https://twitter.com/ordepdev)) to start the first portuguese chapter of "Papers we love" meetup, ([Papers we love @Porto](https://www.meetup.com/Papers-We-Love-Porto/)).
 
 ## Upcoming talks
 
