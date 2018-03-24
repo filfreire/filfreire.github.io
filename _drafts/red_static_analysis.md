@@ -1,7 +1,12 @@
-# What's the color of static analysis?
+---
+layout: post
+title: "What's the color of static analysis?"
+date: 2018-03-24
+categories: [static-analysis, testing, quality]
+---
+
 ## TL;DR:
-I think it should be red.
-Static analysis is amazingly useful - a lot of issues that I’m used professionally to see caught in CRs are automatically caught if the build fails with static analysis.
+I think it should be red. Static analysis is amazingly useful - a lot of issues that I’m used professionally to see caught in CRs are automatically caught if the build fails with static analysis.
 
 ## Quick-intro
 TBD
@@ -26,8 +31,6 @@ Will it slow you down? Yes. At first. But the effort to make the development pro
 * We invest our time better during code review, we worry less about typical stuff and focus more on what the code is trying to achieve versus what we proposed to solve or create;
 
 There should be more points, but these are the ones I can relate to at the time of writing.
-
-
 
 ## Oh but "It's impossible to have that on a real agile super dynamic fast-paced scrum break fast move stuff environment of high concurrent software"
 
