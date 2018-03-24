@@ -72,7 +72,7 @@ tbd
 ```shell
 #!/bin/bash
 
-#  Migrate multiple jobs 
+#  Migrate multiple jobs
 
 ARGS_NUM=4
 if [[ ( "$#" -lt "$ARGS_NUM" ) ]]; then
@@ -83,7 +83,7 @@ fi
 user=$1
 token=$2
 jenkins=$3
-path=$4 
+path=$4
 
 ls $path | xargs -n1 -I {} ./post_job.sh $user $token $jenkins {} $path
 ```
