@@ -1,7 +1,8 @@
 # Google Analytics
 google_analytics: UA-108436742-1
-
+# Page related
 title: Filipe Freire's homepage
-
 theme: jekyll-theme-cayman
-
+permalink: /posts/:title
+baseurl: "/"
+url: "filfreire.com"
