@@ -21,4 +21,3 @@ You can view the slides for most of my talks over at [speakerdeck (@filipe)](htt
 - "An automated approach to test multiple microservices" at [Porto Testers Meetup #6 - 9 May 2017](https://www.eventbrite.pt/e/bilhetes-porto-testers-meetup-6-33774996925)
 - "Hiptest Overview" at [Test our Coffee event - 11 October 2016](https://www.pstqb.pt/11102016-pt)
 - "Ideas for a more dynamic test framework" internal session at Jumia Services - 2016
-
