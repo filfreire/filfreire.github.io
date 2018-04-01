@@ -5,16 +5,14 @@ archive: false
 ---
 
 <article>
-  <section>
-    <h2>{{ page.title }}</h2>
-    <blockquote>
-      <time datetime="{{ page.date | date:"%B %d, %Y" }}">{{ page.date | date:"%B %d, %Y" }}</time>
-      <footer>
-        {% if page.categories.size > 0 %}
-          {{ page.categories | array_to_sentence_string }}
-        {% endif %}
-      </footer>
-    </blockquote>
-    {{content}}
-  </section>
+  <h2>{{ page.title }}</h2>
+  <blockquote>
+    <time datetime="{{ page.date | date:"%B %d, %Y" }}">{{ page.date | date:"%B %d, %Y" }}</time>
+    <footer>
+      {% if page.categories.size > 0 %}
+        {{ page.categories | array_to_sentence_string }}
+      {% endif %}
+    </footer>
+  </blockquote>
+  {{content}}
 </article>

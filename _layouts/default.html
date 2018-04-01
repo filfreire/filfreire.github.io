@@ -13,6 +13,7 @@
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
 </head>
 <body class="{% if page.post_class %}{{page.post_class}}{% else %}home-template{% endif %}">
+<section>
 {% include header.html %}
 {{ content }}
 
@@ -21,5 +22,6 @@
 {% endif %}
 
 {% include footer.html %}
+</section>
 </body>
 </html>
