@@ -5,8 +5,7 @@ date: 2018-04-18
 categories: [career, testing, quality]
 ---
 
-One of this days a fellow tester asked a very pertinent question in a tester's community slack channel.
-She asked something in these lines: "what guidelines or tips can we as testers give someone already in a different career-path, who is aspiring to change to the software testing craft (in particular in Portugal)?"
+A fellow tester recently asked a very pertinent question in a tester's community slack channel, she asked something in these lines: "what guidelines or tips can we as testers give someone already in a different career-path, who is aspiring to change to the software testing craft (in particular in Portugal)?"
 
 I thought about it for a little and I reminded myself of what every hero and heroine say on a cartoon, that cliché response they give to some kid in the street:
 
