@@ -19,6 +19,7 @@ I was a reviewer for Yegor Bugayenko's [Software Quality Award, 2017](http://www
 ## Personal projects & Other stuff:
 
 - [CommentCop](https://github.com/filfreire/CommentCop) - console app created for operations with Github comments.
-- [theOPOmarket](https://github.com/filfreire/theOPOmarket) - An opinionated down-to-earth take on Engineering "Job" Market of Porto, Portugal
-- My [testing notes](https://github.com/filfreire/testing/blob/master/README.md);
-- JS and HTML [experiments](https://github.com/dembros/tileMe);
+- [theOPOmarket](https://github.com/filfreire/theOPOmarket) - An opinionated down-to-earth take on Engineering "Job" Market of Porto, Portugal.
+- [anagram](https://github.com/filfreire/anagram) -  Two string checker for anagrams (with strict static analysis).
+- (stalled) My [testing notes](https://github.com/filfreire/testing/blob/master/README.md);
+- (stalled) JS and HTML [experiments](https://github.com/dembros/tileMe);
