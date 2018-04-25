@@ -9,7 +9,35 @@ If you need to quickly do some scraping of "static"-like pages you can setup a s
 - kill the docker container
 - extra: put it on a CI Job (example 1: jenkins; example 2: gitlab ci; example 3: travis)
 
+## Raising and killing a container
 
+TBD
+
+```shell
+#!/bin/bash
+
+# Raise docker instance with remote browser + webdriver, run tests, kill docker instance
+set -x
+
+FF_NAME=default_firefox
+java -version
+docker version
+
+# Start containers
+docker run -d -P --name=$FF_NAME selenium/standalone-firefox
+docker ps
+
+HOST=http://$(docker port default_firefox 4444)
+echo $HOST
+
+# Run tests
+mvn clean install test
+
+# Stop containers
+docker stop $(docker ps -a -q --filter "name=$FF_NAME")
+docker ps
+docker rm $(docker ps -a -f status=exited -q)
+``` 
 
 
 ## Setting up Webdriver dynamically
