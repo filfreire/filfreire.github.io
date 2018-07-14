@@ -6,10 +6,12 @@ permalink: /other-stuff/
 
 ## "Hosting/Organizing Events"
 
-I'm currently an active member of the organizers of [Porto Testers Meetup](https://portotestersmeetup.github.io). I'm also helping Pedro Tavares ([@ordepdev](https://twitter.com/ordepdev)) to start the first portuguese chapter of "Papers we love" meetup, ([Papers we love @Porto](https://www.meetup.com/Papers-We-Love-Porto/)).
+I was an active member of the organizers of [Porto Testers Meetup](https://portotestersmeetup.github.io) during 2017-2018.
 
 - I helped to host and to organize [Hacktoberfest in Porto 2017](https://www.eventbrite.com/e/hacktoberfest-in-porto-tickets-38465845379) ([Github page](https://github.com/HacktoberfestOPO/2017)).
 - I helped to host [Porto Testers Meetup #2.1](https://www.eventbrite.pt/e/bilhetes-porto-testers-meetup-21-37305787615).
+- I helped Pedro Tavares ([@ordepdev](https://twitter.com/ordepdev)) to start the first portuguese chapter of "Papers we love" meetup, ([Papers we love @Porto](https://www.meetup.com/Papers-We-Love-Porto/)). I haven't been involved since the first editions, but feel free to ping [Pedro](https://twitter.com/ordepdev) up if you'd like to give a talk, and be on the lookout for next editions of the meetup;
+- I was one of the main organizers of [Porto Testers Meetup Conf (PTMConf)](https://ptmconf.com/) 2018 edition;
 
 ## Interesting books (list is WiP)
 
