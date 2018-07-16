@@ -23,5 +23,9 @@ I was a reviewer for Yegor Bugayenko's [Software Quality Award, 2017](http://www
 - [moving-from-pt](https://github.com/filfreire/moving-from-pt) - my notes and tips on moving away from Portugal.
 - [theOPOmarket](https://github.com/filfreire/theOPOmarket) - An opinionated down-to-earth take on Engineering "Job" Market of Porto, Portugal.
 - [anagram](https://github.com/filfreire/anagram) -  Two string checker for anagrams (with strict static analysis).
-- (stalled) My [testing notes](https://github.com/filfreire/testing/blob/master/README.md);
-- (stalled) JS and HTML [experiments](https://github.com/dembros/tileMe);
+
+
+## Stalled/trashed projects
+
+- My [testing notes](https://github.com/filfreire/testing/blob/master/README.md);
+- JS and HTML [experiments](https://github.com/dembros/tileMe);
