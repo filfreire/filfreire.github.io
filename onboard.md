@@ -4,6 +4,8 @@ title: Onboard
 permalink: /onboard/
 ---
 
+## Useful stuff
+
 - ohmyzsh
 - git
 - ssh key (git)
@@ -37,3 +39,9 @@ permalink: /onboard/
 - skype
 - gimp
 - exporter
+- nvm
+
+## Useful chrome extensions
+
+- Open multiple urls https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh?hl=en
+- ModHeader https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj
