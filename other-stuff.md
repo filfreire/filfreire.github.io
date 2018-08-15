@@ -23,5 +23,6 @@ This is a list of books I enjoyed reading and would recommend to any fellow deve
 - Lessons learned in Software Testing: A context-driven approach by James Bach et al. ([Amazon](http://amzn.eu/4DDoHIh))
 - Testing Extreme Programming by Lisa Crispin ([Amazon](http://amzn.eu/dIXPMBg))
 - Effective C++ by Scott Meyers ([Amazon](http://amzn.eu/2hIIjY3))
+- Code Ahead by Yegor Bugayenko ([Amazon](https://www.amazon.com/dp/1982063742))
 
 For the most curious, I have this [amazon wishlist](http://amzn.eu/batqdIF).
