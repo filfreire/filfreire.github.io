@@ -6,42 +6,43 @@ permalink: /onboard/
 
 ## Useful stuff
 
-- ohmyzsh
+- [ohmyzsh](https://github.com/robbyrussell/oh-my-zsh)
+- [homebrew](https://brew.sh/)
+- curl, wget
+- httpie
+- [shell (.zshrc) settings](https://github.com/filfreire/scripts/blob/master/dotrc)
+- [terminal color](https://github.com/filfreire/scripts/blob/master/spacegray_eighties_macOs.terminal)
+- vim (does it come by default?)
+- [vim settings](https://github.com/filfreire/scripts/blob/master/.vimrc)
+- clone [scripts project](https://github.com/filfreire/scripts)
+- basic folder struct (personal, screenShots, work)
 - git
-- ssh key (git)
-- homebrew
+- ssh key generation ([link](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/))
 - sublime
 - slack
 - keepassX
-- curl, wget
-- httpie
 - maven 3
 - java 8
-- lynx
+- lynx browser
 - intellij
-- vim (does it come by default?)
-- vim settings
-- clone scripts project
-- zshrc settings
-- terminal color
-- basic folder struct (personal, screenShots, work)
 - chrome (https everywhere, ublock origin)
 - firefox (https everywhere, ublock origin)
 - postman
 - meld
-- teampapersnap
-- dBeaver
-- kafka console tools
+- `teampapersnap` or evernote's `skitch`
 - audacity
 - obs studio
 - vlc
+- gimp
+- dBeaver
+- kafka console tools
 - xmind free
 - skype
-- gimp
-- exporter
+- [exporter](https://itunes.apple.com/us/app/exporter/id1099120373?mt=12)
 - nvm
+- virtualbox
 
 ## Useful chrome extensions
 
-- Open multiple urls https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh?hl=en
-- ModHeader https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj
+- [Open multiple urls](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh?hl=en)
+- [ModHeader](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj)
