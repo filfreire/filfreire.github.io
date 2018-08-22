@@ -14,5 +14,11 @@ archive: false
       {% endif %}
     </footer>
   </blockquote>
+  {% if page.image %}
+  <figure>
+    <img src="{{page.image}}">
+    <figcaption>Monsters Inc, 2001</figcaption>
+  </figure>
+  {% endif %}
   {{content}}
 </article>
