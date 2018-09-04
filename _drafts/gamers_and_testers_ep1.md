@@ -22,9 +22,9 @@ I was in parallel researching about the game and it's implementation when I reac
 
 > This was a long time ago, I won't be able to give very detailed or necessarily accurate answers. There wasn't really an over arching company QA policy then. That came in after I moved to a junior art role.
 
-### No worries, how did you get a latest daily build to test, and id you test for the PS1 version of the game or PC?
+### No worries, how did you get a latest daily build to test, and did you test for the PS1 version of the game or PC?
 
-> From memory there was not a build every day. All builds were burnt to CD and tested on PS1 test kits. Build no was written on the disk so the tester knew which version we were testing.
+> From memory there was not a build every day. All builds were burnt to CD and tested on PS1 test kits. Build number was written on the disk so the tester knew which version we were testing.
 
 <figure>
     <img src="/assets/images/2018/09/ps1.png">
