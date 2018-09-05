@@ -47,7 +47,7 @@ I was in parallel researching about the game and it's implementation when I reac
 ### What was it like to transition from a testing role to a more artist role?
 
 > My goal was always to become an artist. I graduated university with a fine art degree. The games industry was very different back then, less specialised and no specific training through university etc.
-> I started doing work experience for a month straight after Uni. I taught myself 3D Studio Max, there were no junior artist vacancies so I asked if I could start as a tester. Things were different then, if you showed interest and aptitude those were the only prerequisites for getting a job.
+> I started doing work experience for a month straight after Uni. I taught myself 3D Studio Max, there were no junior artist vacancies so I asked if I could start as a tester. At that time, if you showed interest and aptitude those were the only prerequisites for getting a job.
 > I worked in QA for a year whilst generating a 3D portfolio in my spare time. The company also supported me by allowing me to work on my folio one day a week during office hours. Eventually I was promoted out of QA into the art department. I left that company five years later as a senior artist with 8 published titles. None were particularly good, but it was great experience!
 
 ### Did you take learnings with you from testing that somehow you still apply today?
