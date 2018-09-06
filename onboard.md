@@ -41,6 +41,7 @@ permalink: /onboard/
 - [exporter](https://itunes.apple.com/us/app/exporter/id1099120373?mt=12)
 - nvm
 - virtualbox
+- [bat](https://github.com/sharkdp/bat)
 
 ## Useful chrome extensions
 
