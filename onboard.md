@@ -47,3 +47,27 @@ permalink: /onboard/
 
 - [Open multiple urls](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh?hl=en)
 - [ModHeader](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj)
+
+## Useful sublime packages
+
+"Babel",
+"BlameHighlighter",
+"Color Highlighter",
+"Cucumber",
+"Cucumber Completion",
+"Cucumber Step Finder",
+"Dockerfile Syntax Highlighting",
+"Gherkin (Cucumber) Formatter",
+"Git",
+"Handlebars",
+"JsFormat",
+"JSHint",
+"LoremIpsum",
+"Package Control",
+"PackageResourceViewer",
+"Pretty JSON",
+"Swift",
+"SyncedSideBar",
+"TrailingSpaces",
+"TypeScript",
+"TypeScript Syntax"
