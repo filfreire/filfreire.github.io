@@ -27,7 +27,7 @@ I was in parallel researching about the game and it's implementation when I reac
 > From memory there was not a build every day. All builds were burnt to CD and tested on PS1 test kits. Build number was written on the disk so the tester knew which version we were testing.
 
 <figure>
-    <img src="/assets/images/2018/09/ps1.png">
+    <img src="/assets/images/2018/09/ps1_min.png">
     <figcaption>PS1 Debug Kit, source <a href="https://youtu.be/VmLrLAeIwZc">Youtube</a></figcaption>
 </figure>
 
