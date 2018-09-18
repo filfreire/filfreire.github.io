@@ -11,9 +11,9 @@ This is the second of (what I hope) will be an ongoing series of posts where I a
 
 My guest today is [Susan Paula Holman](https://www.linkedin.com/in/susan-paula-holman-9081913/), currently working as a Senior Producer at [Avalanche Studios](https://avalanchestudios.com/), a studio known for working on the upcoming games [Just Cause 4](https://en.wikipedia.org/wiki/Just_Cause_4) and [Rage 2](https://en.wikipedia.org/wiki/Rage_2).
 
-Susan has extensive experience in roles of Test Leadership and Management and at the beginning of her carrer started as a Tester, having performed testing efforts on some of my all-time favourite games, including: [Battlefield 2](https://en.wikipedia.org/wiki/Battlefield_2), [Lord of the rings: Battle for Middle Earth](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth) and [Need for Speed Underground 2](https://en.wikipedia.org/wiki/Need_for_Speed:_Underground_2).
+Susan has extensive experience in roles of Test Leadership and Test Management and started her career as a Tester, having performed testing efforts on some of my all-time favourite games, including: [Battlefield 2](https://en.wikipedia.org/wiki/Battlefield_2), [Lord of the rings: Battle for Middle Earth](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth) and [Need for Speed Underground 2](https://en.wikipedia.org/wiki/Need_for_Speed:_Underground_2).
 
-She was very kind responding to my questions and hopes someone finds the inspiration to join the industry and understands the importance and value of a role within testing.
+She kindly responded to my questions and has a big hope someone finds the inspiration to join the industry and understands the importance and value of a role within testing.
 
 
 ### 1. What are your favourite games of all time, that you had to test?
@@ -41,7 +41,6 @@ She was very kind responding to my questions and hopes someone finds the inspira
 > It is a super long time ago now, and I think everything I would’ve wished for at the time has already either changed completely (more roles/long term career options within QA, stronger automation tools, permanent roles, more access to dev teams, less management layers to work through, respect and autonomy) or in the process of evolving and changing. It’s very exciting to see how much variety is on offer within the testing field!
 
 
-
 ### 6. What was it like to transition from a Testing/Test leadership role to a Senior Producer role?
 
 > I’m more involved with feature development than personnel development. Working as a manager, I was responsible for both establishing the department’s processes, guidelines, and workflows, as well as being directly involved in developing each team member along their career path. In a production capacity, this development focus is aimed towards the project/IP/content and features.
@@ -58,6 +57,6 @@ She was very kind responding to my questions and hopes someone finds the inspira
 > -  You **will** be challenged to gracefully adapt to varying levels of change daily.
 > - **Bugs will happen** - you can’t always predict them, or how players will encounter them.
 
-Thank you Susan the time you invested to answer these questions, and thank you, the reader, also for your time. I hope you've enjoyed this post.
+Thank you Susan for the time you invested to answer these questions, and thank you, the reader, also for your time reading this post. I hope you've enjoyed it.
 
 Feel free to reach out to me with comments, ideas and suggestions via any of my social media, or my email, which you can find in my Github account. Until next time, take care!
