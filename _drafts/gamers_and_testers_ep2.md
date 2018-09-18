@@ -7,13 +7,11 @@ image: /assets/images/2018/09/bf2.jpg
 caption: "Battlefield 2, 2005"
 ---
 
-> TODO - draft
-
 This is the second of (what I hope) will be an ongoing series of posts where I ask an invited guest some usual and unusual questions focused a lot on what is or was the experience of being a videogames tester. You can read the first entry [here](https://filfreire.com/posts/gamers_and_testers_ep1).
 
-My guest today is [Susan Paula Holman](https://www.linkedin.com/in/susan-paula-holman-9081913/), currently working as a Senior Producer at [Avalanche Studios](https://avalanchestudios.com/), a studio currently working on the upcoming games [Just Cause 4](TODO), [Rage 2](TODO) and [Generation Zero](TODO).
+My guest today is [Susan Paula Holman](https://www.linkedin.com/in/susan-paula-holman-9081913/), currently working as a Senior Producer at [Avalanche Studios](https://avalanchestudios.com/), a studio known for working on the upcoming games [Just Cause 4](https://en.wikipedia.org/wiki/Just_Cause_4) and [Rage 2](https://en.wikipedia.org/wiki/Rage_2).
 
-Susan has extensive experience in roles of Test Leadership and Management and at the beginning of her carrer started as a Tester, having performed testing efforts on some of my all-time favourite games, including: [Battlefield 2](TODO), [Lord of the rings: Battle for Middle Earth](TODO) and [Need for Speed Underground 2](TODO).
+Susan has extensive experience in roles of Test Leadership and Management and at the beginning of her carrer started as a Tester, having performed testing efforts on some of my all-time favourite games, including: [Battlefield 2](https://en.wikipedia.org/wiki/Battlefield_2), [Lord of the rings: Battle for Middle Earth](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth) and [Need for Speed Underground 2](https://en.wikipedia.org/wiki/Need_for_Speed:_Underground_2).
 
 She was very kind responding to my questions and hopes someone finds the inspiration to join the industry and understands the importance and value of a role within testing.
 
@@ -42,11 +40,6 @@ She was very kind responding to my questions and hopes someone finds the inspira
 
 > It is a super long time ago now, and I think everything I would’ve wished for at the time has already either changed completely (more roles/long term career options within QA, stronger automation tools, permanent roles, more access to dev teams, less management layers to work through, respect and autonomy) or in the process of evolving and changing. It’s very exciting to see how much variety is on offer within the testing field!
 
-
-<figure>
-    <img src="/assets/images/2018/09/bf2-heli.jpg">
-    <figcaption>Me and my brother used to spend hours working as "pilot + gunner" team in Battlefield 2</figcaption>
-</figure>
 
 
 ### 6. What was it like to transition from a Testing/Test leadership role to a Senior Producer role?
