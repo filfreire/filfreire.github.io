@@ -21,6 +21,7 @@ I was a reviewer for Yegor Bugayenko's [Software Quality Award, 2017](http://www
 - [Moneeee](https://github.com/filfreire/Moneeee) - joke app to tell you how much you're making during a boring meeting ([filfreire.com/Moneeee](https://filfreire.com/Moneeee/)).
 - [hercule](https://github.com/filfreire/hercule) - a (somewhat aggressive) boilerplate starter project for a selenium based UI test framework.
 - [CommentCop](https://github.com/filfreire/CommentCop) - console app created for operations with Github comments.
+- [dunkirk](https://github.com/filfreire/dunkirk)] - Export all your Apple iCloud Notes on macOS to text files.
 - [moving-from-pt](https://github.com/filfreire/moving-from-pt) - my notes and tips on moving away from Portugal.
 - [theOPOmarket](https://github.com/filfreire/theOPOmarket) - An opinionated down-to-earth take on Engineering "Job" Market of Porto, Portugal.
 - [anagram](https://github.com/filfreire/anagram) -  Two string checker for anagrams (with strict static analysis).
