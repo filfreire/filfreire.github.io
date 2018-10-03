@@ -7,6 +7,8 @@ permalink: /talks/
 ## Upcoming talks
 
 - TBA 2018
+- Open-source Quality Mindset -  internal session at Adidas Engineering days, 24 October 2018 (slides coming soon) (video coming soon)
+- Tacit CSS Framework - internal session at Adidas Community of Practice, 4 October 2018 (slides coming soon)
 
 ## Past talks
 
