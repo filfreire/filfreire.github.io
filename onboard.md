@@ -42,6 +42,7 @@ permalink: /onboard/
 - nvm
 - virtualbox
 - [bat](https://github.com/sharkdp/bat)
+- [adb tools](https://stackoverflow.com/a/28208121/7468990)
 
 ## Useful chrome extensions
 
