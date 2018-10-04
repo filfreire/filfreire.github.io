@@ -43,6 +43,7 @@ permalink: /onboard/
 - virtualbox
 - [bat](https://github.com/sharkdp/bat)
 - [adb tools](https://stackoverflow.com/a/28208121/7468990)
+- [gawk](https://www.gnu.org/software/gawk/)
 
 ## Useful chrome extensions
 
