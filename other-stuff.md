@@ -16,6 +16,7 @@ permalink: /other-stuff/
 
 This is a list of books I enjoyed reading and would recommend to any fellow developer or tester. I personally think they're awesome.
 
+- Secrets of a Buccaneer-Scholar by James Bach ([Amazon](https://www.amazon.co.uk/dp/1847375359/))
 - Lessons learned in Software Testing: A context-driven approach by James Bach et al. ([Amazon](http://amzn.eu/4DDoHIh))
 - Elegant Objects (vol.1 and 2) by Yegor Bugayenko ([Amazon vol.1](http://amzn.eu/6QIDf9c), [Amazon vol.2](http://amzn.eu/c4U3YKK))
 - Growing Object-Oriented Software Guided by Tests by S. Freeman and  N.Pryce ([Amazon](http://amzn.eu/amnWxaY))

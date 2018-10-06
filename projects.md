@@ -14,7 +14,7 @@ I'm trying to contribute to OSS every day, projects I contributed in a way so fa
 - [Cactoos](https://github.com/yegor256/cactoos) an Object-oriented Java Primitives library.
 - Some minor contributions to [ERDDAP](http://coastwatch.pfeg.noaa.gov/erddap/download/changes.html) data server for oceanographic data.
 
-I was a reviewer for Yegor Bugayenko's [Software Quality Award, 2017](http://www.yegor256.com/2016/10/23/award-2017.html).
+I was a reviewer for Yegor Bugayenko's Software Quality Award [2017](http://www.yegor256.com/2016/10/23/award-2017.html) and [2018](https://www.yegor256.com/2017/10/24/award-2018.html) editions.
 
 ## Personal projects & Other stuff:
 
