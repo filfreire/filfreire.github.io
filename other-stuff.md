@@ -25,6 +25,12 @@ This is a list of books I enjoyed reading and would recommend to any fellow deve
 - Effective C++ by Scott Meyers ([Amazon](http://amzn.eu/2hIIjY3))
 - Code Ahead by Yegor Bugayenko ([Amazon](https://www.amazon.com/dp/1982063742))
 
+## Book reviews
+
+I was a reviewer of the following books:
+- Yegor Bugayenko's [Code Ahead](https://www.codeahead.org/)
+- Jonathan Wexler's [Get Programming With NodeJS](https://www.manning.com/books/get-programming-with-node-js)
+
 ## Random stuff
 
 - Usual setup/onboard list can be found [here](/onboard).
