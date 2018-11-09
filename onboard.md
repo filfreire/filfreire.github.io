@@ -52,6 +52,8 @@ permalink: /onboard/
 
 ## Useful sublime packages
 
+- [Sublime hack that solves all problems, works everytime](https://stackoverflow.com/a/45437984/7468990)
+
 "Babel",
 "BlameHighlighter",
 "Color Highlighter",
