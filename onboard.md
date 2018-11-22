@@ -36,7 +36,7 @@ permalink: /onboard/
 - gimp
 - dBeaver
 - kafka console tools
-- xmind free
+- [xmind free](https://www.xmind.net/download/xmind8/)
 - skype
 - [exporter](https://itunes.apple.com/us/app/exporter/id1099120373?mt=12)
 - nvm
