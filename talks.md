@@ -6,13 +6,13 @@ permalink: /talks/
 
 ## Upcoming talks
 
-- TBA 2018
-- Open-source Quality Mindset -  internal session at Adidas Engineering days, 24 October 2018 (slides coming soon) (video coming soon)
+- TBA 2019
 
 ## Past talks
 
 You can view the slides for most of my talks over at [speakerdeck (@filipe)](https://speakerdeck.com/filipe).
 
+- Open-source Quality Mindset -  internal session at Adidas Engineering days, 24 October 2018
 - Tacit CSS Framework - internal session at Adidas Community of Practice, 4 October 2018 ([slides](https://speakerdeck.com/filipe/tacit-css-framework))
 - "Quality from the start" - [Helloworld Conf](https://helloworldconf.pt/) (15 February 2018) ([slides](https://speakerdeck.com/filipe/quality-from-the-start)) ([video](https://youtu.be/_Dal5reX1Sw))
 - Elegant Objects and Cactoos - [Porto Codes](https://www.meetup.com/portocodes/events/245727845/) (21 December 2017) ([slides](https://speakerdeck.com/filipe/elegant-objects-and-cactoos)) ([video](https://youtu.be/LlkptvKK6Mw))
