@@ -24,6 +24,7 @@ This is a list of books I enjoyed reading and would recommend to any fellow deve
 - Testing Extreme Programming by Lisa Crispin ([Amazon](http://amzn.eu/dIXPMBg))
 - Effective C++ by Scott Meyers ([Amazon](http://amzn.eu/2hIIjY3))
 - Code Ahead by Yegor Bugayenko ([Amazon](https://www.amazon.com/dp/1982063742))
+- Testing Computer Software by Cem Kaner et al. ([Amazon](https://www.amazon.com/dp/0471358460/))
 
 ## Book reviews
 
