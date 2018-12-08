@@ -3,9 +3,11 @@ layout: post
 title: "Asymmetric warfare, raids, and software testing"
 date: 2018-12-08
 categories: [Raid-ST, testing, quality]
+image: /assets/images/2018/12/cod4.jpg
+caption: "Call of Duty: Modern Warfare Remastered, 2016"
 ---
 
-> "The world is in great shape (...)" - Gaz, COD4:MW
+> "The world is in great shape (...)" -- Gaz
 
 Everything needs to be incredibly faster everyday. Decades have passed and the difference between quality control, quality assurance and testing is still a whisper in the wind. The world is set on hiring people to magically assure quality (whatever that is). Terms like "automated testing" (which should be called checking) gain traction.
 
@@ -33,7 +35,11 @@ And what are some of the common ideas to top sloppyness?
 - "Let's create tons of test cases";
 - "Let's create a big and costly and hard to maintain automated check suite";
 
-> borat picture
+<figure>
+    <img src="/assets/images/2018/12/borat.jpg">
+    <figcaption>Borat, 2006</figcaption>
+</figure>
+
 
 There's much to be said about what I've just wrote above. But stop and think for a minute. What kind of tester do these projects really need? Under what the context do the ideas above work to magically solve sloppyness?
 
@@ -87,6 +93,11 @@ All of this can be done in separate or with some mixture. Expert testers will sa
 
 The idea of Raid-ST is not to be a unique flagship of testing expertise, but rather facilitate the introduction, "later in the war", of expert testing, while ALSO contributing towards decent quality assurance and quality control processes (which may also facilitate expert testing efforts). In other words, it's like a first layer of "violent hygiene": the main premise is to debilitate "the monster" in a methodical yet "portable"/easy to deploy way, so that, for example, later efforts can be made into having even better testing happening in the project.
 
+<figure>
+    <img src="/assets/images/2018/12/RaidST.jpg">
+    <figcaption>A visual representation of Raid-ST</figcaption>
+</figure>
+
 ## Eating my own dog food
 
 I've been asked on several ocasions to jump inside a project, help out and improve testing efforts and quality processes, then called to move to the next more-complex project that need help and fixing, and so on.
@@ -122,8 +133,6 @@ And finally, in every project, I always attempt to start (and finish) **Raids** 
 - Create product coverage outlines from day 1;
 - Help out other testers making better of use of their time, converting time wasted in "administrative tasks" into time invested in actual testing;
 - ...
-
--- RAIDST Image
 
 ## Summing up
 
