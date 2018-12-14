@@ -6,7 +6,7 @@ permalink: /onboard/
 
 ## Useful stuff
 
-- [ohmyzsh](https://github.com/robbyrussell/oh-my-zsh)
+- ~~[ohmyzsh](https://github.com/robbyrussell/oh-my-zsh)~~ I stopped using `ohmyzsh`, read more about it [here](/posts/ohmyslowzsh)
 - [homebrew](https://brew.sh/)
 - curl, wget
 - httpie
