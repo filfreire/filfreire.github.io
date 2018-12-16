@@ -1,4 +1,8 @@
-# Easily cloning and uploading jenkins jobs
+---
+layout: post
+title: "(DRAFT) Easily cloning and uploading jenkins jobs"
+categories: [draft]
+---
 
 ## TL;DR:
 - Create a script to get the names of the jobs you might want (inside a view)

@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Rush B: Counter terror tactics in software testing"
-date: 2018-04-01
-categories: [testing, quality]
+title: "(Early DRAFT) Rush B - Counter terror tactics in software testing"
+categories: [draft]
 ---
 
 > TL;DR: testing and the "blazing fast" mindset of "we're too fast to fix our stuff!"-type of rushed software projects: why it's a bad idea, and why it's a conscious business risk and what it leads to at the end

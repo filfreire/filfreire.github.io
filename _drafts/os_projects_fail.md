@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Why Opensource projects fail"
-date: 2018-12-16
+title: "(DRAFT) Why Opensource projects fail"
 categories: [opensource, development, quality]
 image: /assets/images/2018/12/toystory3.png
 caption: "Toy Story 3, 2010"
 ---
+
+> **Disclaimer**: this is a personal account based on my observations as a regular OSS contributor. Experience and observations will certainly vary from person to person.
 
 Recently I've done an [internal session](TODO) at Adidas about the pros of following practices of some of the best opensource projects in a corporate environment, and how those deeply impact both the quality of the development process, and also in some ways the perceived quality by the end-users of the developed product.
 

@@ -1,4 +1,8 @@
-# RemoteWebdriver made simple
+---
+layout: post
+title: "(DRAFT) RemoteWebdriver made simple"
+categories: [draft]
+---
 
 ## TL;DR:
 
@@ -37,7 +41,7 @@ mvn clean install test
 docker stop $(docker ps -a -q --filter "name=$FF_NAME")
 docker ps
 docker rm $(docker ps -a -f status=exited -q)
-``` 
+```
 
 
 ## Setting up Webdriver dynamically

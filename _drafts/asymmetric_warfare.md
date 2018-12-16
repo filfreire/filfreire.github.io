@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Asymmetric warfare, raids, and software testing"
-date: 2018-12-08
+title: "(Release DRAFT) Asymmetric warfare, raids, and software testing"
 categories: [Raid-ST, testing, quality]
 image: /assets/images/2018/12/cod4.jpg
 caption: "Call of Duty: Modern Warfare Remastered, 2016"
 ---
 
-> "The world is in great shape (...)" -- Gaz
+> **Disclaimer**: I found out after writing and sharing the draft for this post with Michael Bolton and James Bach, that James already "beat me to it" almost 5 years ago, with regards to the underlying ideas of this post, with a whole different analogy, [Test-Jumpers: One Vision of Agile Testing](http://www.satisfice.com/blog/archives/1372). It's an interesting read and I like his analogy better, so read on knowing that the foundations for this post are not new, and I'm basically comitting the feat of "re-inventing the wheel" here, without having previously known of it's existense.
+
+
+> "The world is in great shape (...)" -- Gaz from COD4
 
 Everything needs to be incredibly faster everyday. Decades have passed and the difference between quality control, quality assurance and testing is still a whisper in the wind. The world is set on hiring people to magically assure quality (whatever that is). Terms like "automated testing" (which should be called checking) gain traction.
 
