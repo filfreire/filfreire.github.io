@@ -6,10 +6,10 @@ permalink: /onboard/
 
 ## Useful stuff
 
-- ~~[ohmyzsh](https://github.com/robbyrussell/oh-my-zsh)~~ I stopped using `ohmyzsh`, read more about it [here](/posts/ohmyslowzsh)
+- bash ~~[ohmyzsh](https://github.com/robbyrussell/oh-my-zsh)~~ (I stopped using `ohmyzsh`, read more about it [here](/posts/ohmyslowzsh))
 - [homebrew](https://brew.sh/)
 - curl, wget
-- httpie
+- [httpie](https://httpie.org/)
 - [shell (.zshrc) settings](https://github.com/filfreire/scripts/blob/master/dotrc)
 - [terminal color](https://github.com/filfreire/scripts/blob/master/spacegray_eighties_macOs.terminal)
 - vim (does it come by default?)
@@ -18,35 +18,39 @@ permalink: /onboard/
 - basic folder struct (personal, screenShots, work)
 - git
 - ssh key generation ([link](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/))
-- sublime
-- slack
-- keepassX
-- maven 3
-- java 8
-- lynx browser
-- intellij
+- [sublime](https://www.sublimetext.com/)
+- keepass, [for Mac](https://www.keepassx.org/) and [for Windows](https://keepass.info/)
+- [maven 3](https://stackoverflow.com/questions/8826881/maven-install-on-mac-os-x)
+- [java 8](https://stackoverflow.com/questions/24342886/how-to-install-java-8-on-mac)
+- [lynx browser](https://lynx.browser.org/)
+- [intellij](https://www.jetbrains.com/idea/)
 - chrome (https everywhere, ublock origin)
 - firefox (https everywhere, ublock origin)
-- postman
-- meld
-- `teampapersnap` or evernote's `skitch`
-- audacity
-- obs studio
-- vlc
-- gimp
-- dBeaver
+- [postman](https://www.getpostman.com/)
+- [meld](http://meldmerge.org/)
+- `teampapersnap`, evernote's `skitch` (for windows: `greenshot`)
+- [audacity](https://www.audacityteam.org/)
+- [obs studio](https://obsproject.com/)
+- [vlc](https://www.videolan.org/vlc/)
+- [gimp](https://www.gimp.org/downloads/)
+- [dBeaver](https://dbeaver.io/download/)
 - kafka console tools
 - [xmind free](https://www.xmind.net/download/xmind8/)
-- skype
 - [exporter](https://itunes.apple.com/us/app/exporter/id1099120373?mt=12)
-- nvm
-- virtualbox
+- [nvm](https://github.com/creationix/nvm)
+- [virtualbox](https://www.virtualbox.org/)
 - [bat](https://github.com/sharkdp/bat)
 - [adb tools](https://stackoverflow.com/a/28208121/7468990)
 - [gawk](https://www.gnu.org/software/gawk/)
+- [dunkirk](https://github.com/filfreire/dunkirk)
+- charles, [desktop](https://www.charlesproxy.com/) and [iOS app](https://itunes.apple.com/us/app/charles-proxy/id1134218562)
+- [EvilCorp's Paid Hostageware/Ransomware communication tool](https://slack.com/)
+- [EvilCorp's Free Spyware communication tool](https://www.skype.com/en/)
 
 ## Useful chrome extensions
 
+- uBlock origin
+- https everywhere
 - [Open multiple urls](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh?hl=en)
 - [ModHeader](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj)
 

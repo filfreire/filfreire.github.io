@@ -25,7 +25,7 @@ I was a reviewer for Yegor Bugayenko's Software Quality Award [2017](http://www.
 - [moving-from-pt](https://github.com/filfreire/moving-from-pt) - my notes and tips on moving away from Portugal.
 - [theOPOmarket](https://github.com/filfreire/theOPOmarket) - An opinionated down-to-earth take on Engineering "Job" Market of Porto, Portugal.
 - [anagram](https://github.com/filfreire/anagram) -  Two string checker for anagrams (with strict static analysis).
-
+- Sometimes I study profanity detection and exploits, especially when testing software in which the user can embellish/personalize products, [here](/profanity-study) will find a draft with some of my personal study notes on it.
 
 ## Stalled/trashed projects
 

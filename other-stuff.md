@@ -35,4 +35,6 @@ I was a reviewer of the following books:
 ## Random stuff
 
 - Usual setup/onboard list can be found [here](/onboard).
+- I stopped using `ohmyzsh`, you can read more about it [here](/posts/ohmyslowzsh).
 - For the most curious, I have this [amazon wishlist](http://amzn.eu/batqdIF).
+- There's recurring joke of me doing [consulting](http://freireconsulting.org/).
