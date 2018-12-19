@@ -5,11 +5,11 @@
   {% assign current = page.url | downcase | split: '/' %}
   <nav>
     <ul>
-      <li><a href="/">{% if current[1] == Nil %}<b>home</b>{% else %}home{% endif %}</a></li>
-      <li><a href="/about/">{% if current[1] == 'about' %}<b>about</b>{% else %}about{% endif %}</a></a></li>
-      <li><a href="/projects/">{% if current[1] == 'projects' %}<b>projects</b>{% else %}projects{% endif %}</a></li>
-      <li><a href="/talks/">{% if current[1] == 'talks' %}<b>talks</b>{% else %}talks{% endif %}</a></li>
-      <li><a href="/other-stuff/">{% if current[1] == 'other-stuff' %}<b>other stuff</b>{% else %}other stuff{% endif %}</a></li>
+      <li><a href="/">{% if current[1] == Nil %}<b><u>home</u></b>{% else %}home{% endif %}</a></li>
+      <li><a href="/about/">{% if current[1] == 'about' %}<b><u>about</u></b>{% else %}about{% endif %}</a></a></li>
+      <li><a href="/projects/">{% if current[1] == 'projects' %}<b><u>projects</u></b>{% else %}projects{% endif %}</a></li>
+      <li><a href="/talks/">{% if current[1] == 'talks' %}<b><u>talks</u></b>{% else %}talks{% endif %}</a></li>
+      <li><a href="/other-stuff/">{% if current[1] == 'other-stuff' %}<b><u>other stuff</u></b>{% else %}other stuff{% endif %}</a></li>
     </ul>
   </nav>
 </header>
