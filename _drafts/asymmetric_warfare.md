@@ -76,6 +76,8 @@ I feel from experience that Tester-Commandos are more appropriate for a certain 
 
 ### The concept of Raids:
 
+A Raid is a testing mission (or some other kind of mission related to quality) that is smaller in scope than a test plan, but powerful in achieving a single purpose. For example if the mission is testing-related, a Raid can be one or more test sessions. Multiple Raids can be performed at the same time. Raids are a tactic to debilitate deficient projects, to give head-room for the proper "cavalry", like a group of dedicated craftsman testers, to better interact with a product. Raids are best performed by a certain profile of tester, what I call a tester-commando, which is a t-shaped craftsman tester (like an [omega tester](TODO-link-james-post)), but that can also do efficiently part of the job of a developer, a manager, a quality assurance group, and communicate effectively with these.
+
 Raids are not long-term test plans. They're (apparently) simple but not over-simplifying in terms of purpose. The're also not set to be ineffective: a minimum effort has to return at the very least some value.
 
 Here are some of the possible purposes of raids:
@@ -142,8 +144,8 @@ Reality check: Not all Raids suceed, even if producing a bit of "damage" to the 
 
 I'm personally far from being a flawless example of tester-commando, much less of a real-life commando. I tried though to put into words and explain my personal methodology, which anyone who knows me in real life also knows I fall short-of. I'm a flawed human being, and that's ok.
 
-If I conviced you or gave you some ideas with Raid-ST, awesome. Come back later for more adventures on Raid-ST :)
+If I conviced you or gave you some ideas with Raid-ST, awesome. Come back later for more adventures on Raid-ST 🙂
 
-Far from trying to convince anyone to adopt Raid-ST, which to me personally sounds a bit silly, I do make this invitation: Recognizing your own personal methodology, studying it, and trying to improve it on a daily basis can take you far, and definitely is a force applied in a daily pursuit of paths less-traveled. It's worth it.
+Far from trying to convince anyone to adopt Raid-ST, which to me personally sounds a bit silly, I do make this invitation: Recognizing your own personal methodology, studying it, and trying to improve it on a daily basis can take you far, and definitely is a force applied in a daily pursuit of paths less-traveled. It's worth it. Taking into account that this sort of ideas has been looked at years before for example with the concept of [Test-Jumpers](http://www.satisfice.com/blog/archives/1372), Raid-ST is also not entirely original on it's own, but it's my flavour for the similar set of ideas that guide the previously set concept.
 
 As a motivational outro, if there's one thing I'd like you, the reader, to take from all of this is: try a bit harder, and think, and do something with discipline. Your mind is free. If I managed to write all of this down, I can't imagine what ideas some brighter minds are on the brink of putting into words, but need that spark. Here's a spark for you.

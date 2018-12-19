@@ -8,7 +8,7 @@ caption: "Toy Story 3, 2010"
 
 > **Disclaimer**: this is a personal account based on my observations as a regular OSS contributor. Experience and observations will certainly vary from person to person.
 
-Recently I've done an [internal session](TODO) at Adidas about the pros of following practices of some of the best opensource projects in a corporate environment, and how those deeply impact both the quality of the development process, and also in some ways the perceived quality by the end-users of the developed product.
+Recently I've done an [internal session](/talks) at Adidas about the pros of following practices of some of the best opensource projects in a corporate environment, and how those deeply impact both the quality of the development process, and also in some ways the perceived quality by the end-users of the developed product.
 
 In a summarized way, the points I mention in the talk are pretty much "no-brainers" for people who contribute or follow regularly to opensource projects:
 
@@ -47,13 +47,15 @@ Tinkering and coming up with a piece of code and putting it online for the world
 
 All of these are normal. I personally believe we should never bash people who stop maintaining stuff for any personal reason whatsoever. Life is hard for everyone. If for any reason you think the maintainer is not being responsible, don't bash the maintainer, go the other way, fork the project, start your own branches with your ideas and improvements, direct other people towards your branch, and do things in a way that you're still apreciating someone else's initial work.
 
+(Note: It's discussible that some of excuses for not contributing to OSS, detailed for example in [this post](https://www.yegor256.com/2015/12/22/why-dont-you-contribute-to-open-source.html) are similar to some of the ones I listed above. Could it be that for instance, maybe, at one point maintainers stop caring?)
+
 ## Set for abandonment
 
 **The documentation is garbage** - for me it's an indicator project is from the start not set for maintainability - It's a bit of a dirty hobby for me, but I do this over time: when I see a project doesn't have a readme, or the readme clearly misses to say how I can build and use the project on my local machine, I open an issue exactly to tackle that. Just to give you an idea that this is not an isolate problem: Here's a list of all the issues I've opened in this fashion for diverse projects as of the day I'm writing this post:
 
 -- (TODO)
 
-**Documentation is there, but to build on your machine you need sorcery, and tackle build errors that "stackoverflow will only have an answer in 2-3 years"**. The next logical step after documenting it is: make it run in a CI solution. There are countless available, from [Travis](TODO) to [CircleCI](TODO), free for opensource projects, and yet, sometimes people just avoid these, in their minds "oh I don't need this, I can build fine on my own machine". The thing is your machine is not my machine or the person's next door machine. The easiest way to guarantee that the person next door will have a good chance of building your project locally is plainly making it build on CI. It's confusing, and maybe for some people it'll take 5 minutes for other people 5 days, but the benefits are there once it's set up: chances are better for potential contributors to be able to build your project locally or by setting it to build on CI you'll run into blocking points that a future contributor will run.
+**Documentation is there, but to build on your machine you need sorcery, and tackle build errors that "stackoverflow will only have an answer in 2-3 years"**. The next logical step after documenting it is: make it run in a CI solution. There are countless available, from [Travis](https://travis-ci.org/) to [CircleCI](https://circleci.com/), free for opensource projects, and yet, sometimes people just avoid these, in their minds "oh I don't need this, I can build fine on my own machine". The thing is your machine is not my machine or the person's next door machine. The easiest way to guarantee that the person next door will have a good chance of building your project locally is plainly making it build on CI. It's confusing, and maybe for some people it'll take 5 minutes for other people 5 days, but the benefits are there once it's set up: chances are better for potential contributors to be able to build your project locally or by setting it to build on CI you'll run into blocking points that a future contributor will run.
 
 **Last commit made in 1942, before going on covert-ops mission in north africa**. This point is a no brainer. If the project hasn't been updated for years, If the CI seems abandoned, if there are tons of issues or pull-requests open and not a single reply from the maintainer - (TODO)
 
