@@ -9,7 +9,7 @@ Tester. Developer. Husband. Learner. Open-source software lover and contributor.
 Since June 2018, I've been assisting James Bach's [RSTA class](http://www.satisfice.com/rapidtestintensives.shtml) as a peer advisor.
 
 Previously focused on automation, quality and testing related-tasks for event-driven software that processes around 10 million critical messages per day.
-Currently working with the largest sportswear manufacturer in Europe, and the second largest in the world. For more professional info, you can reach me on [linkedin](https://www.linkedin.com/in/filfreire).
+Currently working with the largest sportswear manufacturer in Europe, and the second largest in the world. For more professional info, you can reach me on **[linkedin](https://www.linkedin.com/in/filfreire)**.
 
 **Disclosure** - views expressed in this blog are mine and do not reflect the views of my employer, or any organization I am affiliated with.
 

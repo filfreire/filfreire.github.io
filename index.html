@@ -9,15 +9,15 @@ permalink: /
         <ul>
             {% for post in site.posts %}
             <li>
-                <span>{{ post.date | date:"%B %d, %Y" }}</span>
-                <a href="{{ post.url }}">{{ post.title }}</a>
+                <a href="{{ post.url }}">{{ post.title }}</a>,
+                <small><span>{{ post.date | date:"%B %d, %Y" }}</span></small>
             </li>
             {% endfor %}
         </ul>
     </section>
     <section>
         <h2>About this blog</h2>
-        <p>What kind of posts you can expect in the future:</p>
+        <p>What kind of posts you can expect:</p>
             <ul>
                 <li>Personal experiences in testing and in coding;</li>
                 <li>Object-oriented programming;</li>
