@@ -117,7 +117,7 @@ Much like a commando that is pin-placed in the hardest parts of the world for a 
 Because I have to be on the move, and I can't be in all places at the same time or clone myself, I usually have to make a lot of bang with the few instruments I have at hand.
 
  Between critical projects there's only so much "instruments" I can carry with me:
-- My laptop (with a set of software tools always installed, see /onboard), plus books, cables, and phones, if applicable;
+- My laptop (with a set of software tools always installed, see [/onboard](/onboard)), plus books, cables, and phones, if applicable;
 - Some contacts which might help me unblock tricky situations (like infrastructure setup, permissions, finding other person-of-contact people, ...);
 - My previous tacit experience from previous testing endeavors, which is somewhat intangible;
 
