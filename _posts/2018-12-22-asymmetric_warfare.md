@@ -126,7 +126,7 @@ I also always leave behind certain beacons, or "care" packages, in case I ever n
 - I document everything that a future version of myself might need
 - I document everything that up until then hasn't been, but the team gains from it being documented;
 - I automate boring parts of my endeavors;
-- I version/source-control this automation of boring parts work: I always carry repositories with tens of scripts to bootstrap/quickly set up camp again, in case my laptop dies, or I need to assist the project again, most of which help me on my next projects;
+- I version/source-control this automation of boring parts work: I always carry repositories with tens of scripts to bootstrap/quickly set up camp again, in case my laptop dies, or I need to assist the project again, most of which help me on my next projects ([example](https://github.com/filfreire/scripts));
 - I build as many relationships as I can, in case I need help with things I'm not an expert with.
 
 And finally, in every project, I always attempt to start (and finish) **Raids** (typical purposes are the ones listed above), here are some examples:
