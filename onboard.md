@@ -78,4 +78,5 @@ permalink: /onboard/
 "SyncedSideBar",
 "TrailingSpaces",
 "TypeScript",
-"TypeScript Syntax"
+"TypeScript Syntax",
+"BracketHighlighter"
