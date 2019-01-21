@@ -2,7 +2,7 @@
 layout: post
 title: "Why Opensource projects fail?"
 categories: [opensource, development, quality]
-image: /assets/images/2019/01/jp3.png
+image: /assets/images/2019/01/jp3.jpg
 caption: "Jurassic Park 3, 2001"
 ---
 

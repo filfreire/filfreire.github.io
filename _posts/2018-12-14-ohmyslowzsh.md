@@ -3,7 +3,7 @@ layout: post
 title: "Oh-my-SLOW-zsh: my transition back to bash"
 date: 2018-12-14
 categories: [short-post, bash, ohmyzsh]
-image: /assets/images/2018/12/turbo.png
+image: /assets/images/2018/12/turbo.jpg
 caption: "Turbo, 2013"
 ---
 
