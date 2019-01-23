@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(Early DRAFT) Wildwest rules"
+title: "(DRAFT) A tale of the Testers Wild West"
 categories: [draft]
 ---
 
