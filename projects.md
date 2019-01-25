@@ -28,6 +28,7 @@ I'm trying to contribute to OSS every day, projects I contributed in a way so fa
 ### Upcoming talks
 
 - TBA 2019
+- Quality Foundations - [Adidas Testing Days in Zaragoza](https://www.koliseo.com/jmsampayo/adidas-testing-day-2019-zaragoza-spain/r4p/5758267368144896/agenda#/5663515423539200), 6 February 2019
 
 ### Past talks
 
