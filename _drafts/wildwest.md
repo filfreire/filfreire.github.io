@@ -5,14 +5,14 @@ categories: [draft]
 ---
 
 
-Recently I came by this comment made by someone working in some tech company:
+Recently I came by this comment made by someone working in some unknown tech company:
 
 > “(...) but the tech lead will not allow testers have a look at any code.”
 
 
 I instantly felt triggered, offended, and whatever it is that people say to express how horrible they feel with something that seems "unbelievable".
 
-This is a "no brainer" for me: I’d happily leave that company asap.
+This is a "no brainer" for me: without a lot of context, I’d happily leave that company asap.
 
 Unless the code involves launching of nuclear missiles or some top secret confidential national security stuff (and even then…), I expect the same kind of access to it as a tester, as any contributor has to an open-source project: I want to see the code, the logs, the different environments, the discussions, I want to have the ability to investigate everything and anything that will influence my testing efforts.
 
@@ -22,6 +22,9 @@ TODO
 
 ## But what of the testers that can't read code?
 
+> non-coders can participate in code reviews and still make constructive contributions to say, a given pull request
+by asking questions, but “more-or-less” understanding the purpose of the code change, and asking seemingly “dumb” questions, but that in turn make programmers notice issues, for example
+
 [Can't they? Really?](TODO - james post about non-coders/video). This is a falacy and also it's fake news. Unless you're an non-coder european reviewing code that was done with Chinese or Japanese characters, if you can read english, you can review code. You might not know how to code, or the intricacies of the language, but you certainly know how to ask questions. So what's the problem?
 Almost all programming languages are "english", and interpretation of the code is not that difficult: you get the "idea" of things, so you can ask a question when you spot something weird. And when you don't get the idea or get the wrong idea, again, you can ask.
 
@@ -30,8 +33,6 @@ Some may say: But these testers asking me stuff is a nuissance!
 Yes, at times. We need to build a good relationship with developers beforehand, because the nuicanse is there even for testers who are coders and fully understand the code: some developers don't like to be asked questions by anyone. This won't change any time soon, and will happen in every single project, guaranteed.
 
 But not asking anything at all: that's plain dumb. It's not using a valuable pair of eyes with not context on your solution to mentally "put their finger on it" and see it in a perspective you haven't seen it as a developer.
-
-
 
 ## A sin is never alone
 
@@ -44,7 +45,6 @@ But this matter of "secret pull requests" was not the only "sin" of this colleag
 - You can probably image more sins based on these...
 
 TODO
-
 
 ## Wrapping up
 
