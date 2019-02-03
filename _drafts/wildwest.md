@@ -1,24 +1,23 @@
 ---
 layout: post
-title: "A tale of the Testers Wild West"
+title: "A tale of the (Testers) Wild West"
 date: 2019-02-03
 categories: [rules, development, quality]
-image: /assets/images/2019/01/jp3.jpg
-caption: "Jurassic Park 3, 2001"
+image: /assets/images/2019/02/rdr2.jpg
+caption: "Red Dead Redemption 2, 2018"
 ---
 
 Recently I came by this comment made by someone working in some unknown tech company:
 
 > “(...) but the tech lead will not allow testers have a look at any code.”
 
-I instantly felt triggered, offended, and whatever it is that people say to express how horrible they feel with something that seems "unbelievable".
+I instantly felt triggered, offended, and whatever it is that people say to express how disgusted they feel with something that seems "unbelievable". For moments I thought I was being told a story of the wild west, of times when gunslingers and outlaws roamed and made the rules.
 
 This is a "no brainer" for me: without having a lot of context, possibly after a couple of attempts to improve, I’d happily leave that company/project ASAP.
 
 Firstly, and personally, because as a coder and opensource contributor, I find it's neglectful to ignore and ban others of the possibility of reviewing your code and your code changes. It's just stupid.
 
 Secondly, and also personally, as a tester I don't take anything for granted, and I know through experience that programmers are bound to screw up. Some of them, though professional and mature (no matter the seniority level), because they make mistakes, as anyone does. In fact, everyone screws up, both testers, developers, managers, ...
-
 
 For example, let's look a bit into this fictional scenario:
 
@@ -32,7 +31,7 @@ Unless the code involves launching of nuclear missiles or some top secret confid
 
 Recently another colleague shared an article on a Slack group, a link with an interesting and thoughtful article of ["whether it's important or not for testers to have the power to read pull requests"](https://dustyjuhl.com/2019/01/14/is-it-important-for-testers-to-read-pull-requests/).
 
-The article is spot on, and on a much more personal level, to me the discussion, if any, is that it's a matter of "importance": I simply consider it a vital part of my job, and a crucial tool in studying code changes. As mentioned also in the above article, it's a shortcut to indentifiying some category of issues very early on the development process (earlier than that being "contesting" a development's specification even before a developer grabs it and starts working on it, like for example a ticket with no description and a crappy title). Again, it's a "no brainer".
+The article is spot on, and to me it's so much more than a matter of "importance" of reading PRs: I simply consider it a vital part of my job, and a crucial tool in studying code changes. As mentioned also in the above article, it's a shortcut to indentifiying some category of issues very early on the development process (earlier than that being "contesting" a development's specification even before a developer grabs it and starts working on it, like for example a ticket with no description and a crappy title). Again, it's a "no brainer".
 
 Some argue that, no matter if the tester is also a developer, or has decent software engineering concepts, that there's more value in not necessarily the tester reading through the actual code of the PR, but more on tackling the PR in other ways:
 - Read the commit messages (supposing they're made by non-sloppy programmers) to understand what's being brought in or removed;
@@ -65,7 +64,8 @@ You get the idea.
 
 ## A sin is never alone
 
-As if it weren't enough, this matter of "secret-society pull requests" inside the workplace was not the only major "sin" of this colleague's "architect/tech lead", the usual sins carried on:
+I've come to learn that, the same way that in one's spiritual life a sin is never alone by itself (meaning we usually do more wrong than what we may recognize), the same applies for "sins" in software development process, and it's the same in this story:
+As if it weren't enough, this matter of "secret-society and hidden from testers-code and pull requests" inside the workplace was not the only major "sin" promoted by this colleague's "architect/tech lead", the usual "sins" carried on:
 
 - Release notes missing 90% of what was released;
 - Lack of transparency of what's actually deployed;
@@ -75,7 +75,7 @@ As if it weren't enough, this matter of "secret-society pull requests" inside th
 
 Depending on your experience you can probably image more "sins" based on these.
 
-This "grind my gears". I don't have a lot of advice on this either. I'd follow the same approach as before in these kinds of projects: after a couple of attempts to improve and change the project "environment" for the better of all involved, I'd just jump to the next project. Why? Because with my experience I've realized: there come times where you notice you won't change poor mentalities/mindsets, and your time is better invested elsewhere.
+This "grind my gears" and I don't have a lot of advice on this, but, I'd follow the same approach as before in these kinds of projects: after a couple of attempts to improve and change the project "environment" for the better of all involved, I'd just jump to the next project. Why? Because with my experience I've realized: there come times where you notice you won't change poor mentalities/mindsets, and your time is limited and better invested elsewhere.
 
 ## Wrapping up
 
