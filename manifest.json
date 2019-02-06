@@ -1,0 +1,8 @@
+{
+  "name": "Filipe Freire's blog",
+  "short_name": "filfreire.com",
+  "lang": "en-GB",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#f5f5f5"
+}
