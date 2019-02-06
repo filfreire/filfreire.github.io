@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Gamers and testers, Episode 2"
+meta_description: "Gamers and testers, Episode 2"
 date: 2018-09-18
 categories: [career, testing, quality, interview]
 image: /assets/images/2018/09/bf2.jpg

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Work and other stuff
+meta_description: "Work and other stuff"
 permalink: /work/
 ---
 

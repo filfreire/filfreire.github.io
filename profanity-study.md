@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Profanity Study
+meta_description: "Profanity Study"
 permalink: /profanity-study/
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "What's the color of static analysis?"
+meta_description: "What's the color of static analysis?"
 date: 2018-04-01
 categories: [static-analysis, testing, quality]
 ---

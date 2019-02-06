@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Onboard
+meta_description: "Onboard"
 permalink: /onboard/
 ---
 

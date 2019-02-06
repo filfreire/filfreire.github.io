@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Of masters and impostors"
+meta_description: "Of masters and impostors"
 date: 2018-08-22
 categories: [thoughts, craftsmanship, testing]
 image: /assets/images/2018/08/monsters_inc_mike.jpg

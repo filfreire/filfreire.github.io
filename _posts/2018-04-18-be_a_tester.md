@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "So you want to be a Tester?"
+meta_description: "So you want to be a Tester?"
 date: 2018-04-18
 categories: [career, testing, quality]
 ---

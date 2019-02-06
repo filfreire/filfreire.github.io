@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Adventure and reactionaries"
+meta_description: "Adventure and reactionaries"
 date: 2018-11-28
 categories: [testing, quality, adventure]
 image: /assets/images/2018/11/treasure_planet.jpg

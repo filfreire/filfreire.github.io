@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Asymmetric warfare, raids, and software testing"
+meta_description: "Asymmetric warfare, raids, and software testing"
 date: 2018-12-22
 categories: [Raid-ST, testing, quality]
 image: /assets/images/2018/12/cod4.jpg

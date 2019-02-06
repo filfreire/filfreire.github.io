@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why Opensource projects fail?"
+meta_description: "Why Opensource projects fail?"
 date: 2019-01-21
 categories: [opensource, development, quality]
 image: /assets/images/2019/01/jp3.jpg

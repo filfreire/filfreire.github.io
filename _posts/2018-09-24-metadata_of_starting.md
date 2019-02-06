@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Metadata of starting"
+meta_description: "Metadata of starting"
 date: 2018-09-24
 categories: [thoughts, craftsmanship, testing, quality]
 image: /assets/images/2018/09/toy-story-staff-meeting.jpg

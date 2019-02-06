@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Do testers dream of Wrestlemania?"
+meta_description: "Do testers dream of Wrestlemania?"
 date: 2018-11-12
 categories: [testing, wrestling, storytelling]
 image: /assets/images/2018/11/wrestlemania_22.jpg
