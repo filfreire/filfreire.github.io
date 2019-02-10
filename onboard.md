@@ -1,37 +1,45 @@
 ---
 layout: page
-title: Onboard
-meta_description: "Onboard"
+title: Onboarding tips (tools, books, ...)
+meta_description: "Onboarding tips (tools, books, ...)"
 permalink: /onboard/
 ---
+
+
+This page is more of a personal "map" for me to take note and revisit tools that I sometimes need to reinstall in new machines I use for work (both at home or in the workplace). It usually helps me quickly setup and prepare for new [monster projects](https://raid-software-testing.com/) when I'm in [Tester-Commando mode](https://raid-software-testing.com/).
+
+Feel free to have a look! Or also [suggest something new](https://github.com/filfreire/filfreire.github.io).
 
 ## "Tools"
 
 - bash ~~[ohmyzsh](https://github.com/robbyrussell/oh-my-zsh)~~ (I stopped using `ohmyzsh`, read more about it [here](/posts/ohmyslowzsh))
-- [shell (.zshrc) settings](https://github.com/filfreire/scripts/blob/master/dotrc) and [terminal color](https://github.com/filfreire/scripts/blob/master/spacegray_eighties_macOs.terminal)
+- [shell (.bashrc) settings](https://github.com/filfreire/scripts/blob/master/dotrc) and [terminal color](https://github.com/filfreire/scripts/blob/master/spacegray_eighties_macOs.terminal)
 - [homebrew](https://brew.sh/)
 - [postman](https://www.getpostman.com/), curl, wget and [httpie](https://httpie.org/)
 - vim (does it come by default?) and [vim settings](https://github.com/filfreire/scripts/blob/master/.vimrc) (also clone [scripts project](https://github.com/filfreire/scripts))
-- basic folder struct (personal, screenShots, work)
+- basic folder struct (personal, screenShots, work, books)
 - git and [ssh key generation](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
 - [sublime](https://www.sublimetext.com/) and [intellij](https://www.jetbrains.com/idea/)
 - keepass, [for Mac](https://www.keepassx.org/) and [for Windows](https://keepass.info/)
 - [maven 3](https://stackoverflow.com/questions/8826881/maven-install-on-mac-os-x) and [java 8](https://stackoverflow.com/questions/24342886/how-to-install-java-8-on-mac)
-- [lynx browser](https://lynx.browser.org/) and firefox
-- `teampapersnap`, evernote's `skitch` (for windows: `greenshot`)
+- [lynx browser](https://lynx.browser.org/) and [firefox](https://www.mozilla.org/pt-PT/firefox/new/)
+- [teampapersnap](https://teampaper.me/snap/), evernote's [skitch](https://evernote.com/intl/pt/products/skitch)
 - [audacity](https://www.audacityteam.org/), [obs studio](https://obsproject.com/), [vlc](https://www.videolan.org/vlc/), [gimp](https://www.gimp.org/downloads/)
-- [dBeaver](https://dbeaver.io/download/), kafka console tools
+- [dBeaver](https://dbeaver.io/download/), [kafka console tools](https://kafka.apache.org/quickstart)
 - [xmind free](https://www.xmind.net/download/xmind8/)
 - [exporter](https://itunes.apple.com/us/app/exporter/id1099120373?mt=12) and [dunkirk](https://github.com/filfreire/dunkirk)
 - [nvm](https://github.com/creationix/nvm), [bat](https://github.com/sharkdp/bat), [gawk](https://www.gnu.org/software/gawk/)
 - [virtualbox](https://www.virtualbox.org/)
 - [adb tools](https://stackoverflow.com/a/28208121/7468990)
 - charles, [desktop](https://www.charlesproxy.com/) and [iOS app](https://itunes.apple.com/us/app/charles-proxy/id1134218562)
+- [EvilCorp's Browser](https://www.google.com/chrome/)
 - [EvilCorp's Paid Hostageware/Ransomware communication tool](https://slack.com/)
 - [EvilCorp's Free Spyware communication tool](https://www.skype.com/en/)
-- **Useful ff/chrome extensions**: uBlock origin, https everywhere, [Open multiple urls](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh?hl=en), [ModHeader](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj)
-- [Sublime hack that solves all problems, works everytime](https://stackoverflow.com/a/45437984/7468990)
-- Usefull sublime packages:
+
+**Useful firefox/evil corp browser extensions**: [uBlock origin](https://github.com/gorhill/uBlock), [https everywhere](https://www.eff.org/https-everywhere), [Open multiple urls](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh?hl=en), [ModHeader](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj)
+
+
+**Sublime packages**:
 ```
 "Babel", "BlameHighlighter", "Color Highlighter", "Cucumber",
 "Cucumber Completion", "Cucumber Step Finder", "Dockerfile Syntax Highlighting",
@@ -40,6 +48,8 @@ permalink: /onboard/
 "Swift", "SyncedSideBar", "TrailingSpaces", "TypeScript", "TypeScript Syntax",
 "BracketHighlighter"
 ```
+- [Sublime hack that solves all problems, works everytime](https://stackoverflow.com/a/45437984/7468990)
+
 
 ## Interesting books I recommend:
 
