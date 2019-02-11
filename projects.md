@@ -11,6 +11,7 @@ I'm trying to contribute to OSS every day, projects I contributed in a way so fa
 
 - **[Raid Software Testing](https://raid-software-testing.com/)** - my work methodology for software testers in "monster" projects (read more [here](https://filfreire.com/posts/asymmetric_warfare)).
 - [@yegor256's Tacit](https://github.com/yegor256/tacit) a CSS framework (I'm heavily involved with this one, feel free to submit an Issue/PR).
+- [awesome-game-essays](https://github.com/filfreire/awesome-game-essays) - Thoughtful and noteworthy links to awesome videogame "essay" kind of content.
 - [Gamers and Testers](https://gamersandtesters.com/) - TBA project
 - [Moneeee](https://github.com/filfreire/Moneeee) - joke app to tell you how much you're making during a boring meeting ([filfreire.com/Moneeee](https://filfreire.com/Moneeee/)).
 - [hercule](https://github.com/filfreire/hercule) - a (somewhat aggressive) boilerplate starter project for a selenium based UI test framework.
