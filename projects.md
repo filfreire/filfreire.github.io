@@ -20,6 +20,8 @@ I'm trying to contribute to OSS every day, projects I contributed in a way so fa
 - [moving-from-pt](https://github.com/filfreire/moving-from-pt) - my notes and tips on moving away from Portugal.
 - [theOPOmarket](https://github.com/filfreire/theOPOmarket) - An opinionated down-to-earth take on Engineering "Job" Market of Porto, Portugal.
 - [anagram](https://github.com/filfreire/anagram) -  Two string checker for anagrams (with strict static analysis).
+- [slack-conflict](https://github.com/filfreire/slack-conflict) - A role-playing game for EvilCorp's Paid Hostageware/Ransomware communication tool.
+- [booltreejs](https://github.com/filfreire/booltreejs) - it's a Javascript library.
 - [@yegor256's Rultor](https://github.com/yegor256/rultor) a DevOps assistant.
 - Contributed translations for [OpenTomb](https://github.com/opentomb/OpenTomb) an open-source Tomb Raider 1-5 engine remake.
 - Some minor contributions to [ERDDAP](http://coastwatch.pfeg.noaa.gov/erddap/download/changes.html) data server for oceanographic data.
