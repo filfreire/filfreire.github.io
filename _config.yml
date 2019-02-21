@@ -4,3 +4,5 @@ theme: jekyll-theme-cayman
 permalink: /posts/:title
 baseurl: "/"
 url: "https://filfreire.com"
+plugins:
+  - jekyll-redirect-from

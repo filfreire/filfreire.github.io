@@ -3,6 +3,9 @@ layout: page
 title: Work and other stuff
 meta_description: "Work and other stuff"
 permalink: /work/
+redirect_from:
+  - /talks/
+  - /projects/
 ---
 
 ## Open-source
@@ -37,7 +40,7 @@ I'm trying to contribute to OSS every day, projects I contributed in a way so fa
 
 You can view the slides for most of my talks over at [speakerdeck (@filipe)](https://speakerdeck.com/filipe).
 
-- **Quality Foundations** - [Adidas Testing Days in Zaragoza](https://www.koliseo.com/jmsampayo/adidas-testing-day-2019-zaragoza-spain/r4p/5758267368144896/agenda#/5663515423539200), 6 February 2019 ([slides](https://speakerdeck.com/filipe/quality-foundations)) (video - coming soon)
+- **Quality Foundations** - [Adidas Testing Days in Zaragoza](https://www.koliseo.com/jmsampayo/adidas-testing-day-2019-zaragoza-spain/r4p/5758267368144896/agenda#/5663515423539200), 6 February 2019 ([slides](https://speakerdeck.com/filipe/quality-foundations)) ([video](https://youtu.be/POQJX-tRhIA))
 - **Open-source Quality Mindset** -  internal session at Adidas Engineering days, 24 October 2018
 - **Tacit CSS Framework** - internal session at Adidas Community of Practice, 4 October 2018 ([slides](https://speakerdeck.com/filipe/tacit-css-framework))
 - **"Quality from the start"** - [Helloworld Conf](https://helloworldconf.pt/) (15 February 2018) ([slides](https://speakerdeck.com/filipe/quality-from-the-start)) ([video](https://youtu.be/_Dal5reX1Sw))
