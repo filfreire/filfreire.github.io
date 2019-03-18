@@ -13,6 +13,7 @@ Feel free to have a look! Or also [suggest something new](https://github.com/fil
 ## "Tools"
 
 - bash ~~[ohmyzsh](https://github.com/robbyrussell/oh-my-zsh)~~ (I stopped using `ohmyzsh`, read more about it [here](/posts/ohmyslowzsh))
+- [useful bash cheatsheet of stuff I tend to forget](https://github.com/rstacruz/cheatsheets/blob/master/bash.md)
 - [shell (.bashrc) settings](https://github.com/filfreire/scripts/blob/master/dotrc) and [terminal color](https://github.com/filfreire/scripts/blob/master/spacegray_eighties_macOs.terminal)
 - [homebrew](https://brew.sh/)
 - [postman](https://www.getpostman.com/), curl, wget and [httpie](https://httpie.org/)
