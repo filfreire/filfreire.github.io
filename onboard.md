@@ -20,6 +20,7 @@ Feel free to have a look! Or also [suggest something new](https://github.com/fil
 - vim (does it come by default?) and [vim settings](https://github.com/filfreire/scripts/blob/master/.vimrc) (also clone [scripts project](https://github.com/filfreire/scripts))
 - basic folder struct (personal, screenShots, work, books)
 - git and [ssh key generation](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
+- [aws cli](https://aws.amazon.com/cli/)
 - [sublime](https://www.sublimetext.com/) and [intellij](https://www.jetbrains.com/idea/)
 - keepass, [for Mac](https://www.keepassx.org/) and [for Windows](https://keepass.info/)
 - [maven 3](https://stackoverflow.com/questions/8826881/maven-install-on-mac-os-x) and [java 8](https://stackoverflow.com/questions/24342886/how-to-install-java-8-on-mac)
