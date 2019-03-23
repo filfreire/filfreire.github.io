@@ -30,7 +30,7 @@ I semi-innocently recommended her taking the [RSTA](http://www.satisfice.com/rap
 
 But there was a dark side to my recommendation, a less innocent side.
 
-A sort of non-harmful but a bit malicious intention: I wanted to divert that person from wasting money on the "_Self-proclaimed United Nations of Testers_" certification"...
+A sort of non-harmful but a bit malicious intention: I wanted to divert that person from wasting money on the "_Self-proclaimed United Nations of Testers_" certification.
 
 So I added the following at the end of my recommendation: one gets a lot of “mileage” for each bit of money spent on those classes, like RST or BBST, in both the instruments the classes give you, as well as “certificates” you can add to Linkedin or the resume upon finishing the class.
 
