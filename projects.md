@@ -18,6 +18,7 @@ I'm trying to contribute to OSS every day, projects I contributed in a way so fa
 - [Gamers and Testers](https://gamersandtesters.com/) - TBA project
 - [Moneeee](https://github.com/filfreire/Moneeee) - joke app to tell you how much you're making during a boring meeting ([filfreire.com/Moneeee](https://filfreire.com/Moneeee/)).
 - [hercule](https://github.com/filfreire/hercule) - a (somewhat aggressive) boilerplate starter project for a selenium based UI test framework.
+- [tranquility-bdd](https://github.com/filfreire/tranquility-bdd) - a lightweight dependency/bloat-free alternative to serenity-rest-assured and serenity-core
 - [CommentCop](https://github.com/filfreire/CommentCop) - console app created for operations with Github comments.
 - [dunkirk](https://github.com/filfreire/dunkirk) - Export all your Apple iCloud Notes on macOS to text files.
 - [moving-from-pt](https://github.com/filfreire/moving-from-pt) - my notes and tips on moving away from Portugal.
