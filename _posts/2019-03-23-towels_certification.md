@@ -26,7 +26,7 @@ This saying will be the starting point of this post. Yes. I knew this moment wou
 
 Recently a colleague, Jenn, from a testing community, mentioned she was considering getting a software testing certification, followed with a pertinent and usual question: if anyone had a recommendation for which one (certification) to do or which one NOT to do?
 
-I semi-innocently recommended her taking the [RSTA](http://www.satisfice.com/rapidtestintensives.shtml) and [BBST](https://www.associationforsoftwaretesting.org/courses/) classes, mentioning that she'd get a "certificate" at the end. My underlying thought was: if someone is going to invest money on something like a "certification", and is asking for advice, that person might as well spend their money it on something I tried for myself, and invested, and could see the benefits afterward.
+I semi-innocently recommended her taking the [RSTA](http://www.satisfice.com/rapidtestintensives.shtml) and [BBST](https://www.associationforsoftwaretesting.org/courses/) classes, mentioning that she'd get a "certificate" at the end. My underlying thought was: if someone is going to invest money on something like a "certification", and is asking for advice, that person might as well spend their money on something I tried for myself, and invested, and could see the benefits afterward.
 
 But there was a dark side to my recommendation, a less innocent side.
 
