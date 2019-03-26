@@ -65,7 +65,7 @@ I laid down a few observations of my own experience, with bits of analogy. In th
 Taking something like the [Rapid Software Testing](http://rapid-software-testing.com/) training completely changed my life as a tester, woke me up as a professional, and gave me tools and ideas I actively use and supercharge my testing.
 I'm a better tester today than I was one year ago, and I noticed I learn and grow every day at a faster rate than before taking the training.
 
-And sure enough, there was a "certificate" at the end. It was more of am "I participated in this training" kind of paper, than a paper saying "I'm a certified tester".
+And sure enough, there was a "certificate" at the end. It was more of an "I participated in this training" kind of paper, than a paper saying "I'm a certified tester".
 
 To be honest, adding that sticker or not to the resume in my case, that I know of, hasn't really made a difference in recruitment stages I've been on. Typically "word of mouth" or showing that I care about the craft, that I care about learning, and that I want to evolve, indeed got me good chances of getting jobs where I wanted to have a job and not the shiny sticker.
 
