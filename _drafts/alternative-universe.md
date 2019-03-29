@@ -30,7 +30,7 @@ It's inception shouldn't go unnoticed to testers. [Yegor](https://yegor256.com) 
 
 I decided to try for myself, and look a bit into the possible impact it may have on the testing craft.
 
-## Experimenting
+## Experimenting with Zerocracy
 
 Here's what I did...
 
