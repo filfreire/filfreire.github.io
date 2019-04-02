@@ -68,11 +68,11 @@ Here we can let our imaginations flow. I personally think of a distopian scenari
 
 - Growth of the phenomena [Certification-fetiche](TODO) and the UN of Testers as the sole "voice of truth", with complete theory control of the industry;
 
-- Fading and merging of smaller independent and local testing communities under the umbrella of "happy/positive" communitys that might turn evil in the future (helping to promote bad testing teachings or spreading confusion/disinformation) - example, Ministry of Testing;
+- Fading and merging of smaller independent and local testing communities under the umbrella of "happy/positive" communitys that might turn evil in the future (helping to promote bad testing teachings or spreading confusion/disinformation) - example, Ministry of Testing turning completely evil and becoming basically a network of "Jedi Temples";
 
-- Big testing influencers being financed by testing sweatshops and tools-vendors;
+- Big testing influencers and individual consultants being financed by testing sweatshops and tools-vendors (this is happening right now in the industry);
 
-- Big independent testing communities being financed by testing sweatshops and tools-vendors;
+- Big independent testing communities being financed by testing sweatshops and tools-vendors (this is happening right now in the industry);
 
 - Testing conferences guided by agendas of specific Sweatshop companies or companies with strong links with umbrela testing comunites. Have your doubts? Do a something of a DDoS "attack/test" on registry and voting systems of any of current "Big" and "Major" testing conferences - you'll soon be getting private messages of CEOs of private companies that "own" the conferences.
 
