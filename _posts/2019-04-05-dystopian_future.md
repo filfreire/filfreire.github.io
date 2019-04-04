@@ -2,7 +2,7 @@
 layout: post
 title: "A dystopian testing future"
 meta_description: "A dystopian testing future"
-date: 2019-04-04
+date: 2019-04-05
 categories: [testing future, testing, sweatshops, rant]
 image: /assets/images/2019/04/tearsinrain.jpg
 caption: "Blade Runner, 1982"
