@@ -8,11 +8,11 @@ image: /assets/images/2019/04/tearsinrain.jpg
 caption: "Blade Runner, 1982"
 ---
 
-> Tip: There are multiple things that could turn the testing craft into a grim and dystopian reality. If after reading this "imaginative" post you find interesting, I recommend reading a more serious post made by James Bach and Michael Bolton, _[What could kill testing?](http://www.satisfice.com/blog/archives/5290)_
+> Tip: There are multiple things that could turn the testing craft into a grim and dystopian reality. I recommend also reading a post made by James Bach and Michael Bolton, _[What could kill testing?](http://www.satisfice.com/blog/archives/5290)_
 
-So I finally watched the original Blade Runner, and I was overwhelmed. I think it's a beautiful science fiction piece of work, and definitely one of my favorites movies from here on out.
+So I finally watched the original Blade Runner (I was one of those people who watched the "2049" one first), and I was overwhelmed. I think it's a beautiful science fiction piece of work, and definitely one of my favorites movies from here on out.
 
-The movie explores some narratives in a wonderful way and definitely leaves one wondering and reflecting. One of the things it left me thinking was about the steps that would lead to a society where corporate moguls reign, in particular, one of them, like the Tyrell Corporation, which gets to build an empire on genetically manipulated humanoid slaves (aka. replicants). Some part of it hit close to home to me for reasons I hope will be clear throughout this post.
+The movie explores some narratives in a wonderful way and definitely leaves one wondering and reflecting on them. One of the things it left me thinking was about the steps that would lead to a society where corporate moguls reign, in particular, one of them, like the Tyrell Corporation, which gets to build an empire on genetically manipulated humanoid slaves (aka. replicants). Some part of it hit close to home to me for reasons I hope will be clear throughout this post.
 
 First, let's start with a question:
 
@@ -67,7 +67,7 @@ From a (dumb) business (and testing-agnostic) standpoint, in theory, the end res
 
 But, as testers, we know that the outcome of this labor resource depends on multiple circumstances. And because it's vendor provided, as a company you skip the "dreaded" "problems of internal sourcing", cut some costs (which makes shareholders happy), and everybody's "happy in the end", in detriment or benefit of the project of course... the harsh reality of "subcontracting" is you did nothing but trade problems for other problems, a good deal of those problems unknown "unknowns" from start to finish.
 
-## Now imagine "Tyrell corporation" of testing
+## Now imagine a "Tyrell corporation" of testing
 
 How would we go from a pool of mostly evil-intended testing-as-a-service vendors (sweat-shops) (with some exceptions/outliers) to a future ruled by Tyrell corporation?
 
@@ -79,7 +79,7 @@ I don't have a perfect 1-liner answer for this, but, I personally think of a dys
 
 - Regular Companies (whose product is not for example selling headcounts), that might influence the testing market (for example, they employ key testers that are influencers in communities) slowly stop completely wanting to have the trouble of sourcing for their own testers, and become easy clients of testing sweatshops, again, because "internal sourcing/hiring" "is hard";
 
-- Continuous Growth and spread of the phenomena/fetich of certain [certifications](https://filfreire.com/posts/towels_certification) added with an increased global influence the "UN of Testers council of elders" as the sole "voice of truth" in testing, with complete theory control of the industry and a slow fading of the open-society model in the testing craft;
+- Continuous Growth and spread of the phenomena/fetish of certain [certifications](https://filfreire.com/posts/towels_certification) added with an increased global influence the "UN of Testers council of elders" as the sole "voice of truth" in testing, with complete theory control of the industry and a slow fading of the open-society model in the testing craft;
 
 - Fading and merging of smaller independent and local testing communities under the umbrella of "happy and inclusive and positive" communities, that might turn evil in the future (which in turn would promote bad testing teachings or spread confusion/disinformation) - example, imagine a future where umbrella groups like for example Ministry of Testing, at one point turn completely evil and become basically a big worldwide network of "Jedi-lies Temples".
 
