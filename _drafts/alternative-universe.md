@@ -10,7 +10,7 @@ caption: "Replace this, 2018"
 
 > Disclaimer:
 
-If you've read my [distopian testing future post](TODO), you could observe a short summary of my probably flawed/biased point of view of the industry.
+If you've read my [distopian testing future post](https://filfreire.com/posts/dystopian_future), you could observe a short summary of my probably flawed/biased point of view of the industry.
 
 But, I believe there's another thing that's appearing in the horizon, besides "testing-as-a-service" vendors and sweatshops that I'd like to talk about, and something that I think needs to be raised and discussed, say, before "good or bad things happen". Keep in mind the "labour resource" notion mentioned before.
 
