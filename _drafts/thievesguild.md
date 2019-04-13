@@ -8,9 +8,9 @@ image: /assets/images/jp_404.jpg
 caption: "Replace this, 2018"
 ---
 
-Recently a startup in my home country was accused by several people and a well established designer of plagiarism.
+Some time ago a startup in my home country was accused by several people and a seemingly well established designer of plagiarism.
 
-Like a reporter would tell you in a [pewnews](TODO) segment, "I'm not supposed to give my opinion on this but", if you look at the designs they use on their website: they indeed look like a mashup of the previous work of the accusing-designer. A few weeks after I even ran across another designer of which designs also looked different from the the initially plagiarised designer, but seems to me like yet another plagiarised victim by this company, with the difference that it wasn't caught "publicly".
+Like a Gloria Borger would tell you in a [PewNews](TODO) segment, "I'm not supposed to give my opinion on this but", if you look at the designs they use on their website: they indeed look like a mashup of the previous work of the accusing-designer. A few weeks after I even ran across another designer of which designs also looked different from the the initially plagiarised designer, but seems to me like yet another plagiarised victim by this company, with the difference that it wasn't caught "publicly".
 
 I'm not familiar with how the laws work in cases like this, but at one point the designer also mentioned a takedown notice would be happening soon. Furthermore, the company also did what many companies do (specially in my home country), and tried to deploy the old card of "We're sorry, BUT, we can explain, in fact we would love to explain, and have a call with you...", so they don't really show an apparent will to admit any wrong-doing anytime soon, which might make sense from a "corporate" point-of-view.
 

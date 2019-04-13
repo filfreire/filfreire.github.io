@@ -8,6 +8,8 @@ image: /assets/images/jp_404.jpg
 caption: "Replace this, 2018"
 ---
 
+summary: a bit about inatentional blindness with example about manipulating votes of faux-"independent" testing conferences
+
 jurassic park failure- predicted by ian malcolm due - they were not paying attention and purposely blind
 
 state of the world: if a simple chaotician can point to blindness in a fictional and complex system, more complex than most software we use, and if we can use tools fo  purposes other than original, how much more do testers play a part being on guard for this stuff - for stuff that tools and automated checks will most probably fail to scratch

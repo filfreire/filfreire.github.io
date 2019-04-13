@@ -21,7 +21,7 @@ TODO
 
 ## Testers in a project
 
-TODO 
+TODO
 
 ## The craftsman road
 
