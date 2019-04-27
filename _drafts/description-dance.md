@@ -3,34 +3,36 @@ layout: post
 title: "The description dance"
 meta_description: "The description dance"
 date: 2019-04-27
-categories: [draft]
-image: /assets/images/jp_404.jpg
-caption: "Replace this, 2018"
+categories: [industry, job market, job descriptions, recruitment]
+image: /assets/images/2019/04/poppins.jpg
+caption: "Mary Poppins, 1964"
 ---
 
 
-> Disclaimer: what follows is a set of disturbing personal observations and disturbing personal ideas. Reader discretion is advised. I guess.
+> Disclaimer: what follows is a set of disturbing personal observations and disturbing personal ideas. Reader discretion is advised... I guess.
 
 This past week I've been thinking about a subject that is dear to everyone in the Testing craft (and even in Development craft)... I sincerely think it's "dear" to all of us:
 
-- **Job descriptions**
+> Job descriptions
 
 Also known as the beginning steping stones of most of all adventurous roads towards a chance at working with that next utopian perfect company or project that we all day-dream about.
 
 
-## Why is it that every job description looks the same?
+### Why is it that every job description looks the same?
 
-All job descriptions have the same (or similar) "lorem ipsum" generated text.
+I'm sincerely lead to believe, based on personal experience, that almost all job descriptions have the same (or similar) "lorem ipsum" generated text.
 
-Speaking for example as a tester, I can at least confirm the following: Be it for a "QA Engineer", or a "QA something", they're all the same. They change a bit sometimes. Maybe the title is slightly different. Maybe in Company A they like programming language Y or W better and use automated checking libraries related to that. Maybe they use some weird flavour of NoSQL persistence solution for their projects. Maybe the application under test is some REST microservices built with some commercial famous and amazingly perfect framework that has it's own tens of thousands of extremist followers. Or maybe the application is built on some opensource state machine like library to process tons of messages asynchrounously. Maybe they want testers to use a generic but famous automated checking framework, that requires no lines of code and works by connecting pictures of funny cats instead, because they read it's cool on a 2011 advertisement in the form of a blog post in a famous website. Who knows for sure.
+Speaking for example as a tester, I can at least confirm the following: Be it for a "QA Engineer", or a "QA something", these descriptions they're all lengthy, they look the same and never seem to explain important and singular details.
+
+They change a bit sometimes. Maybe the title is slightly different. Maybe in Company A they like programming language Y or W better and use automated checking libraries related to that. Maybe they use some weird flavour of NoSQL persistence solution for their projects. Maybe the application under test is some REST microservices built with some commercial famous and amazingly perfect framework that has it's own tens of thousands of extremist followers. Or maybe the application is built on some opensource state machine like library to process tons of messages asynchrounously. Maybe they want testers to use a generic but famous automated checking framework, that requires no lines of code and works by connecting pictures of funny cats instead, because they read it's cool on a 2011 advertisement in the form of a blog post in a famous website. Who knows for sure.
 
 The point is - the descriptions, they all look the same. For startups. For massive companies. You get this felling that they're all a blob of homogeneous redigested and repurposed text.
 
-An homogeneous text that I as a potential candidate will consistently ignore and skim through, the same way sourcers will skim through my resume, and the same way a good adblocker will block "those blue-pill" ads.
+An homogeneous text that I as a potential candidate will consistently ignore and skim through, the same way IT sourcers will skim through my resume, and in the same quick and abrupt fashion a good adblocker will block "those blue-pill" ads.
 
-And I sincerely think, either I'm very dumb and the only person in the world that does this (which may be probable), or I'm just another one of the thousands of testers and developers who consistently do the same, though we're "afraid" to admit: we don't care.
+And I sincerely think, either I'm very dumb and the only person in the world that does this (which may be probable), or I'm just another one of the thousands of testers and developers who consistently do the same, though we're "afraid" to admit: **we don't care**.
 
-I'm going to try to express in a crude, down-to-heart, close to the heart way, what I think many of us, both the honest and the "dress-the-shirt" as well as the greedy and mercenary developers and testers think:
+I'm going to try to express in a more crude, down-to-heart, close to the heart way, what I think many of us, both the honest, the "dress-the-shirt", the greedy and also the mercenary developers and testers think:
 - We don't care if you're latest tech;
 - We don't care if you're young and dinamic or fast paced environment;
 - We don't care if you're sector leader;
@@ -46,7 +48,7 @@ Life is incredibly short for the most of us, the geeks who do most of the practi
 
 Most of us, the people who are the geeks, or the nerds, or the techies, or the n00bs, or the opressed, or even the privileged, to the core of our souls:
 - We might only just care about our craft;
-- We might only care if you will, on a practical level, treat us poorly given our differences with the "norm", be that on whatever level it may be, like skin color, life background, politics, religion, gender, etc;
+- We might only care if the employer will, on a practical level, treat us poorly given our differences with the "norm", be that on whatever level it may be, like skin color, life background, politics, religion, gender, etc;
 - We might only care about being happy to go through another day;
 - We might only care if you'll treat our mental and emotional and physical well-being poorly;
 - We might only care about doing what we love while avoiding office politics as much as we can;
@@ -56,11 +58,11 @@ Most of us, the people who are the geeks, or the nerds, or the techies, or the n
 
 Pssst, and we DEFINITELY care about money, more than we're most times willing to openly and publicly admit, at least to a point where we're mature and money is no longer the pressing "survival" issue in our lives.
 
-At the end of it all, it seems to me that a lot of recruiters or people in charge of recruiting or making job descriptions are missing these crucial points, by practicaly still bombarding us with the aforementioned job descriptions, and maintaining the trend.
+At the end of it all, it seems to me that a lot of recruiters or people in charge of recruiting or making job descriptions are missing these crucial points, by practicaly still bombarding us with the aforementioned dull job descriptions, and maintaining the trend for years.
 
-## If it's all the same, why do we still abide by it?
+### If it's all the same, why do we still abide by it?
 
-You want to know how we do it? How we tackle this part of the "job hunt" lifecycle?
+You want to know how we do it? How we currently tackle this part of the "job hunt" lifecycle?
 
 I believe, precisely measured with finger in the air, it goes a bit like this, for the most of us, for a part of our lives:
 
@@ -78,7 +80,7 @@ We don't read job descriptions. We open one up, then a few seconds later we open
 
 That's it. Those are the main things we do.
 
-Then if the company is "lucky", we will search if we can live with knowing the evil things the company does overall (where there massive layoffs in the past? Is the product the company is making made via evil means? Is the company taking a dump on humanity, for example, making privacy more dead? ...).
+Then if the company is "lucky", we will search a bit more, to understand if we can live with knowing the evil things the company does overall (Examples: have there been massive layoffs in the past? Is the software product the company is releasing made and coded via evil means? Is the company taking a dump on humanity, for example, making something like privacy more dead? ...).
 
 Optionally, we might search for Twitter or Linkedin profiles of "influencers" who seem to "keep-it-real", and who work or have worked in those companies, to see if we feel we identify with their personas.
 
@@ -89,7 +91,7 @@ But it doesn't mean we like or love the way all of this is processed. I feel we'
 - Humanity
 - Money (duhh!)
 
-## Simplicity
+### Simplicity
 
 Keep it simple. We don't want a 2 page job description that everyone seems to be using. And tell us the truth from the start - even if it's an ugly truth. Just three (3) small paragraphs would do for me:
 
@@ -101,7 +103,7 @@ Keep it simple. We don't want a 2 page job description that everyone seems to be
 
 Yes... but, do you really want to conceal the truth? Take into account that what you hide in the description - will only stay hidden in your "recruitment documentation and mind". You're setting a tone for the way truth is hold in the company, without even realizing it. Plus, people are already spilling out the ugly truths via any communication means to other people who you want to be hiring, it's a matter of time, so don't waste time, just be plain honest, and straight to the point.
 
-## Humanity
+### Humanity
 
 Job descriptions are a lot of times our (the candidates) "first" impressions. So besides keeping it simple - make it relatable.
 
@@ -115,7 +117,7 @@ You'd be surprised how much that humane factor, that first impression, would end
 
 That humane factor is, I believe, part of why we're firstly so much more attracted to the negative reviews about a potential future employer: as human beings we complain all the time about problems, it's one of the few things we can relate with each other the most, no matter the culture or any other differences, if people say something like "management is incompetent or sits in high towers" - we are more inclined to believe something like that as being closer to the crude truth and reality of that potential employer than tens of positive comments saying "it's awesome working here".
 
-## Money: don't waste anyone's time
+### Money: don't waste anyone's time
 
 Some companies are doing this already in some countries: Be up-front about "the money".
 
@@ -127,7 +129,7 @@ Put the salary ranges there on the description. Yes, right there. Don't be afrai
 
 Bear in mind we, geeks and techies and testers and developers: we can't buy food and clothes with pats on the back or some meta-sector-leadership words of order. Money is a key, if not the key, in our decision process to, for instance, send that "candidate form" over to you.
 
-## Wrapping up
+### Wrapping up
 
 Now, full disclosure: I'm not a "tech/it recruiter" .
 
