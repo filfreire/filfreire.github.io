@@ -32,6 +32,21 @@ In fact - teams where each know his role, and you have super-skilled "test-drive
 
 TODO
 
+## Patience, Pace and Pirates
+
+Patience, with a distinction - patience to go the first and the last mile when testing: something which is trained and requires a starving curiosity.
+
+/TODO
+
+Pace - trained to pursue each bit of uncertainty with skill
+
+/TODO
+
+
+Pirate - we need no permission or authorization - we sail free.
+
+/TODO
+
 ## Wrapping up
 
 Anybody can make unit checks. Good and skilled developers/software engineers make better unit checks than any "QA person", maybe.
