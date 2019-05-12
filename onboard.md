@@ -39,7 +39,7 @@ Feel free to have a look! Or also [suggest something new](https://github.com/fil
 - [EvilCorp's Paid Hostageware/Ransomware communication tool](https://slack.com/)
 - [EvilCorp's Free Spyware communication tool](https://www.skype.com/en/)
 
-**Useful firefox/evil corp browser extensions**: [uBlock origin](https://github.com/gorhill/uBlock), [https everywhere](https://www.eff.org/https-everywhere), [Open multiple urls](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh?hl=en), [ModHeader](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj)
+**Useful firefox/evil corp browser extensions**: [uBlock origin](https://github.com/gorhill/uBlock), [https everywhere](https://www.eff.org/https-everywhere), [Open multiple urls](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh?hl=en), [ModHeader](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj), [noscript](https://noscript.net/)
 
 - [deactivate annoying sound in "windows bash"](https://stackoverflow.com/a/39688603/7468990)
 
@@ -66,5 +66,6 @@ This is a list of books I enjoyed reading and would recommend to any fellow deve
 - Effective C++ by Scott Meyers ([Amazon](http://amzn.eu/2hIIjY3))
 - Code Ahead by Yegor Bugayenko ([Amazon](https://www.amazon.com/dp/1982063742))
 - Testing Computer Software by Cem Kaner et al. ([Amazon](https://www.amazon.com/dp/0471358460/))
+- Google's SRE book ([github](https://github.com/captn3m0/google-sre-ebook))
 
 Also check out my <a href="https://www.librarything.com/profile/filfreire">librarything</a> and <a href="https://www.goodreads.com/user/show/72814465-filipe-freire">goodreads</a> profiles.
