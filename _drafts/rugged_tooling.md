@@ -41,10 +41,9 @@ As for the volume of work of making execution of the check suite run as part of 
 
 ### Unmaintainable mess
 
-"Branches/Forks" don't convince. Working everyday with git, and being a programmer, I find Postman's offer of "Version control" and branching not trustworthy
-/TODO
+"Branches/Forks" feature provided by Postman don't convince me. As someone who is used to working everyday with git, making multiple commits and a couple of pull requests per day (not counting those I make per week outside of work) I find Postman's "pre-fabric" offer of "Version control" and branching for the collections not trustworthy. At the very least what is offered solely via the Client App. Having had postman break (discussed in a point bellow) - and needing to share collections with muliple developers as well as having running them within a private CI environment with no connection to the "outer-world" - makes me adopt a stance where I have to maintain "by hand" several postman collection and environemtn files in a private company git repository - and it's a lot repetitive work with not a lot of straightforward options to automate and make it easier.
 
-Own version control and Tons of files. Tons of files - sharing with developers is incredibly stressful - no matter how much I try to make the collections and environment easily importable and "out-of-the-box" working after import - every single time it always feels like sharing them results in constant tiny rocks inside my shoe.
+Another runner-up problem, the "works on my machine" situation: At one point I end up maintaining tons of files - some of them get deprecated quickly - and sharing with developers is incredibly stressful - no matter how much I try to make the collections and environment easily importable and "out-of-the-box working" after import - every single time it always feels like sharing them results in constant tiny rocks inside "my shoe" because it "works on my Postman" but not on my colleagues Postman.
 
 ### Slowness
 
