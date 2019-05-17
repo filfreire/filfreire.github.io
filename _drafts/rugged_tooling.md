@@ -1,45 +1,49 @@
 ---
 layout: post
-title: "(DRAFT) The need for rugged tooling"
-meta_description: "(DRAFT) The need for rugged tooling"
+title: "(DRAFT) Tool analysis - Postman"
+meta_description: "(DRAFT) Tool analysis - Postman"
 date: 2019-05-15
 categories: [draft]
 image: /assets/images/jp_404.jpg
 caption: "Replace this, 2018"
 ---
 
-As inspiration for this post - I remembered the electricians and cable technicians I've interacted with throughout life - they all had an inspiring organized tool set, every tool had a purpose, some tools where indeed expensive, but were solid and rugged, a it always seemed they were an trusthy extension of the person using them, who got something done way faster than anything on I could do by myself with my wannabe toolbox of cheap screwdrivers and such.
+> Disclaimer: As inspiration for this post - I remembered of a few sound engineers, electricians and cable technicians I've interacted with throughout life - they all had an inspiring organized tool set, every tool had a purpose, some tools where indeed expensive, but were likewise solid and rugged, and it always seemed they were an trusthy extension of the person using them, who got something done way faster than anything I could do by myself with my wannabe toolbox of cheap screwdrivers and such. For some it will seem like a cheezy analogy, but to me as a Tester who also does code, there's a certain charm with the kind of professionals who cultivate their knowledge, as well their tool usage techniques and their tool choices. Read on!
 
-I have this subconscious feeling that everyday there's a new "testing" tool being pushed on the market advertised as the killer tool, perfect, will solve all my problems.
+I have this subconscious feeling that everyday there's a new "testing" tool being pushed on the market advertised as the killer tool, perfect, will solve all my problems. But, this is not another post to add to the narrative that there is such a thing called "Automated Testing". You can automated checking, but you can't automate creative activities such as programming and experiencial testing.
 
-Accompanying the subconscious feeling of fancy software tools being regurgitated to the testing community every once in a while is also the dread I have with any new tool that is annouced: If I decide to use this tool, when will it expectedly start failing me? When will it betray me over some unexpected complex testing situation?  When is this tool gona break down on me? Is it simple? Will it always work for the purpose I intend to give it? ...
+Accompanying the subconscious feeling of fancy software tools being regurgitated to the testing community every once in a while is also the dread I have with any new tool that is annouced - If I decide to use this tool:
+- when will it expectedly start failing me (since it's usually only a matter of time)?
+- When will it betray me over some unexpected complex testing situation?
+- When is this tool gona break down on me? Is it simple? Will it always work for the purpose I intend to give it?
+- ...
 
+In the software testing craft, with my experience, I believe not a lot of tools respond positively to all these questions I posed before, but, picking one that has been my tool of use lately, I find **Postman** is not one of these "fancy new tools", in the sense it's established and seems to have a growing user base.
 
-In the software testing craft, with my experience, I believe not a lot of tools respond positively to these questions I posed before, but, picking one that has been my tool of use lately, I find Postman is not one of these "fancy new tools", in the sense it's established and seems to have a growing user base. A lot of people and a lot of companies use it, or have an opinion formed on it with substance and foundation. I quick search on twitter, for example, and I saw what seemed quite a few users to whom the tool seems really useful.
+A lot of people and a lot of companies use it, or have an opinion formed on it with substance and foundation. I quick search on twitter, for example, and I saw what seemed quite a few users to whom the tool seems really useful. What I've also found with time was that Postman, though became invaluable to me with it's usage, is far from being a silver bullet, and also is not exactly a tool I can actively "depend my life on" on the same way I depend on software like bash, git, vim or Sublime. What follows are my personal experiences (and frustrations) of using the Postman Free Native App, from a Coding Tester user's perspective.
 
-What I've also found with time was that Postman not a silver bullet, far from it, and also is not exactly a tool I can actively "depend my life on" on the same way I depend on software like bash, git, vim or Sublime.
+## Setup
 
-What follows are my personal experiences (and frustrations) of using the Postman Free Native App, from a Coding Tester user's perspective.
+So, let's start off, timewise, this post is about my experience using the app from 10 October 2018 up until 16 May 2018. I've used the app before and of couse I've been using after the last date mentioned here, but for the context of this post - I'll only talk about the issues I found of which I have some data about.
 
-I've used this app from 10 October 2018 up until 16 May 2018.
-I've used it consistently between these dates, and these are all the versions I had the chance to use, all of them pretty much updated around their release date: `6.4.2`, `6.4.4`, `6.5.2`, `6.5.3`, `6.6.1`, `6.6.1`, `6.7.1`, `6.7.2`, `6.7.3`, `6.7.4`, `7.0.4`, `7.0.6`, `7.0.7`, `7.0.9`, `7.1.0` and even `7.1.1-canary02`.
+I've used Postman consistently between these dates, and these are all the versions I had the chance to use, all of them pretty much updated around their release date: `6.4.2`, `6.4.4`, `6.5.2`, `6.5.3`, `6.6.1`, `6.6.1`, `6.7.1`, `6.7.2`, `6.7.3`, `6.7.4`, `7.0.4`, `7.0.6`, `7.0.7`, `7.0.9`, `7.1.0` and even `7.1.1-canary02`.
 
 Per working day I may have executed with the Postman client between 100 and 300 requests, depending on if it's "full-on" test sessions or if I'm doing setup and investigation taks, in which case I won't issue requests on Postman as much.
 
-This is also not taking into consideration the executions of the postman collections in a "Continuous Integration" fashion - via `newman` - I'll leave my experiences with it for a later post. You also won't find any review in this post with regards to the different paid solutions that exist for Postman - I'm oblivious to those.
+This is also not taking into consideration the executions of the postman collections in both locally with scripts or remotely in some "Continuous Integration" fashion - via `newman` - I'll leave my experiences with that for a later post. You also won't find any review in this post with regards to the different paid solutions that exist for Postman - I'm oblivious to those.
 
+## What I liked
 
-## The good part
-### beating Complexity and Time constraints
+### Beating Complexity and Time constraints
 
 > As a tester: Time spent testing is my most valuable time.
 
-The testing efforts I was able to achieve with the aid Postman, in opposition to maintaining a typical automated checking suite - I would consider - where of benefit for the context of the project I was inserted into:
+The testing efforts I was able to achieve with the aid of Postman, in opposition to maintaining a typical automated checking suite - I would consider - where of immense benefit for the context of the project and teams I was inserted into:
 
-- with the aid of Postman as a tool, I was finding 2-3 meaningful and important bugs, per day;
+- Since the beginning of the year, with the aid of Postman as a tool, I was finding 2-3 meaningful and important bugs, per day, and I've consistently never had a week without finding a bug;
 - the feedback loop with developers felt shorter than usual, between implementation and deployement time and experiencial testing stages;
 
-It felt shorter taking a "Postman" approach, than a more standard one that Coding Testers tend to follow (Aka. QA Engineers) - where we tend to lose ourselves developing the automated check suite. In a typical approach we tend to use some flavour of Gherkin and Cucumber library + a typical Programming Language + some Unit Test Libs + some REST libs, like Restassured. This approach takes tremendous amounts of time - valuable time which we're not spending experiencing and experimenting with the APIs and the services which we are supposed to be testing - and this is where using Postman gives a tactical advantage in projects where we're short on time or "releasing" and "pushing" on a weekly basis.
+It felt tremendously quicker taking a "Postman" approach, than a more standard one that Coding Testers tend to follow (Aka. QA Engineers) - where we tend to lose ourselves developing the automated check suite. In a typical approach we tend to use some flavour of Gherkin and Cucumber library + a typical Programming Language + some Unit Test Libs + some REST libs, like Restassured. This approach takes tremendous amounts of time - valuable time which we're not spending experiencing and experimenting with the APIs and the services which we are supposed to be testing - and this is where using Postman gives a tactical advantage in projects where we're short on time or "releasing" and "pushing" on a weekly basis.
 
 Because lately I'm usually dealing with what I call ["monster"](TODO) projects, where both the software being developed is complex and the delivery time-constraints are hardcore, I'm usually in "[Commando](TODO_RAID-ST_link)" mode most of my time - and it's invaluable for me and my team that I get to focus more on checking and testing activities - than code maintenance activities that come with making a framework.
 
@@ -48,8 +52,7 @@ As for the volume of work of making execution of the automated checks, in this c
 - dealing with issues when running it on the CI software;
 - updating and maintaining the "test" pipeline. A more indeep description of this setup I'll also leave for another post.
 
-## The "not so good" parts
-
+## What I didn't like
 
 ### Slowness
 
@@ -99,7 +102,6 @@ From a user experience perspective it was around the same time I was starting to
 
 Sadly there's also not a big chance of me sharing my "working" workspace - to help reproduce this, since there's tons of data that is private, and I can't share. Yet another thing maybe for the folks who develop Postman to explore and experiment to make the native app more reliable in what felt like "extreme" usage conditions.
 
-
 ### Lack of good text editting for request views
 
 I have and had the need during test sessions to edit multiple fields in, say, the JSON of a given request I'm working at any time.
@@ -108,21 +110,21 @@ And everyday it's the same story: I find myself copying and pasting from Postman
 
 So in this sense, I think the text editor part of requests in Postman could be a bit more powerful.
 
-
 ### Harsh editing of environment variables
 
 Similar to the previous point, the environment editing would benefit from a "bulk edit" view (similar to the one found in request's headers and parameters) where I can use a text editor to edit rapidly multiple environment variables.
 
-It's frustating to edit multiple environment variables in a quick way - having to click input element for every variable in order to make it active, edit the variable, and at the end click Update - and if for some rease you edit multiple variables and forget to click Update - all the harduous work is gone, you have to repeat again.
+It's frustating to edit multiple environment variables and there's no quick way to do it - I have instead to click on an input element for every single variable in order to make it active, edit the variable, and at the end click Update - and if for some rease you edit multiple variables and forget to click Update - all the harduous work is gone, you have to repeat again. So for example, a natural thing to do in the world of "continuous saves", clicking "Esc" on the keyboard while editing the environment will make you lose all your environment editing work that was in progress - which for me has been infuriating quite a few times.
 
 ### Search stopped working
-
 
 Around the last days of my described experience, with a latest verion of Postman, what seems like a critical bug to me, might have been introduced:
 
 > Request search feature near the Collection and History tab started displaying completely unrelated requests to my search query.
 
 Here are the links where you can find more about it: [github issue](https://github.com/postmanlabs/postman-app-support/issues/6524) and [twitter](https://twitter.com/filrfreire/status/1129066967590158336).
+
+On a positive note, the folks over at Postman seem to have notice, replied kindly, and seem to have done at least some catch up and follow up work with regards to the bug. Time will tell if it's something that will be finished or will go with the wind.
 
 ### Version control and sharing are shaddy
 
@@ -137,7 +139,6 @@ Having had postman break/freeze (discussed in a point above) - and needing to sh
 
 Another runner-up problem is the "works on my machine" situation: At one point I end up maintaining tons of collection and environemtn files - some of them get deprecated quickly - and sharing with developers is incredibly stressful - no matter how much I try to make the collections and environment easily importable and "out-of-the-box working" after import - every single time it always feels like sharing them results in constant tiny rocks inside "my shoe" because it "works on my Postman" but not on my colleagues Postman.
 
-
 ### Magical world of environment exporting is a pain
 
 This really, as Peter Griffin would put it, "grinds my gears": everytime I try to export my environments it's always a gamble.
@@ -149,8 +150,6 @@ Sometimes on the other hand I would like to export the file with the current val
 And not once, never, did I ever need to export the environment variables that are only "created" via pre-requests or tests - which get populated as Current values in the environment, and once exported - turn out as empty value variables in the exported json. Usefulness for these: zero. So why have them there?
 
 ### Conclusion
-
-
 
 Tools used in testing - should be TESTED - ruggedness, reliability, extreme usage, unexpected usage.
 
