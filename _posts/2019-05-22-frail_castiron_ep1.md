@@ -163,7 +163,7 @@ This really, as Peter Griffin would put it, "grinds my gears": every time I try 
 
 I feel the need to export the file with the initial values - and Postman provides. Sometimes, on the other hand, I would like to export the file with the current values - and Postman "doesn't care" and doesn't seem to provide an apparent or easy way for me to do this. And not once, never, did I ever need to export the environment variables that are only "created" via pre-requests or tests - which get populated as Current values in the environment, and once exported - turn out as empty value variables in the exported JSON. Usefulness for these: zero. So why have them there?
 
-### Conclusion
+## Conclusion
 
 As inspiration for this post - I remembered of a few sound engineers, electricians and cable technicians whom I've interacted with throughout life - they all had an inspiring organized toolset, every tool had a purpose, some tools where indeed expensive, but were likewise solid and rugged, and it always seemed they were an trusty extension of the person using them, who got something done way faster than anything I could do by myself with my wannabe toolbox of cheap screwdrivers and such. For some, it will seem like a cheesy analogy, but to me as a Tester who also does code, there's a certain charm with the kind of professionals who cultivate their knowledge, as well their tool usage techniques and their tool choices. So, as a wrap-up of this post, I'll underline one point:
 Tools that are used to aid testing efforts: should be **TESTED** to a great extent.
