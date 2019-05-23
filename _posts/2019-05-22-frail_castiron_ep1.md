@@ -10,7 +10,7 @@ caption: "Delta Force, 1986"
 
 > Disclaimer: This post is about my personal experience using a specific tool, [Postman](https://www.getpostman.com/). It's not a tutorial. It's not a paid or endorsed review. It's a recollection of my experiences, feelings, frustrations and a flawed portrait of my user experience with the tool, from a software tester point of view. That said, I should say, no matter how much I might sound negative at some points, I prefer to do so and stay true to myself as a tester, instead of making a blog post of shallow "praise and wonder". Read on!
 
-I have this subconscious feeling that every day there's a new "testing" tool being pushed on the market advertised as the killer tool, perfect, will solve all my problems. But, this is not another post to add to the narrative that there is such a thing called "Automated Testing". You can automated checking, but you can't automate creative activities such as programming and experiential testing.
+I have this subconscious feeling that every day there's a new "testing" tool being pushed on the market advertised as the killer tool, perfect, will solve all my problems. But, this is not another post to add to the narrative that there is such a thing called "Automated Testing". You can automate checking, but you can't automate creative activities such as programming and experiential testing.
 
 Accompanying the subconscious feeling of fancy software tools being regurgitated to the testing community every once in a while is also the dread I have with any new tool that is announced - If I decide to use this tool:
 - When will it expectedly start failing me (since it's usually only a matter of time)?
