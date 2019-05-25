@@ -24,7 +24,7 @@ A lot of people and a lot of companies use it or have an opinion formed on it wi
 
 ## Setup
 
-So, let's start off, timewise, this post is about my experience using the app from 10 October 2018 up until 16 May 2018. I've used the app before and of course I've been using after the last date mentioned here, but for the context of this post - I'll only talk about the issues I found of which I have some data about.
+So, let's start off, timewise, this post is about my experience using the app from 10 October 2018 up until 16 May 2019. I've used the app before and of course I've been using after the last date mentioned here, but for the context of this post - I'll only talk about the issues I found of which I have some data about.
 
 I've used Postman consistently between these dates, and these are all the versions I had the chance to use, all of them pretty much updated around their release date: `6.4.2`, `6.4.4`, `6.5.2`, `6.5.3`, `6.6.1`, `6.6.1`, `6.7.1`, `6.7.2`, `6.7.3`, `6.7.4`, `7.0.4`, `7.0.6`, `7.0.7`, `7.0.9`, `7.1.0` and even `7.1.1-canary02`.
 
