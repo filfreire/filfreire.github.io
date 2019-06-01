@@ -35,11 +35,13 @@ Feel free to have a look! Or also [suggest something new](https://github.com/fil
 - [virtualbox](https://www.virtualbox.org/)
 - [adb tools](https://stackoverflow.com/a/28208121/7468990)
 - charles, [desktop](https://www.charlesproxy.com/) and [iOS app](https://itunes.apple.com/us/app/charles-proxy/id1134218562)
-- [EvilCorp's Browser](https://www.google.com/chrome/)
-- [EvilCorp's Paid Hostageware/Ransomware communication tool](https://slack.com/)
-- [EvilCorp's Free Spyware communication tool](https://www.skype.com/en/)
+- [chrome](https://www.google.com/chrome/)
+- [slack](https://slack.com/)
+- [skype](https://www.skype.com/en/)
+- [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-with-homebrew-on-macos)
+- [kubetail](https://github.com/johanhaleby/kubetail)
 
-**Useful firefox/evil corp browser extensions**: [uBlock origin](https://github.com/gorhill/uBlock), [https everywhere](https://www.eff.org/https-everywhere), [Open multiple urls](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh?hl=en), [ModHeader](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj), [noscript](https://noscript.net/)
+**Useful browser extensions**: [uBlock origin](https://github.com/gorhill/uBlock), [https everywhere](https://www.eff.org/https-everywhere), [Open multiple urls](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh?hl=en), [ModHeader](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj), [noscript](https://noscript.net/)
 
 - [deactivate annoying sound in "windows bash"](https://stackoverflow.com/a/39688603/7468990)
 
