@@ -36,7 +36,7 @@ I'm trying to contribute to OSS every day, projects I contributed in a way so fa
 
 ### Upcoming talks
 
-- **Finding Tranquility** - co-presented with [Jorger Martínez](https://www.linkedin.com/in/jmromanos/) at Adidas Tech Summit, 27 June 2019
+- **Finding Tranquility** - co-presented with [Jorge Martínez](https://www.linkedin.com/in/jmromanos/) at Adidas Tech Summit, 27 June 2019
 - **Deep testing** - Adidas Tech Summit, 27 June 2019
 
 ### Past talks
