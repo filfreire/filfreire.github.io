@@ -12,6 +12,7 @@ redirect_from:
 
 I'm trying to contribute to OSS every day, projects I contributed in a way so far:
 
+- **[tranquility](https://tranquility-bdd.com/)** - a lightweight dependency/bloat-free alternative to serenity-rest-assured and serenity-core
 - **[Raid Software Testing](https://raid-software-testing.com/)** - my work methodology for software testers in "monster" projects (read more [here](https://filfreire.com/posts/asymmetric_warfare)).
 - [@yegor256's Tacit](https://github.com/yegor256/tacit) a CSS framework (I'm heavily involved with this one, feel free to submit an Issue/PR).
 - [awesome-game-essays](https://github.com/filfreire/awesome-game-essays) - Thoughtful and noteworthy links to awesome videogame "essay" kind of content.
@@ -35,7 +36,8 @@ I'm trying to contribute to OSS every day, projects I contributed in a way so fa
 
 ### Upcoming talks
 
-- TBA 2019
+- **Finding Tranquility** - co-presented with [Jorger Martínez](https://www.linkedin.com/in/jmromanos/) at Adidas Tech Summit, 27 June 2019
+- **Deep testing** - Adidas Tech Summit, 27 June 2019
 
 ### Past talks
 
