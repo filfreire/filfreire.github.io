@@ -36,13 +36,14 @@ I'm trying to contribute to OSS every day, projects I contributed in a way so fa
 
 ### Upcoming talks
 
-- **Finding Tranquility** - co-presented with [Jorge Martínez](https://www.linkedin.com/in/jmromanos/) at Adidas Tech Summit, 27 June 2019
-- **Deep testing** - Adidas Tech Summit, 27 June 2019
+- TBA 2019
 
 ### Past talks
 
 You can view the slides for most of my talks over at [speakerdeck (@filipe)](https://speakerdeck.com/filipe).
 
+- **Finding Tranquility** - co-presented with [Jorge Martínez](https://www.linkedin.com/in/jmromanos/) at Adidas Tech Summit, 27 June 2019 ([slides](https://speakerdeck.com/filipe/finding-tranquility))
+- **Deep testing** - Adidas Tech Summit, 27 June 2019 ([slides](https://speakerdeck.com/filipe/deep-testing))
 - **Quality Foundations** - [Adidas Testing Days in Zaragoza](https://www.koliseo.com/jmsampayo/adidas-testing-day-2019-zaragoza-spain/r4p/5758267368144896/agenda#/5663515423539200), 6 February 2019 ([slides](https://speakerdeck.com/filipe/quality-foundations)) ([video](https://youtu.be/POQJX-tRhIA))
 - **Open-source Quality Mindset** -  internal session at Adidas Engineering days, 24 October 2018
 - **Tacit CSS Framework** - internal session at Adidas Community of Practice, 4 October 2018 ([slides](https://speakerdeck.com/filipe/tacit-css-framework))
