@@ -36,12 +36,12 @@ I'm trying to contribute to OSS every day, projects I contributed in a way so fa
 
 ### Upcoming talks
 
-- TBA 2019
+- **Frail & Cast iron tools** - at [POST/CON 2019](https://www.getpostman.com/post-con-2019), 12 September 2019
 
 ### Past talks
 
 You can view the slides for most of my talks over at [speakerdeck (@filipe)](https://speakerdeck.com/filipe).
-
+- **Tranquility** - co-presented with [Jorge Martínez](https://www.linkedin.com/in/jmromanos/) at Adidas Community of Practice, 25 July 2019 (slides coming soon)
 - **Finding Tranquility** - co-presented with [Jorge Martínez](https://www.linkedin.com/in/jmromanos/) at Adidas Tech Summit, 27 June 2019 ([slides](https://speakerdeck.com/filipe/finding-tranquility))
 - **Deep testing** - Adidas Tech Summit, 27 June 2019 ([slides](https://speakerdeck.com/filipe/deep-testing))
 - **Quality Foundations** - [Adidas Testing Days in Zaragoza](https://www.koliseo.com/jmsampayo/adidas-testing-day-2019-zaragoza-spain/r4p/5758267368144896/agenda#/5663515423539200), 6 February 2019 ([slides](https://speakerdeck.com/filipe/quality-foundations)) ([video](https://youtu.be/POQJX-tRhIA))

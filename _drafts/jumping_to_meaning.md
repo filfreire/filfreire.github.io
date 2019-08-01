@@ -32,6 +32,14 @@ Following the clearest and "most important" user paths, forgetting that in the s
 
 Based my efforts on small event loads. Prepared for a number of times that small load, thinking it would shed some light on a bigger event. Ended up with dealing with a giant event - thinking that linerarity is still the case - problems follow. /TODO
 
+### 4) The rush and later disaster
+
+Sometimes we get distracted, we're eager to accept the results of automated checks (which are not a replacement for meaningful testing), we trust the results, code gets merged, only for us to minutes/hours later realised: it would have been a better idea to run some experiments and test properly some parts that the automated checks will never complain about. And we find ourselves in situations where we missed very apparent bugs had we taken a mindful perspective instead.
+
+### 5) The unseen blockades
+
+I've seen this happening time and time again: based on people's observations, beliefs are built that something is ready, because the Testers have been seemingly testing for quite a while, and the truth is that a lot of that time interval could have been spent doing other stuff while waiting for a build, or retesting and stumbling on issues.
+
 ## Meaning
 
 /quote Gerald Weinberg book "perfect software" / "secrets of consulting" /TODO
