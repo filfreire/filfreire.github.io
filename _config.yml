@@ -6,3 +6,4 @@ baseurl: "/"
 url: "https://filfreire.com"
 plugins:
   - jekyll-redirect-from
+  - jekyll-feed
