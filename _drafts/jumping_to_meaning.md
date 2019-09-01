@@ -40,9 +40,19 @@ This particular "Jump-to-meaning" ultimately leads to all involved (including Te
 
 ### 2) The unforseen function
 
-Following the clearest and "most important" user paths, forgetting that in the same context, any minimal user path could be an entryway for malicious usage, and is as important as the "largest-user-behaviour-fitting" paths, hence missed it during initial testing. /TODO
+This is one of my favorite existing ways to stumble: Following the clearest and "most important" user paths, forgetting that in the same context, any minimal user path could be an entryway for malicious usage, and is as important as the "largest-user-behaviour-fitting" paths, hence missed it during initial testing.
+
+For example: how many of us testers and developers all include login and then some internal model instancing/creation in our automated checks? It's something prevalent in any software project that has automated checks - we'll have quite a bit of checks for data "creation/insertion". What we might often miss is, no matter if that data creation is human facing or coming from a contract with another service - can we really trust the contract will be obeyed?
+
+Certainly for the normal automated checks to pass the contract will be obeyed. And maybe the boldest of us will put quite a lot of work into input validation. But what of the actively malicious usage attempts by a motivated attacker fixated on exploiting and attacking our system/service under test?
+
+Something as simple as considering that no one will sniff our application traffic and figure out the API calls we're doing, or no one will attempt API paths for data creation that we've only hidden by not documeting them or showing them - all of this is setting oneself up for being a victim of one's vulnerabilities. Speaking from personal experience, this still holds true in 2019 (and certainly beyond) - where in my free time I've found and reported things like a food service application for an entire european country that is exposing all their private user data, a continuous integration verification tool that is as protected from the outside as a potato is from a knife, and many other example,all exploitable long before the developers who create these can figure it out.
 
 ### 3) The unforseen load
+
+When preparing different kinds of performance tests we usually commit two distinct errors: we fail to estimate ("magic-ball predict") user behavior, and we fail to grasp the idea that linearity of "scale" is unlikely.
+
+/TODO
 
 Based my efforts on small event loads. Prepared for a number of times that small load, thinking it would shed some light on a bigger event. Ended up with dealing with a giant event - thinking that linerarity is still the case - problems follow. /TODO
 
