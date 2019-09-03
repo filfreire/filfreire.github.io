@@ -47,12 +47,12 @@ Feel free to have a look! Or also [suggest something new](https://github.com/fil
 
 **Sublime packages**:
 ```
-"Babel", "BlameHighlighter", "Color Highlighter", "Cucumber",
-"Cucumber Completion", "Cucumber Step Finder", "Dockerfile Syntax Highlighting",
-"Gherkin (Cucumber) Formatter", "Git", "Handlebars", "JsFormat", "JSHint",
-"LoremIpsum", "Package Control", "PackageResourceViewer", "Pretty JSON",
-"Swift", "SyncedSideBar", "TrailingSpaces", "TypeScript", "TypeScript Syntax",
-"BracketHighlighter"
+"Babel","BlameHighlighter","BracketHighlighter","Color Highlighter",
+"Cucumber Completion","Cucumber Step Finder","Cucumber","Dockerfile Syntax Highlighting","FileDiffs",
+"Gherkin (Cucumber) Formatter","Git","Handlebars","JsFormat","Kotlin",
+"LoremIpsum","Merge Windows","Multi Select Alphabetizer","Package Control",
+"PackageResourceViewer","RegReplace","SCSS","Sass",
+"Swift","SyncedSideBar","TrailingSpaces","TypeScript Syntax"
 ```
 - [Sublime hack that solves all problems, works everytime](https://stackoverflow.com/a/45437984/7468990)
 
