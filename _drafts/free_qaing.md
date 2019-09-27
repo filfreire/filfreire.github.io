@@ -15,14 +15,14 @@ The product leads that want testers, I would say, may be a step ahead already of
 But for you that are reading, that may or may not know this difference already, I'll commit the feat of trying to guess something which may or may not hold true for your case:
 - The tester you want does not exist. But the tester you need is out there.
 
-And yes, I can say this with as much confidence as any logical falacy: because I've "been there" so many times, and the ice cream flavor is always the same.
+And yes, I can say this with as much confidence as any logical falacy: because I've "been there" so many times, and the "ice cream flavor is always the same".
 
-Why? Because we're not out of the woods - software projects are getting more complex and big - and super hardcore TODO/time, bugs, risks, shame, limitations
+Why? Because we're not out of the woods - software projects are getting more complex, big, and rushed - and for the most part: super hardcore TODO/time, bugs, risks, shame, limitations
 
 
 /TODO
 
-## "What Women want"
+## "What *"Agile Scrum Delivery Product Owner Managers Inc."* want"
 
 Here's what most hardcore modern projects nowadays need on a high-level (assuming they may or may not already have craftsman developers that have a strong culture of "testing" their own stuff, coding away plenty of insightful automated checks, and providing a proper adventure for craftsman testers), a Tester that can:
 
@@ -47,7 +47,7 @@ Well for a mobile tester here's what I'd look, besides what is posted on the lis
 /TODO
 
 
-The tiny differences from mobile being that you’ll try to hunt in descriptions a bit more about things like: 
+The tiny differences from mobile being that you’ll try to hunt in descriptions a bit more about things like:
 - testing APIs (Postman, RestAssured, Rest based libraries);
 - testing web applications (and any of the typical programing languages plus check automation libraries);
 -  and in some cases, performance/load testing with resource to tools (jMeter, Locust, Taurus, Gatling, Siege, k6.io, …);

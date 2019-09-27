@@ -16,15 +16,28 @@ Nowadays the software industry is plagued with a set of very interesting (or nas
 - Complete perversion the role of a Tester, which is to hunt down for the information mentioned before, and not to act as a magical "gatekeeper of bugs";
 - Complete perversion of the role of someone responsible for quality assurance, which is, for the most part, to define multiple "keep everyone accountable/in check" processes, and not to act as a magical "assurer of quality";
 
+
+## Accepting stuff for face value
+
 All of these nasty problems often translate into sometimes we as Testers getting distracted: we're eager to accept the results of automated checks (which are not a replacement for meaningful testing), we trust the results, code gets merged, only for us to minutes/hours later realised: it would have been a better idea to run some experiments and test properly some parts that the automated checks will never complain about. And we find ourselves in situations where we missed very apparent bugs had we taken a mindful perspective instead.
+
+
+## "Here's the numbers"
 
 The same applies when Testers share abstract (and not very meaningful) results with folks in delivery/management positions, for example, about number of test cases passed, or number of portions of work that have been tested. The delivery folks are often in a rush, uphold any of these non meaningful numbers as a global truth and the Testers fail to pass the most crucial message:
 > "Guys, these numbers don't mean anything, in fact, we've been thinking, and these test cases only scratch the overall surface of what we have to test, we would like to test more deeply these specific experiment cases..."
 
+This is not straightforward to overcome. Quite a few non-testing people have a lot of obscure expectation management to do. And this is a problem for testers - because the same people that often resource to silly expectation management, might now be able to distinguish what would be meaningful or useful information about risks, problems and other topics, and wish for testers to own up or take responsibility for setting expectations in a fashion that does not suit the project - but suits some enthroned stakeholders with a lesser... common sense?
+
+
+## "But haven't you guys been testing all this time?"
+
 I've seen this happening time and time again: based on people's observations, beliefs are built that something is ready, because the Testers have been "seemingly" testing for quite a while, when in reality the build they need to test or the environment is not ready. The truth is that a big time interval could have been spent doing other stuff while waiting for a build, or retesting and stumbling on issues which don't allow one to cover more of the whole system they need to test.
 
-How to avoid this kind of stumble: testers own your stuff (to avoid saying a curse word).
+## How-to fix
 
-Own it to a point you can tell your *"Agile Scrum Delivery Product Owner Managers Inc."* to kindly take a hike when that person asks you to martyr-like own up to release decisions.
+How to avoid this kind of issues described above: testers own your stuff (stuff, to avoid saying a curse word).
 
-The sooner you as a tester own the risk, bug and problem information flow, and own the representation of that information, the better. Otherwise you'll lose yourself in a train of rushedness (which is normal in nowadays software projects), silly or obscure expectation management, and you'll have someone who doesn't know anything about testing, gently wispering to your ear, telling you how to convey evidence of your own work.
+Own it to a point you can tell your *"Agile Scrum Delivery Product Owner Managers Inc."* to kindly take a hike when that person asks you to martyr-like own up to release decisions, or provide numbers, green lights, emotional support, among other stuff.
+
+The sooner you as a tester own the risk, bug and problem information flow, and own the representation of that information, the better. It's one of the most crucial aspects of being a tester: owning the evidence of testing itself. Otherwise you'll lose yourself in a train of rushedness (which is normal in nowadays software projects), silly or obscure expectation management, and you'll have someone who doesn't know anything about testing, gently wispering to your ear, telling you how to convey evidence of your own work.
