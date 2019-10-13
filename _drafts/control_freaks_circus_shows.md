@@ -32,7 +32,7 @@ This is not straightforward to overcome. Quite a few non-testing people have a l
 
 ## "But haven't you guys been testing all this time?"
 
-I've seen this happening time and time again: based on people's observations, beliefs are built that something is ready, because the Testers have been "seemingly" testing for quite a while, when in reality the build they need to test or the environment is not ready. The truth is that a big time interval could have been spent doing other stuff while waiting for a build, or retesting and stumbling on issues which don't allow one to cover more of the whole system they need to test.
+I've seen this happening time and time again: based on people's observations, beliefs are built that something is ready, because the Testers have been "seemingly" testing for quite a while, when in reality the build they need to test or the environment are not ready. The truth is that a big time interval could have been spent doing other stuff while waiting for a build, or retesting and stumbling on issues which don't allow one to cover more of the whole system they need to test.
 
 ## How-to fix
 
