@@ -72,7 +72,7 @@ So my advice: instead of even trying to hire one of them internally, and get a "
 - see if there's any way you can, on the other hand, hire a decent/good tester, and then have that tester become an apprentice of an Extreme Tester. That way you may get all the good, without the flagellation of trying to find perfection.
 
 
-## When someone whats *something specific*
+## When someone wants *something specific*
 
 > "What I really want is a Mobile or AI/ML or 3D or videogames <insert-specific-context-here> kind of tester!"
 
