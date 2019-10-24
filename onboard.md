@@ -40,10 +40,13 @@ Feel free to have a look! Or also [suggest something new](https://github.com/fil
 - [skype](https://www.skype.com/en/)
 - [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-with-homebrew-on-macos)
 - [kubetail](https://github.com/johanhaleby/kubetail)
+- [recode](https://github.com/pinard/Recode) (to convert from html weird chars to ascii and vice-versa)
 
 **Useful browser extensions**: [uBlock origin](https://github.com/gorhill/uBlock), [https everywhere](https://www.eff.org/https-everywhere), [Open multiple urls](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh?hl=en), [ModHeader](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj), [noscript](https://noscript.net/)
 
 - [deactivate annoying sound in "windows bash"](https://stackoverflow.com/a/39688603/7468990)
+
+- [weird "command not found" on mac os terminal](https://superuser.com/questions/78245/how-to-disable-the-option-space-key-combination-for-non-breaking-spaces)
 
 **Sublime packages**:
 ```
