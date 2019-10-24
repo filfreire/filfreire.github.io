@@ -48,6 +48,8 @@ Feel free to have a look! Or also [suggest something new](https://github.com/fil
 
 - [weird "command not found" on mac os terminal](https://superuser.com/questions/78245/how-to-disable-the-option-space-key-combination-for-non-breaking-spaces)
 
+- [weird "failed to set locale" error on bash](https://stackoverflow.com/a/56743150/7468990)
+
 **Sublime packages**:
 ```
 "Babel","BlameHighlighter","BracketHighlighter","Color Highlighter",
