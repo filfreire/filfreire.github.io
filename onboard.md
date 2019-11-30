@@ -76,5 +76,8 @@ This is a list of books I enjoyed reading and would recommend to any fellow deve
 - Code Ahead by Yegor Bugayenko ([Amazon](https://www.amazon.com/dp/1982063742))
 - Testing Computer Software by Cem Kaner et al. ([Amazon](https://www.amazon.com/dp/0471358460/))
 - Google's SRE book ([github](https://github.com/captn3m0/google-sre-ebook))
+- Perfect Software and other illusions about testing by Gerald Weinberrg ([Amazon](https://www.amazon.com/dp/B004J4VVE2/))
+- Starship Troopers by Robert Heinlein ([Amazon](https://www.amazon.com/dp/0441783589/))
+- The Pentagon Wars by James Burton ([Amazon](https://www.amazon.com/dp/1612516009/))
 
 Also check out my <a href="https://www.librarything.com/profile/filfreire">librarything</a> and <a href="https://www.goodreads.com/user/show/72814465-filipe-freire">goodreads</a> profiles.
