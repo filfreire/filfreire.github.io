@@ -13,6 +13,16 @@ gem install bundle
 bundle install
 ```
 
+Make sure to have installed on your machine (bellow example for ubuntu):
+```
+ruby, make, gcc, g++, ruby-dev, zlib1g-dev
+```
+
+Could be necessary to also:
+```
+sudo gem install github-pages
+```
+
 ## How to run
 
 ```
