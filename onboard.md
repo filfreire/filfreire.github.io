@@ -50,6 +50,8 @@ Feel free to have a look! Or also [suggest something new](https://github.com/fil
 
 - [weird "failed to set locale" error on bash](https://stackoverflow.com/a/56743150/7468990)
 
+- [sublime on Windows Subsystem for linux](https://nickjanetakis.com/blog/using-wsl-and-mobaxterm-to-create-a-linux-dev-environment-on-windows)
+
 **Sublime packages**:
 ```
 "Babel","BlameHighlighter","BracketHighlighter","Color Highlighter",
