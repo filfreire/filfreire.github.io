@@ -16,12 +16,13 @@ Feel free to have a look! Or also [suggest something new](https://github.com/fil
 - [useful bash cheatsheet of stuff I tend to forget](https://github.com/rstacruz/cheatsheets/blob/master/bash.md)
 - [shell (.bashrc) settings](https://github.com/filfreire/scripts/blob/master/dotrc) and [terminal color](https://github.com/filfreire/scripts/blob/master/spacegray_eighties_macOs.terminal)
 - [homebrew](https://brew.sh/)
-- [postman](https://www.getpostman.com/), curl, wget and [httpie](https://httpie.org/)
+- [postman](https://www.getpostman.com/), curl, wget, [paw](https://paw.cloud/) and [httpie](https://httpie.org/)
 - vim (does it come by default?) and [vim settings](https://github.com/filfreire/scripts/blob/master/.vimrc) (also clone [scripts project](https://github.com/filfreire/scripts))
 - basic folder struct (personal, screenShots, work, books)
 - git and [ssh key generation](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
 - [aws cli](https://aws.amazon.com/cli/) - ([supporting multiple aws cli profiles](https://stackoverflow.com/a/34246053/7468990))
 - [sublime](https://www.sublimetext.com/)
+- [hipster version of sublime](https://code.visualstudio.com/)
 - [intellij community edition](https://www.jetbrains.com/idea/) and my [settings.jar](/assets/settings.jar)
 - keepass, [for Mac](https://www.keepassx.org/) and [for Windows](https://keepass.info/)
 - [maven 3](https://stackoverflow.com/questions/8826881/maven-install-on-mac-os-x) and [java 8](https://stackoverflow.com/questions/24342886/how-to-install-java-8-on-mac)
@@ -35,12 +36,14 @@ Feel free to have a look! Or also [suggest something new](https://github.com/fil
 - [virtualbox](https://www.virtualbox.org/)
 - [adb tools](https://stackoverflow.com/a/28208121/7468990)
 - charles, [desktop](https://www.charlesproxy.com/) and [iOS app](https://itunes.apple.com/us/app/charles-proxy/id1134218562)
-- [chrome](https://www.google.com/chrome/)
-- [slack](https://slack.com/)
-- [skype](https://www.skype.com/en/)
+- [evilcorp browser](https://www.google.com/chrome/)
+- [evilcorp ransomware message client](https://slack.com/)
+- [evilcorp spyware message client](https://www.skype.com/en/)
 - [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-with-homebrew-on-macos)
 - [kubetail](https://github.com/johanhaleby/kubetail)
 - [recode](https://github.com/pinard/Recode) (to convert from html weird chars to ascii and vice-versa)
+- [evernote](https://evernote.com/download/)
+- [calibre](https://calibre-ebook.com/)
 
 **Useful browser extensions**: [uBlock origin](https://github.com/gorhill/uBlock), [https everywhere](https://www.eff.org/https-everywhere), [Open multiple urls](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh?hl=en), [ModHeader](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj), [noscript](https://noscript.net/)
 
@@ -50,7 +53,11 @@ Feel free to have a look! Or also [suggest something new](https://github.com/fil
 
 - [weird "failed to set locale" error on bash](https://stackoverflow.com/a/56743150/7468990)
 
+- [multiple ssh private keys](https://stackoverflow.com/a/2419609)
+
 - [sublime on Windows Subsystem for linux](https://nickjanetakis.com/blog/using-wsl-and-mobaxterm-to-create-a-linux-dev-environment-on-windows)
+
+- [Sublime hack that solves all problems, works everytime](https://stackoverflow.com/a/45437984/7468990)
 
 **Sublime packages**:
 ```
@@ -61,7 +68,6 @@ Feel free to have a look! Or also [suggest something new](https://github.com/fil
 "PackageResourceViewer","RegReplace","SCSS","Sass",
 "Swift","SyncedSideBar","TrailingSpaces","TypeScript Syntax"
 ```
-- [Sublime hack that solves all problems, works everytime](https://stackoverflow.com/a/45437984/7468990)
 
 
 ## Interesting books I recommend:
