@@ -16,7 +16,7 @@ What? Are you serious? Impossible!
 
 Yes you've read it right. But this "evil" is not alone! It's usually so malicious of an evil that it poses an existencial problem for career testers: 
 
-> "my senior leadership (usually the boss of the boss of the ... of my boss) or even said "normal" users (most times on social media) are finding more bugs that supposedly I'm paid to find!"
+> "my Senior Leadership (usually the boss of the boss of the ... of my boss) or even said "normal" users (most times on social media) keep finding more bugs that supposedly I'm paid to find!"
 
 And then the Gorgons of the software world jump in and add to the mix: "You're paid to assure quality!" and then promptly turn you into stone.
 
