@@ -69,7 +69,7 @@ But, I can talk about what I've experienced first-hand in one story to elaborate
 
 #### My skepticism on implementation
 
-There's a couple of startups sprewing around selling the "idea" (and implementation) that they're developing "robots" with some capability of learning (in the shape of software as a service) that will go through your App or API and will signal inconsistencies, possible problems, and even predicts pain points, all in neat dashboards and well integrated with any typical.
+There's a couple of startups sprewing around selling the "idea" (and implementation) that they're developing "robots" with some capability of learning (in the shape of software as a service) that will go through your App or API and will signal inconsistencies, possible problems, and even predicts pain points, all in neat dashboards and well integrated with any typical continuous-integration pipeline.
 
 As Mr. MacMahon would say in character in a WWE show if he were a software person - _"We're developing this solution to finally replace those filthy and smelly humans and- *GASP!*_ (he gets suprise whipped by Steve Austin)"
 
