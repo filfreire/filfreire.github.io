@@ -115,7 +115,7 @@ I'm a portuguese, so I'm a [certified Towels salesperson, right](https://filfrei
 
 Let's say I'm also the founder of _International Jedi Council of Portuguese Towels_ (aka the _IJCPT_). We promote ~~sell~~ programes and certifications to validate other well respected and certified Towels salespeople like myself.
 
-So tomorrow I go about my business and announce to the world that the future for towels-selling is Towels that have a special fabric called _"s-moke"_. An where can people get training and certification? Well I'm happy to say that the _IJCPT_ is keeping up with these latest industry trends, and fear not, we can train ~~sell~~ any decent and concerned Towels salesperson preparation.
+So tomorrow I go about my business and announce to the world that the future for towels-selling is Towels that have a special fabric called _"s-moke"_. And where can people get training and certification? Well I'm happy to say that the _IJCPT_ is keeping up with these latest industry trends, and fear not, we can train ~~sell~~ any decent and concerned Towels salesperson preparation.
 
 There's a slight problem with the IJCPT... you see, we have a whole structure, a bit like one of those genuine-honest-to-god-not-a-pyramid-scheme multi-level marketing institutions that are around? You know those? But hey, you can trust me.
 
