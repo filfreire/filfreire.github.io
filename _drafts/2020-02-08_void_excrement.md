@@ -107,7 +107,7 @@ If it's by chance, it's probably an unfortunate one that we read throughout the 
 > (...) there needs to be a greater definition and integration of the training solutions for testing professionals (...)
 > (...) professionals shall need to embrace the new methodologies and technologies (...)
 
-And let's think for a moment... who are the self-proclaimed responsible entities that we know about that by mere causality... are the de-facto go-to "industry nice-guy/nice-gal" that sells, "validates" and "certifies" training solutions and professional?
+And let's think for a moment... who are the self-proclaimed responsible entities that we know about that by mere causality... are the de-facto go-to "industry nice-guy/nice-gal" that sells, "validates" and "certifies" training solutions for professionals?
 
 I'm not trying to imply anything, but let's take this to an imaginary scenario...
 
