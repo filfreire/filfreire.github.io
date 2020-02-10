@@ -65,7 +65,7 @@ I admit there's bound to be software now and in the future that can mimic certai
 To be honest, also I'm not prepared to go into all the ethics and existential issues that surround many of these topics. I have zero desire to trash the past and ongoing work of people who are dedicating their lives towards investigation in artificial intelligence, machine learning, or its several brain-children like deep learning, and networks and specific algorithms.
 
 
-But, I can talk about what I've experienced first-hand in one story to elaborate on my skepticism on any "intelligence" ~~sales-pitches~  arguments.
+But, I can talk about what I've experienced first-hand in one story to elaborate on my skepticism on any "intelligence" ~~sales-pitches~~ arguments.
 
 #### My skepticism on implementation
 
