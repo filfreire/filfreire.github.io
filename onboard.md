@@ -54,6 +54,8 @@ Feel free to have a look! Or also [suggest something new](https://github.com/fil
 
 - [weird "failed to set locale" error on bash](https://stackoverflow.com/a/56743150/7468990)
 
+- [get rid of useless macos screenshot preview](https://www.macobserver.com/tips/quick-tip/macos-mojave-screenshot/)
+
 - [multiple ssh private keys](https://stackoverflow.com/a/2419609)
 
 - [sublime on Windows Subsystem for linux](https://nickjanetakis.com/blog/using-wsl-and-mobaxterm-to-create-a-linux-dev-environment-on-windows)
