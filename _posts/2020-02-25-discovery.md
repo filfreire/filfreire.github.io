@@ -95,7 +95,7 @@ to sell "air in a jar" software, directly mocking Testers, that I can't stand.
 
 I invest some of my free time hacking away at any piece of software I can get my hands on. One of those sessions last year was spent hacking away at one of these fancy "Automated AI Testing" services. After some time tinkering around I was able to notice it didn't actually do anything as advertised, and their entire Admin API was badly protected, so any attacker was also able to create accounts with admin permissions, spam the service with crap data and do a couple more mischevious stuff. Suffice it to say:
 - No, it didn't seem to work as advertised, it didn't replace me as a Tester, and it didn't even replace the most clumsy opensource static analysis or code quality tool out there;
-- If any of my past, current or future employers would ever upload a build artifact for that service, I would be the first one to warn that any script kiddies will be the first get their hands at anything sitting in storage on that service.
+- If any of my past, current or future employers would ever upload a build artifact for that service, I would be the first one to warn that any script kiddies will be the first to get their hands at anything sitting in storage on that service.
 
 As an extra point, and none of these companies will probably do this in the next 10 or more years, if there's a service that advertisedly "tests" my build artifacts, the only feasible way I see of remotely adopting this as a __helper__ stage in my CI pipelines is if I have full open access to what exactly that service does, and the "if-else" chains in the scripts it's made of (advertised as AI). And by open access, I mean also opensource access to its code. Why? Two reasons:
 
