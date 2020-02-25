@@ -56,7 +56,7 @@ The above ends up being paced alongside their counterpart: individuals and small
 - No, agile testing is not really a thing. You have testing and its surrounding context where it's inserted;
 - No, manual testing is not really a thing, the same way it doesn't make sense to say manual thinking, manual questioning, ...;
 - No, we can't get along. We can still be friends outside of work, even lovers, but we need to have some level of critical distance to hunt down certain bugs and problems;
-- No, I can't QA that for you. You wan't me to TEST it? Did anyone tell you yet the [meaning of Quality Assurance](https://www.youtube.com/watch?v=jwDOPJyjLLA)?
+- No, I can't QA that for you. You want me to TEST it? Did anyone tell you yet the [meaning of Quality Assurance](https://www.youtube.com/watch?v=jwDOPJyjLLA)?
 - ...
 
 And there's always these two sides, who both offend and feel offended, invested in a strugle between
