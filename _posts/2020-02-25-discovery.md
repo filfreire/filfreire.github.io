@@ -41,7 +41,7 @@ It's undeniable that, from a "buzz-word" standpoint, indeed Software Testing see
 
 The horse dropping part of it all comes when you confront the "buzz-word" with different abstractions of the whole actual Testing phenomenon, and in its truest raw form:
 
-__Testing is undeniably humane.__
+__Testing is undeniably human.__
 
 There's simply no way around it. Reducing Testing to logical assertions written in a programming language, or mixing that with some "intelligence" (aka. some "dumb" machine learning model), is indeed a faulty approximation of Testing as a whole, that comprises: investigating, exploring, purposeful play, dealing with confusion, risks, problem hunting, communicating, representing, and yes, also logical checking.
 
