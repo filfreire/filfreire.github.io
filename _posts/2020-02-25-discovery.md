@@ -101,7 +101,7 @@ As an extra point, and none of these companies will probably do this in the next
 
 __1. Evidence of testing & Test Reporting.__
 
-It's as simple as this: as a Tester or a Test Manager I expect myself or any of my Testers to produce and convey evidence of their Testing. I want to understand at any stage in a clear and humane way:
+It's as simple as this: as a Tester or a Test Manager I expect myself or any of my Testers to produce and convey evidence of their Testing. I want to understand at any stage in a clear and human way:
 - what was tested,
 - how was it tested,
 - what was left out,
@@ -161,7 +161,7 @@ _"People don't forget, nothing gets forgiven"_ would a character say in RDR game
 
 We unconsciously post our inner lives online, fly on planes, install security devices in our homes, drive to work, order food online, check our savings in a half second, invest in Tesla stocks with a tap of our fingers, and later on we will get automatically transfered our retirement money every month. Each of these things and so many more of them are built by imperfect humans, tested by imperfect humans (when and if they ever get meaningfully and decently tested), and sometimes, sure enough, kill imperfect humans. And I'm afraid, because we don't have to go very far off into the future, the present times prove to us that to make an "inteligent automated software testing" soup, or "half-assed certified" testing efforts, and think it'll remotely replace a craftsman and imperfect tester, is an entry way for more and more embarassing bugs, which will potentially lead to the demise of many fellow humans. And the first responsible wont be the tester or the developer who either missed finding the bug, or inadvertedly coded the bug. Neither will it be the greedy business man standing behind them.
 
-__The first people responsible are the educators__ and in the limit, the "certifiers". You may never be convinced that Testing is humane to its core and instead paint it over with terrible bad jokes of science fiction (unworthy of the less good P. Dick or R. Heinlein novels), but keep in mind there are always consequences, positive and negative, in educating about Testing, whatever your angle is.
+__The first people responsible are the educators__ and in the limit, the "certifiers". You may never be convinced that Testing is human to its core and instead paint it over with terrible bad jokes of science fiction (unworthy of the less good P. Dick or R. Heinlein novels), but keep in mind there are always consequences, positive and negative, in educating about Testing, whatever your angle is.
 
 As educators, never forget that if we live, breath and mostly make a profit of "defined and integrated training solutions and certifications", for our fellow imperfect humans, nothing will ever clear any blood we may gather on our hands through time.
 
