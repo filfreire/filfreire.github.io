@@ -8,6 +8,8 @@ image: /assets/images/2020/02/2049.jpg
 caption: "\"Blade Runner 2049\", 2017"
 ---
 
+> **UPDATE:**This blog post was also published on [Tea-Time with Testers's April 2020 magazine](https://www.teatimewithtesters.com/).
+
 Someone over at _self-proclaimed united nations of testers_, also known as _International Software Testing Qualifications Board (ISTQB)_ published recently a letter (a white paper really) of what I assume is the result of having a fever dream after having watched Blade Runner 2049. Something tells me they probably were left thinking that the _Wallace Corporation_ is the hero of the story (For those who've never watched that movie, a similar analogy is believing the iceberg was the lead hero of the Titanic movie).
 
 Jokes aside, my belief is that what the white paper means for the industry and the testing professionals __should not go unchecked__. You can read the full thing [here](https://www.istqb.org/documents/ISTQB_The_Vision_on_the_Future_of_Software_Testing_Final.pdf).

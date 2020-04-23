@@ -61,6 +61,8 @@ You can view the slides for most of my talks over at [speakerdeck (@filipe)](htt
 ## Random stuff
 
 - **Usual setup/onboard list can be found [here](/onboard)**.
+- My *[Self proclaimed UN of Testers latest discovery
+](https://filfreire.com/posts/discovery)* blog post was published also on [Tea-Time with Testers's April 2020 magazine](https://www.teatimewithtesters.com/).
 - I was a reviewer for Yegor Bugayenko's Software Quality Award [2017](http://www.yegor256.com/2016/10/23/award-2017.html) and [2018](https://www.yegor256.com/2017/10/24/award-2018.html) editions.
 - I was a reviewer of Yegor Bugayenko's [Code Ahead](https://www.codeahead.org/) and Jonathan Wexler's [Get Programming With NodeJS](https://www.manning.com/books/get-programming-with-node-js).
 - I was an active member of the organizers of [Porto Testers Meetup](https://portotestersmeetup.github.io) during 2017-2018.
