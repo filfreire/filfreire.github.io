@@ -48,7 +48,3 @@ My guest for this post is [Paul Farrell](https://www.linkedin.com/in/faz540/). I
 ### 8. What advice would you give to someone to who wants to join the Testing craft in the videogames industry?
 
 /TODO
-
-### 9. What would you say has roughly changed (or may have changed) in the 6 years
-
-/TODO
