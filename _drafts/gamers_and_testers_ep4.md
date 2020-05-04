@@ -10,14 +10,14 @@ caption: "Killzone Shadow Fall, 2013"
 
 Hello there! This is the fourth post of my "[Gamers and Testers](https://gamersandtesters.com/)" series. In these posts I ask a guest a series of usual (and unusual) questions about their experience of being involved with software testing in the videogames industry.
 
-My guest for this post is [Paul Farrell](https://www.linkedin.com/in/faz540/). I was fortunate to meet Paul for the first time at POST/CON 2019 (you can watch the talk he gave there [on Youtube](https://www.youtube.com/watch?v=lmGrMA4I5CI)), and to my amazement, Paul, currently working as a Test Lead over at [Gear4Music](https://www.gear4music.com/), had worked before as a Software Tester at [PlayStation](https://www.playstation.com/). There, he had the chance to test hit titles like [Killzone: Shadow Fall](https://en.wikipedia.org/wiki/Killzone_Shadow_Fall) and [LittleBigPlanet 3](https://en.wikipedia.org/wiki/LittleBigPlanet_3), among many other titles for the PS3, PS4 and PS Vita.
+My guest for this post is [Paul Farrell](https://www.linkedin.com/in/faz540/). I was fortunate to meet Paul for the first time at POST/CON 2019 (you can watch the talk he gave there [on Youtube](https://www.youtube.com/watch?v=lmGrMA4I5CI)), and to my amazement, Paul, currently working as Lead Test Automation Engineer over at [Gear4Music](https://www.gear4music.com/), had worked before as a Software Tester at [PlayStation](https://www.playstation.com/). There, he had the chance to test hit titles like [Killzone: Shadow Fall](https://en.wikipedia.org/wiki/Killzone_Shadow_Fall) and [LittleBigPlanet 3](https://en.wikipedia.org/wiki/LittleBigPlanet_3), among many other titles for the PS3, PS4 and PS Vita.
 
 ### 1. I remember fondly playing every single game of the Killzone Series, and always being at awe with all the craft that went into those games. What is THE game that, through the craftsmanship put into it, made you consider at one point joining the games industry?
 
 > I don't think there was a specific game I played that made me go "I want to work in the games industry". Gaming has been a part of my life since I got a Sega Mega Drive when I was 4 or 5 years old.
-
+>
 > I did dabble with making games when I was a teenager using [RPG Maker 2000 and 2003](https://en.wikipedia.org/wiki/RPG_Maker). But the games I tried to make were incredibly generic and cringe-worthy. I remember getting really frustrated because I didn't understand basic programming concepts that were used in the engine such as, variables and conditions.
-
+>
 > I can also pinpoint a specific scene in gaming that made me think "This is more than a game, this is a piece of art!"
 > That would be a scene in [Final Fantasy X](https://en.wikipedia.org/wiki/Final_Fantasy_X) for the Playstation 2, where the main character is leaving a village called Besaid to start his journey. There's a point where the character runs across a bridge and there's a waterfall in the background. I'm assuming this is a forgettable part of the game for others, but I remember being completely blown away by how good that game looked.
 > I played the remaster of Final Fantasy X a few years ago and I smiled like a little kid once I reached that point in the game - incredible.
