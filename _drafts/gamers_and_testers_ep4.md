@@ -76,12 +76,10 @@ Games can now be released unfinished and someone can make a decision to add a fi
 > A recent game that comes to my mind would be [WWE 2k20](https://en.wikipedia.org/wiki/WWE_2K20) as that game was [infamously released last year with major bugs](https://www.kotaku.co.uk/2020/01/01/due-to-a-y2k-like-bug-wwe-2k20-is-almost-unplayable-in-2020). But with the introduction of patches, bug fixes and new content were added after its launch and are still being added today.
 > This sucks for players with poor/no internet as they may never get the best experience the studio intended them to have.
 However, if that game was released on the original Playstation, the infamous bug that crashed WWE 2k20 after the 31st December 2019 wouldn't have been fixed. The studio would have to fix the bug and send out a new copy of the game to each person that owns it.
-> <figure><img src="/assets/images/2020/05/wwe.gif"></figure>
 >
 > I imagine the biggest change for game testers right now is Virtual Reality. To me, that's a whole new world of testing!
 
-
-
+<figure><img src="/assets/images/2020/05/wwe.gif"></figure>
 
 ### 8. What advice would you give to someone who wants to join the Testing craft in the videogames industry?
 
