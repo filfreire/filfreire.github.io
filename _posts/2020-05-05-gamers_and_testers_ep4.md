@@ -2,7 +2,7 @@
 layout: post
 title: "Gamers and Testers - Episode 4"
 meta_description: "Gamers and Testers - Episode 4"
-date: 2020-05-04
+date: 2020-05-05
 categories: [career, testing, quality, interview]
 image: /assets/images/2020/05/ff10.jpg
 caption: "Final Fantasy X, 2001"
