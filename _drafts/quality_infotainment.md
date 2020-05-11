@@ -65,7 +65,7 @@ The hard part of the above tests is that they are very hardcore depending on how
 Other people won't find the tests so funny. They will oftentimes find them pure blasphemy, overly sarcastic, like a bad joke towards their reality. Like a self induced punch in the stomach. "We've been lied too this whole time?! I'll ignore what you're saying!". I don't blame anyone for doing just that. We've all been usually dealt a bad set of cards, here's why:
 
 - The "default" of the industry, and the road most travelled by many of the giants (who oftentimes [don't follow what they advertise](https://www.jeremiahlee.com/posts/failed-squad-goals/)) is strongly motivated to produce content similar to all of the above tests, in line with having quality infotainment reigning over meaningul testing and actual solutions to testing (and quality) problems;
-- Entertainment sells. We're encouraged make the hasty generalizations because the more "qa infotainment" content we produce, even if it doesn't help to to solve problems, any assumptions and generalizations we make through the same infotainment help us appease stakeholders and distract them temporarily;
+- Entertainment sells. We're encouraged make the hasty generalizations because the more "qa infotainment" content we produce, the merrier, even if it doesn't help solving problems, any assumptions and generalizations we make through the same infotainment help us appease stakeholders and distract them temporarily;
 - The outliers, successful as they might be, go in direct opposition to the road most travelled, in parallel with the tech industry living and breathing for the falacy of _"appealing to authority"_: "if Google does it... if Amazon does it... if some departement in our company does it... if its an industry (or company internal) standard"... [and the beat goes on](https://www.youtube.com/watch?v=fOaxEa5ONJw);
 - The falacy of sunk cost is a nasty b%$&@: "the company/project/team has initially invested so much in this road, we might as well see it throught to the end". Our heart's big desire is to get that sense of accomplishment - "We've sunk all our energy in these initiatives, we're gonna ignore any opposition, and run them to the end".
 
@@ -83,14 +83,21 @@ So coming back to what I can actually share, there's at least two approaches I c
 1) You can ignore that the evil exists.
 2) Do something about the evil existence, and cut the evil by it's root.
 
-
 ### First, "Ignorance is ultimate happiness"
 
-Me and some of my friends realised, a bit too late, that no matter how much we'd try, some folks are just better off ignoring their infotainment problem. Their projects will go on. People will come and go. Old infotainment will be replaced with new infotainment. "Crusades" will be employed in the name of "Holy assurance of Quality".  Crude and raw Testing problems will remain unchanged. Sometimes hundreds of thousands in revenue will be lost overnight. Fingers will be pointed. Sources of problems will endure. And still, the projects will probably remain fairly successful, or not, because there's always bound to be some people inside that still care and still solve some problems, that have no interest or gain in indirect sabotage, who are stuck forever in battles of attrition, until they quit to embrace new (or the same) challenges.
+Me and some of my friends realised, a bit too late, that no matter how much we'd try, some folks are just better off ignoring their infotainment problem. Their projects will go on. People will come and go. Old infotainment will be replaced with new infotainment. "Crusades" will be employed in the name of "Holy assurance of Quality".
 
-__To be fair though:__ If the project is financially successful despite being riddled with quality infotainment, we're really not the ones to judge or to impose something else. We'd be hypocrites to do so. Are people happy? Good! The only thing that we can do, in these cases is, if it matters, try to lead by example: show that there's another way, a better way, a harder but simpler way... and hope that that will ring a bell with someone in the organization who has a titanium forehead and a big pair of balls of steel in their desk. Here's a fictional example: you're in a couple of projects that you help to turn into an undeniable success, with near zero resource to quality infotainment, and a sharp direction towards meaningful testing efforts - that's something that other projects can only forcefully ignore, maybe through stubborness, which is perfectly fine and some what respectable if they're successful in their own way. Like my dad says: Sometimes you have to let people bang their head on the wall.
+Crude and raw Testing problems will remain unchanged. Sometimes hundreds of thousands in revenue will be lost overnight. Fingers will be pointed. Sources of problems will endure. And still, the projects will probably remain fairly successful, or not, because there's always bound to be some people inside that still care and still solve some problems, that have no interest or gain in indirect sabotage, who are stuck forever in battles of attrition, until they quit to embrace new (or the same) challenges.
 
-### Second, only for the brave, you can chop off the evil by the root
+__To be fair though:__ If the project is financially successful despite being riddled with quality infotainment, we're really not the ones to judge or to impose something else. We'd be hypocrites to do so.
+
+Are people happy? Good! The only thing that we can do, in these cases is, if it matters, try to lead by example: show that there's another way, a better way, a harder but simpler way... and hope that that will ring a bell with someone in the organization who has a titanium forehead and a big pair of balls of steel in their desk. Here's a fictional example:
+
+> you're in a couple of projects that you help to turn into an undeniable success, with near zero resource to quality infotainment, and a sharp direction towards meaningful testing efforts - that's something that other projects can only forcefully ignore, maybe through stubborness, which is perfectly fine and some what respectable if they're successful in their own way.
+
+Like my dad says: _Sometimes you have to let people bang their head on the wall._
+
+### Second, (only for the brave) you can chop off the evil by the root
 
 The challenge with change is that change is challenging. I know... I know... bear with me. Put another way:
 
