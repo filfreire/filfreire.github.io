@@ -117,7 +117,7 @@ All of these parts that support the setup create constraints that allow for an e
 - "Forget about counting all those beans (test case counts, bug counts, coverage counts, ...)!"
 - "Stop trying to enforce the same box in diverse development and project contexts!"
 - "Start investing more in experiential hands-on testing!"
-- "There's a reason why your vice presidents keep finding embarassic bugs that you're missing!"
+- "There's a reason why your vice presidents keep finding embarrassing bugs that you're missing!"
 - "Perform tests that matter!"
 - ...
 
