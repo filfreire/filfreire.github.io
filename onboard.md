@@ -89,4 +89,4 @@ This is a list of books I enjoyed reading and would recommend to any fellow deve
 - Starship Troopers by Robert Heinlein ([Amazon](https://www.amazon.com/dp/0441783589/))
 - The Pentagon Wars by James Burton ([Amazon](https://www.amazon.com/dp/1612516009/))
 
-Also check out my <a href="https://www.librarything.com/profile/filfreire">librarything</a> and <a href="https://www.goodreads.com/user/show/72814465-filipe-freire">goodreads</a> profiles.
+Also check out my <a href="https://www.goodreads.com/user/show/72814465-filipe-freire">goodreads</a> and <a href="https://www.librarything.com/profile/filfreire">librarything</a> profiles.
