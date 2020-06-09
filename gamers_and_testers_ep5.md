@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Gamers and Testers - Episode 5"
-meta_description: "Gamers and Testers - Episode 5"
+title: "Gamers and Testers - Episode 5 (unpublished draft)"
+meta_description: "Gamers and Testers - Episode 5 (unpublished draft)"
 date: 2020-06-10
 categories: [career, testing, quality, interview]
 image: /assets/images/2020/06/returnfire.jpg
