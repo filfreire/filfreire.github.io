@@ -6,7 +6,6 @@ date: 2020-06-10
 categories: [career, testing, quality, interview]
 image: /assets/images/2020/06/returnfire.jpg
 caption: "Return Fire, 1995 (screenshot of the PC port released in 1996)"
-permalink: /review/gamers_and_testers_draft
 ---
 
 
