@@ -49,7 +49,7 @@ Usually by going over these examples, and comparing them to one's reality:
 - Do you notice that the lion's chunk of your most embarrassing bugs are often found first not by your testers, but by random folks: developers, designers, contributors of any sort, and even in some cases by senior leaders?
 - Do you notice that your Testers are not investing the biggest chunk of their productive time doing hands-on experiential testing with the sole mission of hunting down for problems and bugs that matter?
 - Are your testers over-emcumbered with prolonged efforts of weird test documentation and automated suites maintenance?
-- Do you notice any dubious decisions are made on the premise of "improving visibility of `<XYZ>` for business ands product folks", usually a target audience that doesn't really have a use for that visibility, but the decisions are still done to entertain a third party audience?
+- Do you notice any dubious decisions are made on the premise of "improving visibility of `<XYZ>` for business and product folks", usually a target audience that doesn't really have a use for that visibility, but the decisions are still done to entertain a third party audience?
 - Do you notice technical people using terms like: _"We need to assure our quality"_, _"We're taking these steps to improve our quality assurance"_, _"We measure quality by counting the `<insert type of bean or vegetable here>`"_, ...
 - Are the technical terms above mostly proclaimed by people who, coincidenlty, are not, or never were, professional (read _craftsman_) Software Testers?
 - Do you notice someone pushing for a massive pursuit of "automated check/test case" information "centralization" efforts - for a bulk of projects that to their core might have no need for those?
