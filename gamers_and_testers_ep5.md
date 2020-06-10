@@ -10,25 +10,25 @@ permalink: /review/gamers_and_testers_draft
 ---
 
 
-Hello there! This is the fifth post of my "[Gamers and Testers](https://gamersandtesters.com/)" series. In these posts, I ask a guest a series of usual (and unusual) questions about their experience of being involved with software testing in the videogames industry.
+Hello there! This is the fifth post of my "[Gamers and Testers](https://gamersandtesters.com/)" series. In these posts, I ask a guest a series of usual (and unusual) questions about their experience of being involved with software testing in the videogame industry.
 
-This post in particular is slightly different than the past posts in the _Gamers and Testers_ series. My guest was not a dedicated videogame tester at any point in his career. His name is [Reichart Von Wolfsheild](https://www.linkedin.com/in/reichart-von-wolfsheild-986551/). When I first reached out to him, I was reaching to "a name on an old credits section" of one of my favorite childhood games, __[Return Fire](https://en.wikipedia.org/wiki/Return_Fire)__. Once I started to do some research on who was the man behind that name. Well, words are not enough.
+This post in particular is slightly different than the past posts in the _Gamers and Testers_ series. My guest was not a dedicated videogame tester at any point in his career. His name is [Reichart Von Wolfsheild](https://www.linkedin.com/in/reichart-von-wolfsheild-986551/). When I first reached out to him, I was reaching to "a name on an old credits section" of one of my favourite childhood games, __[Return Fire](https://en.wikipedia.org/wiki/Return_Fire)__. Once I started to do some research on who was the man behind that name. Well, words are not enough.
 
- Mr Reichart has accomplished so many things that they're just too many to mention on this post alone or do justice to with a single paragraph: he's the lead scientist at Prolific Publishing, he's a true pioneer in the technology world for over three decades, in areas such as Miltary, Law Enforcement, Movie and TV Entertainment, Gaming and Slot Machines, and Video Games. He's also an inventor, at one point having been one of the co-hosts of the [History channel show "Invention USA"](https://www.youtube.com/watch?v=PB7xs-hF1qk).
+ Mr Reichart has accomplished so many things that they're just too many to mention on this post alone or do justice to with a single paragraph: he's the lead scientist at Prolific Publishing, he's a true pioneer in the technology world for over three decades, in areas such as Military, Law Enforcement, Movie and TV Entertainment, Gaming and Slot Machines, and Video Games. He's also an inventor, at one point having been one of the co-hosts of the [History channel show "Invention USA"](https://www.youtube.com/watch?v=PB7xs-hF1qk).
 
- Having been the main person creating and guiding the development of the Return Fire videogames series he was not only the one that formed the Testing teams for his software projects, but was also the main person behind the software created to track testing efforts for games like Return Fire, later on having sold that tracking software to US Department of Defence and law firms.
+ Having been the main person creating and guiding the development of the Return Fire videogame series he was not just the one that formed the Testing teams for his software projects, but was also the main person behind the software created to track testing efforts for games like Return Fire, later on having sold that tracking software to United States Department of Defense and law firms.
 
 <hr>
 
-#### _1. Return Fire was perhaps one of the top favorite games shared among me and some family members. What is(are) 'THE' game(s) that are your all-time personal favorites?_
+#### _1. Return Fire was perhaps one of the top favourite games shared among me and some family members. What is(are) 'THE' game(s) that are your all-time personal favourites?_
 
-At the core, I design games I like to play, so, as a result, my favorite games are those that use the computer simply as a medium for people to play against one another.  Together with my amazing team, we pioneered the first games that let you play arcade-style, and over a modem, and with a joystick, and allowing people to text each other at the same time.  Common today, but trick back then.
+At the core, I design games I like to play, so, as a result, my favourite games are those that use the computer simply as a medium for people to play against one another.  Together with my amazing team, we pioneered the first games that let you play arcade-style, and over a modem, and with a joystick, and allowing people to text each other at the same time.  Common today, but trick back then.
 
 Did we have to add 'chat?'  No, but this was the most important feature to me for multiplayer games.
 
-I would say the late [Danny Bunten](https://en.wikipedia.org/wiki/Danielle_Bunten_Berry)'s [M.U.L.E](https://en.wikipedia.org/wiki/M.U.L.E.) is a great example. And it is still my favorite way to teach economics, stocks, markets, etc.
+I would say the late [Danny Bunten](https://en.wikipedia.org/wiki/Danielle_Bunten_Berry)'s [M.U.L.E](https://en.wikipedia.org/wiki/M.U.L.E.) is a great example. And it is still my favourite way to teach economics, stocks, markets, etc.
 
-[Will Wright](https://en.wikipedia.org/wiki/Will_Wright_(game_designer))'s [Raid on Bungling Bay](https://en.wikipedia.org/wiki/Raid_on_Bungeling_Bay) is one of my favorite single-player games, and it was a strong motivation for me to make that type of environment but for more players.
+[Will Wright](https://en.wikipedia.org/wiki/Will_Wright_(game_designer))'s [Raid on Bungling Bay](https://en.wikipedia.org/wiki/Raid_on_Bungeling_Bay) is one of my favourite single-player games, and it was a strong motivation for me to make that type of environment but for more players.
 
 I got into [Quake](https://en.wikipedia.org/wiki/Quake_(video_game)) for a while. We would play this in our offices while making other games. While the physics are strange (fake), it is one of the few games that lets you really get into the head of another person your battling.
 
@@ -42,7 +42,7 @@ Two of my friends - [Brett](https://en.wikipedia.org/wiki/Brett_Sperry) and [Lou
 
 If you can't make the game work, and be fun, and engaging in wire-frame, do you really think fancy graphics and GPU tricks are going to save it?
 
-The greatest compliment you can get from the old video game designers is 'you gave great thumb.' which was a reference to the pain one incurs in their thumbs when a game is so good you just play it way too long and realize you're actually in physical pain because of it.
+The greatest compliment you can get from the old video game designers is 'you gave great thumb.' which was a reference to the pain one incurs in their thumbs when a game is so good you just play it way too long and realise you're actually in physical pain because of it.
 
 
 #### _3. RF1 and 2 always come to my mind as examples of games that expose complex gameplay elements in a clear/crisp way while at the same time being well crafted and thought-out in terms of what happens in edge cases (leaving map area, disconnecting, getting stuck, destructible materials and environments, etc.). What are some of your top guiding key principles in terms of Testing that allowed for that demonstration of craftsmanship?_
@@ -123,11 +123,11 @@ In an interview, proving you have a philosophy, and a plan for testing and a hea
 
 #### _8. A final offtopic question: Any plans for a Return Fire "HD remake" or even a Return Fire 3?_
 
-I think about this often (since I get asked often). Once in a while I will play a game on a smartphone that sort of looks like what we were doing 20 and 30 years ago (you do realize we made [Fire Power](https://en.wikipedia.org/wiki/Fire_Power_(video_game)) over 33 years ago). The controls are pretty, the environments get better every day. But, I find I'm just not having 'fun.'  I was looking at a big cowboy game that is in the news right now.  It is damned impressive.  But a lot of it isn't.  For that much money and effort, wow, it should just be steller.
+I think about this often (since I get asked often). Once in a while I will play a game on a smartphone that sort of looks like what we were doing 20 and 30 years ago (you do realise we made [Fire Power](https://en.wikipedia.org/wiki/Fire_Power_(video_game)) over 33 years ago). The controls are pretty, the environments get better every day. But, I find I'm just not having 'fun.'  I was looking at a big cowboy game that is in the news right now.  It is damned impressive.  But a lot of it isn't.  For that much money and effort, wow, it should just be steller.
 
 As simple as it might seem, it would take a lot of energy to make the controls perfect, especially for each vehicle. This is what I spent most of my time on with each version of the game.
 
-The Jeep drove so fast we realized we simply had to add a sort of 'locking on' to the roads. If you could get yourself to a road, the road would help you drive better and faster. This is subtle ... but took away the stress while adding excitement and a feeling of exhilaration. So that gives me the urge to do RF3.
+The Jeep drove so fast we realised we simply had to add a sort of 'locking on' to the roads. If you could get yourself to a road, the road would help you drive better and faster. This is subtle ... but took away the stress while adding excitement and a feeling of exhilaration. So that gives me the urge to do RF3.
 
 I still would enjoy making the game I want to play.
 
