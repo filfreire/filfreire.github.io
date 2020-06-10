@@ -148,6 +148,6 @@ I still would enjoy making the game I want to play.
 
 <hr>
 
-Thank you Reichart](https://www.linkedin.com/in/reichart-von-wolfsheild-986551/) for the time you invested to answer these questions, and thank you, the reader, also for your time reading this post. I hope you've enjoyed it. For more information on Reichart you can check out his [LinkedIn page](https://www.linkedin.com/in/reichart-von-wolfsheild-986551/).
+Thank you [Reichart](https://www.linkedin.com/in/reichart-von-wolfsheild-986551/) for the time you invested to answer these questions, and thank you, the reader, also for your time reading this post. I hope you've enjoyed it. For more information on Reichart you can check out his [LinkedIn page](https://www.linkedin.com/in/reichart-von-wolfsheild-986551/).
 
 Feel free to reach out to me with comments, ideas, and suggestions via any of my social media, or by email, which you can find in my Github account. Until next time, take care!
