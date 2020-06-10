@@ -14,6 +14,11 @@ Hello there! This is the fifth post of my "[Gamers and Testers](https://gamersan
 
 This post in particular is slightly different than the past posts in the _Gamers and Testers_ series. My guest was not a dedicated videogame tester at any point in his career. His name is [Reichart Von Wolfsheild](https://www.linkedin.com/in/reichart-von-wolfsheild-986551/). When I first reached out to him, I was reaching to "a name on an old credits section" of one of my favourite childhood games, __[Return Fire](https://en.wikipedia.org/wiki/Return_Fire)__. Once I started to do some research on who was the man behind that name. Well, words are not enough.
 
+<center><figure>
+    <img src="https://www.prolific.com/stream/8CEUEPM3V21TAGSJYCCMBARN81QT.jpg">
+    <figcaption>Cover of "Return Fire" (courtesy of Reichart Von Wolfsheild)</figcaption>
+</figure></center>
+
  Mr Reichart has accomplished so many things that they're just too many to mention on this post alone or do justice to with a single paragraph: he's the lead scientist at Prolific Publishing, he's a true pioneer in the technology world for over three decades, in areas such as Military, Law Enforcement, Movie and TV Entertainment, Gaming and Slot Machines, and Video Games. He's also an inventor, at one point having been one of the co-hosts of the [History channel show "Invention USA"](https://www.youtube.com/watch?v=PB7xs-hF1qk).
 
  Having been the main person creating and guiding the development of the Return Fire videogame series he was not just the one that formed the Testing teams for his software projects, but was also the main person behind the software created to track testing efforts for games like Return Fire, later on having sold that tracking software to United States Department of Defense and law firms.
@@ -55,11 +60,10 @@ It was sort of a role-playing game, my father would do his best to be a fair but
 
 I love any game that lets you just explore and 'feel' the environment. Like Quake, physics don't need to be real, but everything needs to be consistent.
 
-<figure>
+<center><figure>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pLLCidQi5JQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
-> <caption>CNET's Desmond Crisis interviews Reichart Von Wolfsheild Return Fire II.</caption>
-
+<figcaption>CNET's Desmond Crisis interviews Reichart Von Wolfsheild Return Fire II.</figcaption>
+</figure></center>
 
 #### _4. From your experience as a leader, what kind of different elements do you believe make a Software Tester successful in testing efforts of a videogame product as opposed to a typical product?_
 
@@ -121,6 +125,12 @@ I would go further and point out, testers are there to make the dev team look go
 
 In an interview, proving you have a philosophy, and a plan for testing and a healthy understanding of the nature of why bugs even happen is what will cinch the deal.
 
+
+<center><figure>
+    <img src="https://www.prolific.com/stream/PKPKYSVK2N2MU71NPCXVPQEN71QT.jpg">
+    <figcaption>Cartoon of Mr. Reichart drawn by the famous artist Van Arno who did the cover of Return Fire (courtesy of Reichart Von Wolfsheild)</figcaption>
+</figure></center>
+
 #### _8. A final offtopic question: Any plans for a Return Fire "HD remake" or even a Return Fire 3?_
 
 I think about this often (since I get asked often). Once in a while I will play a game on a smartphone that sort of looks like what we were doing 20 and 30 years ago (you do realise we made [Fire Power](https://en.wikipedia.org/wiki/Fire_Power_(video_game)) over 33 years ago). The controls are pretty, the environments get better every day. But, I find I'm just not having 'fun'. I was looking at a big cowboy game that is in the news right now.  It is damn impressive.  But a lot of it isn't.  For that much money and effort, wow, it should just be stellar.
@@ -130,6 +140,12 @@ As simple as it might seem, it would take a lot of energy to make the controls p
 The Jeep drove so fast we realised we simply had to add a sort of 'locking on' to the roads. If you could get yourself to a road, the road would help you drive better and faster. This is subtle ... but took away the stress while adding excitement and a feeling of exhilaration. So that gives me the urge to do RF3.
 
 I still would enjoy making the game I want to play.
+
+
+<center><figure>
+    <img src="https://www.prolific.com/stream/VCF43LL4MS5GE3G9HXLKMMWKV6QT.jpg">
+    <figcaption>Mr. Reichart giving Elon Musk the Edison award for the Tesla (courtesy of Reichart Von Wolfsheild)</figcaption>
+</figure></center>
 
 <hr>
 
