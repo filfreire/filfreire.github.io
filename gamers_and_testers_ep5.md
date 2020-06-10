@@ -34,11 +34,11 @@ I got into [Quake](https://en.wikipedia.org/wiki/Quake_(video_game)) for a while
 
 #### _2. Return Fire (RF) (and RF 2) held some innovations that even for today's standards not a lot of AAA titles take into account (or on the other hand cut corners on) and that gamers miss out on: from rare gems like supporting "couch" co-op gaming in split-screen out of the box, and at the same time allowing for networked play with others, plenty of content (missions) from the get-go, ... Do you feel that a lot of care/love/attention to detail which was very apparent in some past titles is getting watered down through times?_
 
-Clearly. Games need to be made in phases. There is no hard and fast rule, but you want to get your core game mechanics in place and make sure they are fast enough. Then you want to start fine-tuning the game-play. It has to be addicting (a word we never would have used back in the day). Then, for me, comes the 'polish.' those little things that make you laugh, and that you remember about a game years later.
+Clearly. Games need to be made in phases. There is no hard and fast rule, but you want to get your core game mechanics in place and make sure they are fast enough. Then you want to start fine-tuning the game-play. It has to be addicting (a word we never would have used back in the day). Then, for me, comes the 'polish', those little things that make you laugh, and that you remember about a game years later.
 
-Most games have such tight budgets in terms of money and time, there is little room for this last phase. I often would try to get them all in while we were bug testing at the end. Since ideally the polish is not creating new bugs. Funny, the more bugs we have, the more polish we get.
+Most games have such tight budgets in terms of money and time, there is little room for this last phase. I often would try to get them all in while we were bug testing at the end. Since ideally the 'polish' is not creating new bugs. Funny, the more bugs we have, the more 'polish' we get.
 
-Two of my friends - [Brett](https://en.wikipedia.org/wiki/Brett_Sperry) and [Louis](https://en.wikipedia.org/wiki/Louis_Castle) - that founded [Westwood Associates](https://en.wikipedia.org/wiki/Westwood_Studios) ([Command & Conquer](https://en.wikipedia.org/wiki/Command_%26_Conquer_(1995_video_game))) would have big meetings and simply ask 'what is the worst thing about our game at this point in development?' and they would make sure each round of that they took the worst part and made it into the best part. I began using that as well. Making video games is not quite like anything else out there, and having made many products in my life in many industries, video games need more 'philosophy' than almost anything else I know of. The next closest thing I can think of is house architecture.  Did you plan for where the sun will be?  Di you plan for where the sun will be in 6 months? If I were to make games today, I would start with 100% simple wire-frame (think [Jez San](https://en.wikipedia.org/wiki/Jez_San)'s [Star Glider](https://en.wikipedia.org/wiki/Starglider), or arcade coin-op Star Trek, or [Battle Zone](https://en.wikipedia.org/wiki/Battlezone_(1980_video_game)), also made by two old friends of mine, Sam and Roger).
+Two of my friends - [Brett](https://en.wikipedia.org/wiki/Brett_Sperry) and [Louis](https://en.wikipedia.org/wiki/Louis_Castle) - that founded [Westwood Associates](https://en.wikipedia.org/wiki/Westwood_Studios) ([Command & Conquer](https://en.wikipedia.org/wiki/Command_%26_Conquer_(1995_video_game))) would have big meetings and simply ask 'what is the worst thing about our game at this point in development?' and they would make sure each round of that they took the worst part and made it into the best part. I began using that as well. Making video games is not quite like anything else out there, and having made many products in my life in many industries, video games need more 'philosophy' than almost anything else I know of. The next closest thing I can think of is house architecture.  Did you plan for where the sun will be?  Did you plan for where the sun will be in 6 months? If I were to make games today, I would start with 100% simple wire-frame (think [Jez San](https://en.wikipedia.org/wiki/Jez_San)'s [Star Glider](https://en.wikipedia.org/wiki/Starglider), or arcade coin-op Star Trek, or [Battle Zone](https://en.wikipedia.org/wiki/Battlezone_(1980_video_game)), also made by two old friends of mine, Sam and Roger).
 
 If you can't make the game work, and be fun, and engaging in wire-frame, do you really think fancy graphics and GPU tricks are going to save it?
 
@@ -49,9 +49,9 @@ The greatest compliment you can get from the old video game designers is 'you ga
 
 I grew up in an odd way, a common topic in my family was game theory, military strategy, etc. But also, just the act of working out backwards and forwards how to solve problems.
 
-A game my father played with me was to imagine you were simply dropped off in the middle of some random city. You have nothing, and everyone you knew is simply gone. Literally, step by step, what would you? You have no money, you know no one, but, you have to survive, and hopefully thrive.
+A game my father played with me was to imagine you were simply dropped off in the middle of some random city. You have nothing, and everyone you knew is simply gone. Literally, step by step, what would you do? You have no money, you know no one, but, you have to survive, and hopefully thrive.
 
-It was sort of a role-playing game, my father would do his best to be a fair but a realistic DM. So asking 'and what happens if you push the limits?' is a constant question. You can see similar things in movies and TV shows. [The Prisoner](https://en.wikipedia.org/wiki/The_Prisoner) is a great example. How to keep everyone on the 'island?' And with no budget? They picked a giant white balloon. My first question when we designed Return Fire was 'are we doing the crappy Atarian Loop (as I called it) or, what happens at the edge of the map?' Almost instantly The Prisoner popped into my head. They already solved this problem, but we had the budget for a full-on submarine with a heat-seeking missile.
+It was sort of a role-playing game, my father would do his best to be a fair but a realistic [Dungeon Master](https://en.wikipedia.org/wiki/Dungeon_Master). So asking 'and what happens if you push the limits?' is a constant question. You can see similar things in movies and TV shows. [The Prisoner](https://en.wikipedia.org/wiki/The_Prisoner) is a great example. How to keep everyone on the 'island'? And with no budget? They picked a giant white balloon. My first question when we designed Return Fire was 'are we doing the crappy Atarian Loop (as I called it) or, what happens at the edge of the map?' Almost instantly The Prisoner popped into my head. They already solved this problem, but we had the budget for a full-on submarine with a heat-seeking missile.
 
 I love any game that lets you just explore and 'feel' the environment. Like Quake, physics don't need to be real, but everything needs to be consistent.
 
@@ -65,7 +65,7 @@ I love any game that lets you just explore and 'feel' the environment. Like Quak
 
 You need clever people. We used to do our internal testing. We built this into the cost of making products (still do). But publishers have their own testers. Our goal was to make sure we had logged any bug or even potential for a bug before the publishers found them. It was great pride we could constantly say 'yeah, we know about it, it is already being fixed.' And I would reward the testers for this as well.
 
-So the key ability is to model and plan how things are most likely to fail, and then go try to make that happen. Most test teams I've talked to copy a test plan from a previous product, and then just do obvious stuff.  Yeah, that is not going to work out well.
+So the key ability is to model and plan how things are most likely to fail, and then go and try to make that happen. Most test teams I've talked to copy a test plan from a previous product, and then just do obvious stuff.  Yeah, that is not going to work out well.
 
 Also, internally, having the testers compete with one another is a lot of fun. Ranking the quality of their bugs and tallying that. Look, if you are into games, make everything into a game.  This is a good place for competition.
 
@@ -97,7 +97,7 @@ Having this model of issue tracking is infused in every single Project Managemen
 
 I think a lot of companies waste an amazing amount of time because people are so secretive with what they are working on, or don't seek help from others.
 
-The core of my test philosophy Is to make sure there are focused tasks (issues), and that one person is responsible for getting it addressed (the Doer), and others can watch it and help that happen. It's all about teamwork. But there is also a person called out as the Lead. They also have a deep responsibility to make sure the description is clear, to make sure the stone moves in the right direction, as in the sport Curling.
+The core of my test philosophy IS to make sure there are focused tasks (issues), and that one person is responsible for getting it addressed (the Doer), and others can watch it and help that happen. It's all about teamwork. But there is also a person called out as the Lead. They also have a deep responsibility to make sure the description is clear, to make sure the stone moves in the right direction, as in the sport Curling.
 
 #### _6. One could say you are an inventor to the core of your being, taking into account all the things you've created. Do you feel that impacts your views on software development and software testing, as opposed to views held by software folks?_
 
@@ -111,7 +111,7 @@ How was that possible? Firstly, it is often done 'free-style' (by hand). Humans 
 
 Ultimately, it is not about making things work, it is about making it impossible to fail.
 
-#### _7. Any advice you would give a friend wanting to join the videogames industry as a Software Tester?_
+#### _7. Any advice you would give a friend wanting to join the videogame industry as a Software Tester?_
 
 It helps a lot to have a basic and healthy understanding of how a computer really works, from the hardware to the drivers to the OS, to the API calls (these days).
 
@@ -123,7 +123,7 @@ In an interview, proving you have a philosophy, and a plan for testing and a hea
 
 #### _8. A final offtopic question: Any plans for a Return Fire "HD remake" or even a Return Fire 3?_
 
-I think about this often (since I get asked often). Once in a while I will play a game on a smartphone that sort of looks like what we were doing 20 and 30 years ago (you do realise we made [Fire Power](https://en.wikipedia.org/wiki/Fire_Power_(video_game)) over 33 years ago). The controls are pretty, the environments get better every day. But, I find I'm just not having 'fun.'  I was looking at a big cowboy game that is in the news right now.  It is damned impressive.  But a lot of it isn't.  For that much money and effort, wow, it should just be steller.
+I think about this often (since I get asked often). Once in a while I will play a game on a smartphone that sort of looks like what we were doing 20 and 30 years ago (you do realise we made [Fire Power](https://en.wikipedia.org/wiki/Fire_Power_(video_game)) over 33 years ago). The controls are pretty, the environments get better every day. But, I find I'm just not having 'fun'. I was looking at a big cowboy game that is in the news right now.  It is damn impressive.  But a lot of it isn't.  For that much money and effort, wow, it should just be stellar.
 
 As simple as it might seem, it would take a lot of energy to make the controls perfect, especially for each vehicle. This is what I spent most of my time on with each version of the game.
 
@@ -133,6 +133,6 @@ I still would enjoy making the game I want to play.
 
 <hr>
 
-Thank you [Mr. Reichart](https://www.linkedin.com/in/reichart-von-wolfsheild-986551/) for the time you invested to answer these questions, and thank you, the reader, also for your time reading this post. I hope you've enjoyed it.
+Thank you [Mr. Reichart](https://www.linkedin.com/in/reichart-von-wolfsheild-986551/) for the time you invested to answer these questions, and thank you, the reader, also for your time reading this post. I hope you've enjoyed it. For more information on Mr. Reichart you can check out his [LinkedIn page](https://www.linkedin.com/in/reichart-von-wolfsheild-986551/).
 
 Feel free to reach out to me with comments, ideas, and suggestions via any of my social media, or by email, which you can find in my Github account. Until next time, take care!
