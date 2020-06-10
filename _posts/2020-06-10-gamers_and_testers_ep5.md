@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Gamers and Testers - Episode 5 (unpublished draft)"
-meta_description: "Gamers and Testers - Episode 5 (unpublished draft)"
+title: "Gamers and Testers - Episode 5"
+meta_description: "Gamers and Testers - Episode 5"
 date: 2020-06-10
 categories: [career, testing, quality, interview]
 image: /assets/images/2020/06/returnfire.jpg
@@ -19,7 +19,7 @@ This post in particular is slightly different than the past posts in the _Gamers
     <figcaption>Cover of "Return Fire" (courtesy of Reichart Von Wolfsheild)</figcaption>
 </figure></center>
 
- Mr Reichart has accomplished so many things that they're just too many to mention on this post alone or do justice to with a single paragraph: he's the lead scientist at Prolific Publishing, he's a true pioneer in the technology world for over three decades, in areas such as Military, Law Enforcement, Movie and TV Entertainment, Gaming and Slot Machines, and Video Games. He's also an inventor, at one point having been one of the co-hosts of the [History channel show "Invention USA"](https://www.youtube.com/watch?v=PB7xs-hF1qk).
+ Reichart has accomplished so many things that they're just too many to mention on this post alone or do justice to with a single paragraph: he's the lead scientist at Prolific Publishing, he's a true pioneer in the technology world for over three decades, in areas such as Military, Law Enforcement, Movie and TV Entertainment, Gaming and Slot Machines, and Video Games. He's also an inventor, at one point having been one of the co-hosts of the [History channel show "Invention USA"](https://www.youtube.com/watch?v=PB7xs-hF1qk).
 
  Having been the main person creating and guiding the development of the Return Fire videogame series he was not just the one that formed the Testing teams for his software projects, but was also the main person behind the software created to track testing efforts for games like Return Fire, later on having sold that tracking software to United States Department of Defense and law firms.
 
@@ -128,7 +128,7 @@ In an interview, proving you have a philosophy, and a plan for testing and a hea
 
 <center><figure>
     <img src="https://www.prolific.com/stream/PKPKYSVK2N2MU71NPCXVPQEN71QT.jpg">
-    <figcaption>Cartoon of Mr. Reichart drawn by the famous artist Van Arno who did the cover of Return Fire (courtesy of Reichart Von Wolfsheild)</figcaption>
+    <figcaption>Cartoon of Reichart drawn by the famous artist Van Arno who did the cover of Return Fire (courtesy of Reichart Von Wolfsheild)</figcaption>
 </figure></center>
 
 #### _8. A final offtopic question: Any plans for a Return Fire "HD remake" or even a Return Fire 3?_
@@ -144,11 +144,11 @@ I still would enjoy making the game I want to play.
 
 <center><figure>
     <img src="https://www.prolific.com/stream/VCF43LL4MS5GE3G9HXLKMMWKV6QT.jpg">
-    <figcaption>Mr. Reichart giving Elon Musk the Edison award for the Tesla (courtesy of Reichart Von Wolfsheild)</figcaption>
+    <figcaption> Reichart giving Elon Musk the Edison award for the Tesla (courtesy of Reichart Von Wolfsheild) </figcaption>
 </figure></center>
 
 <hr>
 
-Thank you [Mr. Reichart](https://www.linkedin.com/in/reichart-von-wolfsheild-986551/) for the time you invested to answer these questions, and thank you, the reader, also for your time reading this post. I hope you've enjoyed it. For more information on Mr. Reichart you can check out his [LinkedIn page](https://www.linkedin.com/in/reichart-von-wolfsheild-986551/).
+Thank you Reichart](https://www.linkedin.com/in/reichart-von-wolfsheild-986551/) for the time you invested to answer these questions, and thank you, the reader, also for your time reading this post. I hope you've enjoyed it. For more information on Reichart you can check out his [LinkedIn page](https://www.linkedin.com/in/reichart-von-wolfsheild-986551/).
 
 Feel free to reach out to me with comments, ideas, and suggestions via any of my social media, or by email, which you can find in my Github account. Until next time, take care!
