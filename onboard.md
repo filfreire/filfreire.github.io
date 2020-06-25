@@ -72,7 +72,6 @@ Feel free to have a look! Or also [suggest something new](https://github.com/fil
 "Swift","SyncedSideBar","TrailingSpaces","TypeScript Syntax"
 ```
 
-
 ## Interesting books I recommend:
 
 This is a list of books I enjoyed reading and would recommend to any fellow developer or tester. I personally think they're awesome.

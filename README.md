@@ -38,3 +38,11 @@ jekyll serve --drafts
 ## Notes
 
 Feel free to contribute with fixes for typos, grammatical errors or suggestions.
+
+**Useful stuff for sharing posts**
+
+Stuff to preview the "Open Graph" cards for when I share blog posts):
+- [Linkedin post inspector](https://www.linkedin.com/post-inspector/inspect/),
+- [Twitter post inspector](https://cards-dev.twitter.com/validator),
+- [Open Graph](https://ogp.me/),
+- [The Essential Meta Tags for Social Media](https://css-tricks.com/essential-meta-tags-social-media/).
