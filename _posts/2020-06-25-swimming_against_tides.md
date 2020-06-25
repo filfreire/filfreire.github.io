@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Swimming against tides"
-meta_description: "Swimming against tides"
+meta_description: "Filipe Freire's blog"
 date: 2020-06-25
 categories: [testing, communities, career paths, personal growth]
 image: /assets/images/2020/06/nemo.jpg
