@@ -11,7 +11,7 @@ permalink: /review/draft
 
 I want to share some ideas and thoughts on a recent post made by [Yegor Bugayenko](https://www.yegor256.com/), the post titled ["EO the Career Killer"](https://www.yegor256.com/2020/05/13/career-killer.html).
 
-In i, Yegor goes over a couple of interesting points surrounding the fact that studying [Elegant Objects](https://www.elegantobjects.org/) (EO) can "hurt" people, for example, folks who study it won't get a lot of job offers, or they might ruin their reputation, or get stuck in their careers and not find any interesting projects, and that after a while they might even risk being considered members of a sect.
+In it, Yegor goes over a couple of interesting points surrounding the fact that studying [Elegant Objects](https://www.elegantobjects.org/) (EO) can "hurt" people, for example, folks who study it won't get a lot of job offers, or they might ruin their reputation, or get stuck in their careers and not find any interesting projects, and that after a while they might even risk being considered members of a sect.
 
 > Side-note: for those of you reading that don't know what EO is, you can think of it as a set of ideas for object-oriented programming that in practice are not in the same direction of what the industry might consider standard. He wrote [two books](https://www.yegor256.com/elegant-objects.html) on the subject, and through the years has gathered quite a meaningful community of people who work on open-source libraries all around the ideas of Elegant Objects, and a few other ideas he shares in his blog posts or [other books](https://www.yegor256.com/code-ahead.html).
 
