@@ -6,6 +6,7 @@ date: 2020-06-25
 categories: [testing, communities, career paths, personal growth]
 image: /assets/images/2020/06/nemo.jpg
 caption: "Finding Nemo, 2003"
+permalink: /review/draft
 ---
 
 I want to share some ideas and thoughts on a recent post made by [Yegor Bugayenko](https://www.yegor256.com/), the post titled ["EO the Career Killer"](https://www.yegor256.com/2020/05/13/career-killer.html).
@@ -16,7 +17,7 @@ In i, Yegor goes over a couple of interesting points surrounding the fact that s
 
 At one point in my career, I was a very active member of the EO community ([example](https://www.youtube.com/watch?v=LlkptvKK6Mw)), before deciding to invest my personal time and energy on Software Testing (which I'm more passionate about), but I would like to share some things because I think they will add some outside perspective into Yegor's post. And I want to do that going over 4 different topics, 2 of them positive, and 2 of them negative:
 
-## The Value in going against "industry standards"
+## 1) The Value in going against "industry standards"
 
 When you're a junior Tester or junior Developer you're encouraged to follow whatever the "industry" gurus have to say. It makes sense, __you're a rookie__ so you don't know any better, and if we're honest there's a lot of folks out there that have a lot of pearls and treasures that we can learn from. The problem with this is, and I've learned it through personal experience: __going down the road most traveled isn't necessarily optimal for your growth as a person or a professional/craftsman__.
 
@@ -32,7 +33,7 @@ I can say I'm a better Tester today than I was months ago, and definitely, a bet
 
 Entertaining stuff like EO in my mind in the past helped me broaden my perspective on many "babies" that the industry holds "dear and cute", and maybe, in reality, some of those "babies" are really (like REALLY) ugly and we're just too afraid to admit, or even consider it. This pursuit of knowledge also brings a fair share of mistakes. But personal growth can spawn from when you make mistakes, right when you are in the process of challenging teachings and ideas that sometimes will make you look foolish or crazy. I fail every day. We all do. But it's not a bad thing.
 
-## The Value of participating in an active community
+## 2) The Value of participating in an active community
 
 It's "common" to hear that personal growth is often accelerated if you have good people coaching you. I for example have had the fortune of being at times surrounded by good people who shared good teachings and advice that I hold to this day. But having a pool of good people who are willing and available to guide or coach you is itself a scarce resource. This, I think, is precisely the second value proposition of communities like the EO community: it can help you with the scarcity problem.
 
@@ -48,7 +49,7 @@ Encouragement should be easier to get through interacting with some folks like t
 
 After a while of participating in those communities we start forming our ideas, we start putting those ideas out there, in the form of open-sourced code, blog posts, questions, messages, videos, doing talks in meetups and conferences, the initial trigger for that often being those early-on interactions with an active community that will encourage, that will debate ideas with you, or help you form a different "world-vision" you didn't know about.
 
-## The dangers of fanaticism, polarization, and lack of humility
+## 3) The danger of fanaticism, polarization, and lack of humility
 
 In Yegor's post, even though he throws out this invitation for people to become active, he also shares the disclaimers and the warnings - you have to bear in mind that when studying and adopting new ideas - it'll have an impact on other fronts like your interactions with other colleagues who don't share these ideas, and in this topic, I think it's fair to say this, but I have 3 pieces of advice for folks going through this.
 
@@ -71,7 +72,7 @@ The third piece of advice is to __be aware of the risk of drowning yourself in a
 
 The line between the act of sharing stuff and disrespecting others is very thin. We're all learning and developing our ideas. If you're not _smart_ about being humble, you'll be doing the same thing you could accuse other communities of doing, like enforcing an idea onto others, without at times even considering that they haven't tested out that idea deeply for themselves, and take it for face value.
 
-## The danger of "smoke selling"
+## 4) The danger of "smoke selling"
 
 _Taking things for face value is a road to many stupidities some may consider unnatural._
 
@@ -95,8 +96,8 @@ The trick is __Substance to back your words on__ and not just "smoke" you are tr
 
 ## Wrapping up
 
-If you're someone who is Senior, well established, and you think of yourself as a guru industry leader, it's best to be open to the fact that people will try to diminish the value of your words (Yegor mentions this in his post). So keep in mind people will have an easier time diminishing the value of those words if the words are not backed by substance (duh!).
+If you're someone who is senior professional, well established, and you think of yourself as a guru industry leader, it's best to be open to the fact that people will try to diminish the value of your words (Yegor mentions this in his post). So keep in mind people will have an easier time diminishing the value of those words if the words are not backed by substance (duh!).
 
-If on the other hand, you're a Junior professional, I invite you to be open to all the good things that "different" technical communities have to offer... just guard your heart of stupidity... like for example, keep in your heart that dumb polarization is a shortcut for demagogues and fanatics.
+If on the other hand, you're a junior professional, I invite you to be open to all the good things that "different" technical communities have to offer... just guard your heart of stupidity... like for example, keep in your heart that dumb polarization is a shortcut for demagogues and fanatics.
 
 Thank you for reading. Feel free to reach out to me with comments, ideas, grammar errors, and suggestions via any of my social media. Until next time, take care!
