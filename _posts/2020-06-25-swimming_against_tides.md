@@ -6,7 +6,6 @@ date: 2020-06-25
 categories: [testing, communities, career paths, personal growth]
 image: /assets/images/2020/06/nemo.jpg
 caption: "Finding Nemo, 2003"
-permalink: /review/draft
 ---
 
 I want to share some ideas and thoughts on a recent post made by [Yegor Bugayenko](https://www.yegor256.com/), the post titled ["EO the Career Killer"](https://www.yegor256.com/2020/05/13/career-killer.html).
