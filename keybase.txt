@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/filfreireadidas
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://filfreire.com
+  * I am filfreireadidas (https://keybase.io/filfreireadidas) on keybase.
+  * I have a public key ASBqzcowg6Ilj-KYeM7vHRB7frQozcm09z78QTsTjiqKHAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f3cbd4669c0f9f3c50b663574807805ab0789fb40226c042c6c00e2a4d1a28ca0a",
+      "host": "keybase.io",
+      "kid": "01206acdca3083a2258fe29878ceef1d107b7eb428cdc9b4f73efc413b138e2a8a1c0a",
+      "uid": "1eeb224487936fb3265ac1fd8ba82019",
+      "username": "filfreireadidas"
+    },
+    "merkle_root": {
+      "ctime": 1593978548,
+      "hash": "2158e7298bc60ccd727e945476e0755b7335f2c1b09f99fff0be1b50b54bdf642cc6e53e1025a7f0fefd4c4ba1562882e3c119106d91257553076ece3c6572cb",
+      "hash_meta": "26b92b17c3837da13855ce968eb4e7a00e080bd957fd8dd296da662c1ddc50c7",
+      "seqno": 16877117
+    },
+    "service": {
+      "entropy": "nuHivOksBvljdUcm8fE/ztcC",
+      "hostname": "filfreire.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1593978601,
+  "expire_in": 504576000,
+  "prev": "9dc705a0eeeeacd9546ab103ca4eeb4f58307217d946fc49a292f1a0d1818dac",
+  "seqno": 111,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgas3KMIOiJY/imHjO7x0Qe360KM3JtPc+/EE7E44qihwKp3BheWxvYWTESpcCb8QgnccFoO7urNlUarEDyk7rT1gwchfZRvxJopLxoNGBjazEIKv7mFu55JjGAOCyYrgiWbwFccndpWL3ZiASU/Qy4aRXAgHCo3NpZ8RAzWIoxDYbtoh2GfPXEE77m4Xto+sA3fSbS6OugBSRoOYlNkXjKurvZHoQ2+V/s/VXh1P/cD6WNdhRQuLYDdlRAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIM7u0gg92rDT3xXAv7XsyFbvxxSW/3qQjQfkxTrRMQujo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/filfreireadidas
+
+==================================================================
