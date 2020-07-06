@@ -19,7 +19,7 @@ Feel free to have a look! Or also [suggest something new](https://github.com/fil
 - [postman](https://www.getpostman.com/), curl, wget, [paw](https://paw.cloud/) and [httpie](https://httpie.org/)
 - vim (does it come by default?) and [vim settings](https://github.com/filfreire/scripts/blob/master/.vimrc) (also clone [scripts project](https://github.com/filfreire/scripts))
 - basic folder struct (personal, screenShots, work, books)
-- git and [ssh key generation](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
+- git and `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
 - [aws cli](https://aws.amazon.com/cli/) - ([supporting multiple aws cli profiles](https://stackoverflow.com/a/34246053/7468990))
 - [sublime](https://www.sublimetext.com/)
 - [hipster version of sublime](https://code.visualstudio.com/)
