@@ -59,6 +59,8 @@ Feel free to have a look! Or also [suggest something new](https://github.com/fil
 
 - [multiple ssh private keys](https://stackoverflow.com/a/2419609)
 
+- [install ruby on ubuntu the less crappy way](https://stackoverflow.com/a/37956249/7468990)
+
 - [sublime on Windows Subsystem for linux](https://nickjanetakis.com/blog/using-wsl-and-mobaxterm-to-create-a-linux-dev-environment-on-windows)
 
 - [Sublime hack that solves all problems, works everytime](https://stackoverflow.com/a/45437984/7468990)
