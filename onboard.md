@@ -45,6 +45,7 @@ Feel free to have a look! Or also [suggest something new](https://github.com/fil
 - [evernote](https://evernote.com/download/)
 - [calibre](https://calibre-ebook.com/)
 - [keybase](https://keybase.io/)
+- [scrcpy](https://github.com/Genymobile/scrcpy) (to provide display of android devices connected via USB)
 
 **Useful browser extensions**: [uBlock origin](https://github.com/gorhill/uBlock), [https everywhere](https://www.eff.org/https-everywhere), [Open multiple urls](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh?hl=en), [ModHeader](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj), [noscript](https://noscript.net/)
 
