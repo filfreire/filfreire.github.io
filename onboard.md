@@ -22,7 +22,7 @@ Feel free to have a look! Or also [suggest something new](https://github.com/fil
 - git and `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
 - [aws cli](https://aws.amazon.com/cli/) - ([supporting multiple aws cli profiles](https://stackoverflow.com/a/34246053/7468990))
 - [sublime](https://www.sublimetext.com/)
-- [hipster version of sublime](https://code.visualstudio.com/)
+- [vs code (aka. hipster version of sublime)](https://code.visualstudio.com/) (and [plugin for running with Windows Subsystem for Linux](https://code.visualstudio.com/docs/remote/wsl))
 - [intellij community edition](https://www.jetbrains.com/idea/) and my [settings.jar](/assets/settings.jar)
 - keepass, [for Mac](https://www.keepassx.org/) and [for Windows](https://keepass.info/)
 - [maven 3](https://stackoverflow.com/questions/8826881/maven-install-on-mac-os-x) and [java 8](https://stackoverflow.com/questions/24342886/how-to-install-java-8-on-mac)
