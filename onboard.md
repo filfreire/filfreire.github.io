@@ -50,19 +50,12 @@ Feel free to have a look! Or also [suggest something new](https://github.com/fil
 **Useful browser extensions**: [uBlock origin](https://github.com/gorhill/uBlock), [https everywhere](https://www.eff.org/https-everywhere), [Open multiple urls](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh?hl=en), [ModHeader](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj), [noscript](https://noscript.net/)
 
 - [deactivate annoying sound in "windows bash"](https://stackoverflow.com/a/39688603/7468990)
-
 - [weird "command not found" on mac os terminal](https://superuser.com/questions/78245/how-to-disable-the-option-space-key-combination-for-non-breaking-spaces)
-
 - [weird "failed to set locale" error on bash](https://stackoverflow.com/a/56743150/7468990)
-
 - [get rid of useless macos screenshot preview](https://www.macobserver.com/tips/quick-tip/macos-mojave-screenshot/)
-
 - [multiple ssh private keys](https://stackoverflow.com/a/2419609)
-
 - [install ruby on ubuntu the less crappy way](https://stackoverflow.com/a/37956249/7468990)
-
 - [sublime on Windows Subsystem for linux](https://nickjanetakis.com/blog/using-wsl-and-mobaxterm-to-create-a-linux-dev-environment-on-windows)
-
 - [Sublime hack that solves all problems, works everytime](https://stackoverflow.com/a/45437984/7468990)
 
 **Sublime packages**:
