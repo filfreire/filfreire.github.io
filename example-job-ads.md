@@ -15,6 +15,8 @@ The industy is mostly filled with vain/shallow job descriptions when it comes to
 
 I'll update this post through time, and it serves me as a quick reference guide for any new positions I'm working as a hiring manager. Feel free to adapt it or reuse it or send me questions about it through my <a href="https://keybase.io/filfreireadidas">keybase</a> or <a href="https://t.me/filfreire">telegram</a>.
 
+> Other posts related to the topic of job descriptions that might interest you: [The description dance](https://filfreire.com/posts/description_dance) and [What hiring managers want (QA Edition)](https://filfreire.com/posts/hiring-manager-qa-ed).
+
 ## Advice
 
 Make it apparent (or implicit) on the description that you know the lingo:
