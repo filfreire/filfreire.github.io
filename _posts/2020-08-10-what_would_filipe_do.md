@@ -32,7 +32,7 @@ When a decent Tester leaves a team "_Tester-less_", some folks might entertain t
 
 Companies/projects that have decided to at one point discard completely the need for any meaningful Testing, see an increase in embarrassing bugs that would have been caught by skilled testers.
 
-This increase is then linked with a familiar contemporary symptom: users tolerate a growing number of embarrassing bugs and crappy function:
+This increase is then linked with a familiar contemporary problem of users tolerating a growing number of embarrassing bugs and crappy function, with the usual symptoms:
 
 > _"We did an oopsie!" "Our monkeys will fix this quick!" "Something is wrong!" "Ups, we may have inadvertently lost/sold your data to evil entities!" "Sorry, not sorry, we may have influenced your family into becoming a tiny bit more racist and ignorant"..._
 
@@ -46,7 +46,7 @@ When we're Testing or thinking about Testing ideas, we don’t go deep enough. W
 
 We glue ourselves to the timing and the tempos that are documented or defined where we can only see a system through an “_expected interaction and response flow_”, and we don’t try and mess with the actual interactions of the services or state-machines we're testing. This is one of the things "malicious" users of our software end up doing (and exploiting) in an unconstrained and smart manner. For them nothing is forbidden, their minds are free.
 
-We uphold, sometimes in a fanatic way, expectations for "_immutable truths_". If it's described in the ticket, we do it, but we never dare to step outside of the confines of "_the expected_", and think about the unexpected messy parts. This ends up being the road most traveled, and few deviate from it. This points to, what I believe, is a characteristic of competent Testers: put the time they put a step on said road, they have already charted the surrounding terrain, hidden roads, and brought up some explosives for some special occasions... "_just to feel something._"
+We uphold, sometimes in a fanatic way, expectations for "_immutable truths_". If it's described in the ticket, we do it, but we never dare to step outside of the confines of "_the expected_", and think about the unexpected messy parts. This ends up being the road most traveled, and few deviate from it. This points to, what I believe, is a characteristic of competent Testers: by the time they put a step on said road, they have already charted the surrounding terrain, hidden roads, and brought up some explosives for some special occasions... "_just to feel something._"
 
 ## Be nimble and resourceful about tools and learning
 
