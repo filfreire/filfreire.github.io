@@ -20,6 +20,7 @@ Feel free to have a look! Or also [suggest something new](https://github.com/fil
 - vim (does it come by default?) and [vim settings](https://github.com/filfreire/scripts/blob/master/.vimrc) (also clone [scripts project](https://github.com/filfreire/scripts))
 - basic folder struct (personal, screenShots, work, books)
 - git and `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
+- [supporting multiple git ssh keys](https://dev.to/shostarsson/how-to-setup-multiple-ssh-keys-for-multiple-github-bitbucket-accounts-2ji0)
 - [aws cli](https://aws.amazon.com/cli/) - ([supporting multiple aws cli profiles](https://stackoverflow.com/a/34246053/7468990))
 - [sublime](https://www.sublimetext.com/)
 - [vs code (aka. hipster version of sublime)](https://code.visualstudio.com/) (and [plugin for running with Windows Subsystem for Linux](https://code.visualstudio.com/docs/remote/wsl))
