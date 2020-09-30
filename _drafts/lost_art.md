@@ -77,17 +77,31 @@ Now, let's challenge this "lack of documentation" bit for a moment. It's hard to
 /TODO
 talk abou the saying that comms are an image of the corporate structure and culture
 
-## Lack of trust
+## Lack of trust, willpower and habit
 
 /TODO
 "you don't trust others enough to value their time"
 "you don't trust yourself"
-
-## Lack of willpower and habit
-
-/TODO
 what are the incentives
 good intentions, mean spirits, Simple Sabotage Field Manual
+
+## "Where have all those "tool-lobbyists" aka "computers-are-bycicles-for-the-mind" folks gone?"
+
+> J'accuse! -- Ted Mosby, Architect in "How I met your mother"
+
+An interesting pattern with this whole metaproblem is that, when the moment "[fire nation attacks](TODO)" (aka, when we need them the most), the lobbyists of the united digital renovation tool-enforcers guild, a species that finds its habitat near big multinational corporations tit, that should be trying to solve said metaproblem with tools, is often nowhere to be found and reachable on a PO Box in Panama.
+
+Think about it. A lot of the questions of
+- Why did this CI job fail
+- Why did this endpoint call fail
+- What happened that this event is in a weird state
+- How do I do version/release/merge
+- Where can I look for information
+- ...
+
+Most of these issues of could be solved with tools. Inexpensive tools. Tools that aren't made by tool-making companies preying on overlooked budgets.
+
+/TODO
 
 ## The inverted scenario
 
