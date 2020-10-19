@@ -14,24 +14,23 @@ I'm trying to contribute to OSS every day, projects I contributed in a way so fa
 
 - **[tranquility](https://tranquility-bdd.com/)** - a lightweight dependency/bloat-free alternative to serenity-rest-assured and serenity-core
 - **[Raid Software Testing](https://raid-software-testing.com/)** - my work methodology for software testers in "monster" projects (read more [here](https://filfreire.com/posts/asymmetric_warfare)).
+- 🆕**[noddy](https://github.com/filfreire/noddy)** - docker-based wrapper for quick nodejs experiments based on alpine+node image
+- 🆕**[docker-pdflatex-alpine](https://github.com/filfreire/docker-pdflatex-alpine)** - yet another docker alpine image/wrapper to use pdflatex
 - [@yegor256's Tacit](https://github.com/yegor256/tacit) a CSS framework (I'm heavily involved with this one, feel free to submit an Issue/PR).
 - [awesome-game-essays](https://github.com/filfreire/awesome-game-essays) - Thoughtful and noteworthy links to awesome videogame "essay" kind of content.
 - [Gamers and Testers](https://gamersandtesters.com/) - TBA project
 - [Moneeee](https://github.com/filfreire/Moneeee) - joke app to tell you how much you're making during a boring meeting ([filfreire.com/Moneeee](https://filfreire.com/Moneeee/)).
 - [hercule](https://github.com/filfreire/hercule) - a (somewhat aggressive) boilerplate starter project for a selenium based UI test framework.
-- [tranquility-bdd](https://github.com/filfreire/tranquility-bdd) - a lightweight dependency/bloat-free alternative to serenity-rest-assured and serenity-core
 - [CommentCop](https://github.com/filfreire/CommentCop) - console app created for operations with Github comments.
 - [dunkirk](https://github.com/filfreire/dunkirk) - Export all your Apple iCloud Notes on macOS to text files.
 - [moving-from-pt](https://github.com/filfreire/moving-from-pt) - my notes and tips on moving away from Portugal.
 - [theOPOmarket](https://github.com/filfreire/theOPOmarket) - An opinionated down-to-earth take on Engineering "Job" Market of Porto, Portugal.
 - [anagram](https://github.com/filfreire/anagram) -  Two string checker for anagrams (with strict static analysis).
-- [slack-conflict](https://github.com/filfreire/slack-conflict) - A role-playing game for EvilCorp's Paid Hostageware/Ransomware communication tool.
-- [booltreejs](https://github.com/filfreire/booltreejs) - it's a Javascript library.
 - [@yegor256's Rultor](https://github.com/yegor256/rultor) a DevOps assistant.
 - Contributed translations for [OpenTomb](https://github.com/opentomb/OpenTomb) an open-source Tomb Raider 1-5 engine remake.
 - Some minor contributions to [ERDDAP](http://coastwatch.pfeg.noaa.gov/erddap/download/changes.html) data server for oceanographic data.
 - Sometimes I study profanity detection and exploits, especially when testing software in which the user can embellish/personalize products, [here](/profanity-study) will find a draft with some of my personal study notes on it.
-- Sometimes I have to write and prepare job descriptions directed at a segment of the industry: Craftsman Testers. You can find reusable examples [here](/example-job-ads).
+- 🔥 Sometimes I have to write and prepare job descriptions directed at a segment of the industry: Craftsman Testers. You can find reusable examples [here](/example-job-ads).
 
 ## Talks
 
