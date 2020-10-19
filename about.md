@@ -5,7 +5,7 @@ meta_description: "About me - filfreire.com"
 permalink: /about/
 ---
 
-I'm a Software Tester, a Developer, a Husband, a Learnera and Open-source software lover & contributor.
+I'm a Software Tester, a Developer, a Husband, a Learner and Open-source software lover & contributor.
 
 I'm currently working with [DIGIT Game Studios](https://www.digitgaming.com/) as a Test Engineer on their Game Server team.
 
