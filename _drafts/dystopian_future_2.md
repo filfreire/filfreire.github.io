@@ -9,22 +9,49 @@ image: /assets/images/2020/10/wolf.jpg
 caption: "The Wolf of Wall Street, 2013"
 ---
 
-> What could really kill the soul of Testing?
+> What could really kill the soul of Software Testing?
 
 Back in April 2019 I wrote a piece called [A dystopian testing future
 ](https://filfreire.com/posts/dystopian_future) where I wondered through half-realistic and half-dystopian future states that the testing craft and industry as a whole might reach.
 
-I think about it in retrospect, and on some of the most negative points I was actually fairly "positive, and was not considering a "worser-case scenario" where the whole humanity would be plagued with something that shattered a lot of glass roofs in the industry, that we collectively thought were rock solid.
+I think about it in retrospect, and on some of the most negative points I was actually fairly "positive" so I want to update a few of my previous ideas.
 
-A big portion of the crowd, from all schools of testing, that made use of "trainings and/or certifications", or relied on the whole conference circuit to spread their messages or sell different products, had to adapt and turn to "101 online marketing dirty tricks" to double down on surviving sales channels while other channels closed shut with no prospect of ever opening back in near future.
+> "The world is in great shape (... Not really.)" Gaz -- CoD4MW
 
-Small and local Testing communities extinction is made "more inevitable", only communities backed by a strong online presence (or founded on the online marketing dirty tricks sales school) thrive and survive, and big community and conference circuit vampiric relationship becomes more apparent.
+I was not considering "worser-case scenario" where the whole humanity would be plagued with something that shattered a lot of "glass roofs" in the industry, that we collectively thought were rock solid. One way or the other, no matter how aloof we are, every single software tester in the world has been on a personal (and professional) way affected by one or more of these:
+- the pandemic,
+- tragic death,
+- racism and suffering,
+- police violence,
+- mass shootings,
+- wild fires,
+- plan crashes,
+- attacks on freedom of speech and thought,
+- attacks by demagogues on local and world political affairs,
+- and many more problems at a scale that caused tremendous...
 
-A number of companies with online/software businesses, where everyone only needs a computer and an internet connection, the same companies that rushed to the internet to spread positivity, "stay healthy" and "we shall prevail" messages back in March/April 2020, are yet still not facing reality and try and shove folks back to the office, only to send them home a few days later since someone ends up getting infected again (duh.).
+The suffering caused by these issues shows no intention of stopping.
 
-Dependency in testing-sweatshops is seemingly bigger - with an increasing offer of newly created remote-forever jobs, craftsman and expert testers leave "flesh-and-blood" workplaces a bit everywhere around the globe, and go to work remotely in fairer places where their skills are in higher-demand, creating a vacum of testing talent in companies that were heavily dependent on localised status or localised "benefits". To fill that vacuum - companies either stop testing, turn their faith towards bland and soul-less automation in test, or double down on using testing sweatshops, subliminally adopting mantras of "headcounts over expertise".
+Most of these crisis invariably spilled over to the software testing world. They forced a lot of good folks to adapt, but they also helped mischievous/bad actors increase in their level of trickery. I would like to reflect in this post a bit on the latter, as a follow-up to my [previously mentioned post
+](https://filfreire.com/posts/dystopian_future).
 
-Testing sweatshops and tools-vendors doubling down on financing and hiring/siding with known testing influencers and individual consultants across all schools of testing, which could potentially be done so strategically to make use of the influencers sales channels and audiences, not that different in values from the companies that put a youtuber or instagrammer specialized in some craft on their paycheck.
+A practical example, not specific to software testing: companies with online/software businesses, where everyone only needs a computer and an internet connection, the same companies that rushed to the internet to spread positivity, "stay healthy" and "we shall prevail" messages back in March/April 2020, are yet still not facing reality and try and shove folks back to the office, only to send them home a few days later since someone ends up getting infected again (duh!).
+
+## "I shall sing you the song of my people"
+
+Here's some personal freaky observations and pseudo "big brain" predictions:
+
+A big portion of the crowd, from across all different schools of testing, folks that either made heavy use of "trainings and/or certifications" or relied on the whole conference circuit to spread their messages and sell different products, had to adapt. Some adapted guided by compassion and some doubled-down on "*101 online marketing dirty tricks*", investing a lot of effort and money into their own online-based "sales" channels.
+
+With growing physical presence and alarm-state restrictions, the extinction of small and local Software Testing communities is accelerated, I would add "inevitable". On the other hand, communities that were previously backed by a strong online presence (or founded on *online marketing dirty tricks sales* principles) survive and (possibly) thrive, and the vampiric relationship between big communities and private corporate backed testing conference circuits become more apparent.
+
+Dependency in testing-sweatshops (or their "attractiveness") will grow to unrecognizable levels. I think this is the case for two reasons:
+- there's an increasing offer of (newly created) "remote-forever" jobs, desperate of hiring craftsman and expert testers / test engineers
+- good testers, no longer chained by factors that only made sense in the pre-pandemic world, will leave "flesh-and-blood" workplaces a bit everywhere around the globe, and go to work remotely in fairer places where their skills are in higher-demand, creating a vacuum of testing talent in companies that were heavily dependent on localized status or localized "benefits". To fill that vacuum - companies either stop testing, turn their faith towards bland and soul-less automation in test, or double down on using testing sweatshops, subliminally adopting mantras of "headcounts over expertise".
+
+After conferring with Captain Obvious, actually this last point wont happen just for Software Testers, but likely for almost all folks involved in building software. And Testing sweatshops built with remote folks will become also more of a thing.
+
+Testing sweatshops and tools-vendors doubling down on financing and hiring/siding with known testing influencers and individual consultants across all schools of testing, which could potentially be done so strategically to make use of the influencers sales channels and audiences, not that different in values from the companies that put some youtube or instagram influencer specialized in some craft on their paycheck.
 
 ## The world around us changes, so do we
 
@@ -34,7 +61,7 @@ The world being in such conflict, not only with the pandemic, but all of the oth
 
 - Testing influencers showing more skin or where they stand in the different political scales of their countries/communities
 
-- Testing influencers showing where they stand on issues like pandemic countermeasures, vacination, class-consciousness, misinformation, ...
+- Testing influencers showing where they stand on issues like pandemic countermeasures, vaccination, class-consciousness, misinformation, ...
 
 
 
