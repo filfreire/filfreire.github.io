@@ -47,6 +47,7 @@ Feel free to have a look! Or also [suggest something new](https://github.com/fil
 - [calibre](https://calibre-ebook.com/)
 - [keybase](https://keybase.io/)
 - [scrcpy](https://github.com/Genymobile/scrcpy) (to provide display of android devices connected via USB)
+- [websocat](https://github.com/vi/websocat) (Netcat, curl and socat for WebSockets)
 
 **Useful browser extensions**: [uBlock origin](https://github.com/gorhill/uBlock), [https everywhere](https://www.eff.org/https-everywhere), [Open multiple urls](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh?hl=en), [ModHeader](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj), [noscript](https://noscript.net/)
 
@@ -58,6 +59,11 @@ Feel free to have a look! Or also [suggest something new](https://github.com/fil
 - [install ruby on ubuntu the less crappy way](https://stackoverflow.com/a/37956249/7468990)
 - [sublime on Windows Subsystem for linux](https://nickjanetakis.com/blog/using-wsl-and-mobaxterm-to-create-a-linux-dev-environment-on-windows)
 - [Sublime hack that solves all problems, works everytime](https://stackoverflow.com/a/45437984/7468990)
+
+**VS Code packages**:
+```
+bibhasdn.unique-lines, erd0s.terraform-autocomplete, eriklynd.json-tools, euskadi31.json-pretty-printer, fabiospampinato.vscode-diff, hashicorp.terraform, hookyqr.minify, lextudio.restructuredtext, mikestead.dotenv, ms-azuretools.vscode-docker, ms-mssql.mssql, ms-python.python, ms-toolsai.jupyter, ms-vscode-remote.remote-containers, nidu.copy-json-path, redhat.vscode-yaml, shardulm94.trailing-spaces, streetsidesoftware.code-spell-checker, torn4dom4n.latex-support, waderyan.gitblame
+```
 
 **Sublime packages**:
 ```
@@ -73,6 +79,7 @@ Feel free to have a look! Or also [suggest something new](https://github.com/fil
 
 This is a list of books I enjoyed reading and would recommend to any fellow developer or tester. I personally think they're awesome.
 
+- Delta Force by Charlie A. Beckwith ([Amazon](https://www.amazon.com/Delta-Force-Militarys-Secretive-Special-Operations/dp/006224969X/))
 - Secrets of a Buccaneer-Scholar by James Bach ([Amazon](https://www.amazon.co.uk/dp/1847375359/))
 - Lessons learned in Software Testing: A context-driven approach by James Bach et al. ([Amazon](http://amzn.eu/4DDoHIh))
 - Elegant Objects (vol.1 and 2) by Yegor Bugayenko ([Amazon vol.1](http://amzn.eu/6QIDf9c), [Amazon vol.2](http://amzn.eu/c4U3YKK))
