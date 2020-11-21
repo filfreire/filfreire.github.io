@@ -57,7 +57,7 @@ Testing sweatshops and tools-vendors will be doubling down on financing and hiri
 
 ## But wait there's even more!
 
-Heres a few other things I didn't notice back then, of which the signals became higher than the noise, now that folks had an increased presence online that was perhaps restricted to in-person interactions, to a point where these points become visible, with Software Testing influencers:
+/todo
 
 - Showing where they stand on issues like pandemic countermeasures, vaccination, class-consciousness, misinformation, which will, depending on where folks stand with these issues, detract them from paying attention to any Software Testing related messages;
 - Showing more "skin" of where they stand in the different political scales of their countries/communities. We will se an increase in signals done via usual channels these folks use, either promoting values and interests like freedom, care and compassion, knowledge and understanding or, on the other hand, folks siding with demagogues, mislead or fake information, racists and xenophobes, professional liars, rapists, pedophiles, ...
@@ -67,8 +67,28 @@ The overall confusion and evil will become a prevalent topic Software Testers wi
 
 ## Is it all bad? Any good predictions?
 
-It's hard for me to make any positive pseudo-predictions, as for the most part, with the above and previous posts on similar topics, I've done nothing but play with negative ideas and possible scenarios in my head.
+Until now, I've done nothing but play with negative ideas and possible scenarios in my head. It would be a folly for me to believe I´m the only one thinking about these issues, and not everyone is asleep or not paying attention to both overall world issues (some of which have existed through centuries) as well as issues in Software Testing. There's a couple of things that I think might happen soon (or are already happening):
 
-I think there might be positive points. It would be a folly for me to believe I´m the only one thinking about these issues, and not everyone is asleep or not paying attention to both overall world issues (some of which have existed through centuries) as well as issues in Software Testing.
+Micro communities will be organically formed with folks that are disillusioned with almost all prominent schools of testing, be it factory, agile, charismatic, self-proclaimed united nations of testers, context-driven, rapid, and many others. These micro communities will gradually want to get closer to solving testing problems in a self sufficient way, not wanting to be attached to a denomination. When identified, many of these will be hated and despised by all schools of testing, for being anti-monopoly and anti-denominational, but they will also be a genuine "light" against greed of groups and individuals that profit off of selling any sort of standards, rules, certifications, trainings, and even consulting.
 
-/todo
+The "the latest trend in automation in test frameworks" cycle has been ruling for a bit over a decade. A few people also notice that the advertised next cycle, of using AI and machine-learning is nothing but a cash-grab, similar to what "[load testing middle-man companies](https://filfreire.com/posts/how_to_get_rich_fast)" already do. People will tolerate this reality up until a point they are absolutely tired of it.
+
+Initially, people will stop contributing to the "orgy" of trying to solve the same problem:
+
+> the problem of how to manage, execute and represent "action-assertion" cycles against Web apps, mobile apps, APIs, ...
+
+*"There has to be a higher purpose and a more meaningful problem to solve than this... for example, there's only so many fancy ways of doing a special http client that can perform assertions until it becomes boring..."* some will think. This should trigger a start of the revolution.
+
+What projects, problems and solutions will brew in the revolution? I'm not sure, but here's one I can think about, an issue that has been ignored for decades: **inclusive interfaces/structures/wrappers for "bigger" automated checks**.
+
+These bigger checks will target entire systems, and the projects built to achieve this will aim provide easy ways for non technical folk (and craftsman Testers) to have a greater tool control, enabling esoteric tests that require complex mixtures of:
+- infrastructure setup
+- custom environment deployments
+- generating large test data sets,
+- performing measurements,
+- triggering regular automated checks
+- triggering load, performance and stress checks
+- ...
+
+Up until now, the reality is most folks solve each of these points through combining different tools, but, most folks NEVER take the next step of abstracting all of it in a single interface. This will hopefully be a thing of the past, "after the revolution". We will hopefully see plenty of choices of tooling that solves all of this through single easy to use interfaces. Tooling that is built on solid principles. Soon, folks won't worry about automated in test frameworks to solve small problems, they will be enabled to solve bigger problems.
+
