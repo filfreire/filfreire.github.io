@@ -14,8 +14,10 @@ I'm trying to contribute to OSS every day, projects I contributed in a way so fa
 
 - **[tranquility](https://tranquility-bdd.com/)** - a lightweight dependency/bloat-free alternative to serenity-rest-assured and serenity-core
 - **[Raid Software Testing](https://raid-software-testing.com/)** - my work methodology for software testers in "monster" projects (read more [here](https://filfreire.com/posts/asymmetric_warfare)).
-- 🆕**[noddy](https://github.com/filfreire/noddy)** - docker-based wrapper for quick nodejs experiments based on alpine+node image
-- 🆕**[docker-pdflatex-alpine](https://github.com/filfreire/docker-pdflatex-alpine)** - yet another docker alpine image/wrapper to use pdflatex
+- [noddy](https://github.com/filfreire/noddy) - docker-based wrapper for quick nodejs experiments based on alpine+node image
+- [docker-pdflatex-alpine](https://github.com/filfreire/docker-pdflatex-alpine) - yet another docker alpine image/wrapper to use pdflatex
+- 🆕**[hello-world-psp](https://github.com/filfreire/hello-world-psp)** - A hello world like app for the Sony PlayStation Portable handheld videogame system (PSP).
+- 🆕**[coop-game-fleep](https://github.com/filfreire/coop-game-fleep)** - A work-in-progress experimental cooperative third-person shooter built with Unreal Engine.
 - [@yegor256's Tacit](https://github.com/yegor256/tacit) a CSS framework (I'm heavily involved with this one, feel free to submit an Issue/PR).
 - [awesome-game-essays](https://github.com/filfreire/awesome-game-essays) - Thoughtful and noteworthy links to awesome videogame "essay" kind of content.
 - [Gamers and Testers](https://gamersandtesters.com/) - TBA project
