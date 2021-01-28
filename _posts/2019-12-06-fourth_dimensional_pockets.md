@@ -5,6 +5,7 @@ meta_description: "A case for fourth-dimensional pockets"
 date: 2019-12-06
 categories: [testing, personal experience]
 image: /assets/images/2019/08/doraemon.jpg
+image_alt: a still from Doraemon 2005 animated series
 caption: "Doraemon 2005 series"
 ---
 

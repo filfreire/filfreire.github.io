@@ -5,6 +5,7 @@ meta_description: "Filipe Freire's blog"
 date: 2020-06-25
 categories: [testing, communities, career paths, personal growth]
 image: /assets/images/2020/06/nemo.jpg
+image_alt: a movie still from Finding Nemo from 2003
 caption: "Finding Nemo, 2003"
 ---
 
@@ -58,7 +59,7 @@ The second piece of advice is to __be aware of the difference between being a po
 
 Folks become completely polarised and fanatics and then some end up suffering from a lot of these bad results mentioned in Yegor's post, with symptoms always in the lines of "the world doesn't get me, I'm being rejected for my righteous beliefs". It doesn't surprise me and I would risk saying people put themselves into situations where they are "suffering for nothing" (or suffering in vain). Just like that meme of the kid in the bike:
 
-<figure><img src="/assets/images/2020/06/bikefall.jpg"></figure>
+<figure><img src="/assets/images/2020/06/bikefall.jpg" alt="meme image of a dumb person putting a stick inside their front bike wheel while moving, causing a comic fall"></figure>
 
 
 I think it's because people would get stuck in a loop mode where they do stuff out of a burning desire to feel quickly accepted by the entire community, to feel "validated by the elders", to feel "loved". Time passes and these same folks, who had invested an enormous amount of their energy, vanish completely.

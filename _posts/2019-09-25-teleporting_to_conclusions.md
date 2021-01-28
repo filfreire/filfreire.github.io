@@ -5,6 +5,7 @@ meta_description: "Teleporting to conclusions"
 date: 2019-09-25
 categories: [testing, personal experience]
 image: /assets/images/2019/07/shooter.jpg
+image_alt: a movie still from Shooter from 2007
 caption: "Shooter, 2007"
 ---
 

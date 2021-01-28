@@ -5,6 +5,7 @@ meta_description: "Gamers and testers, Episode 2"
 date: 2018-09-18
 categories: [career, testing, quality, interview]
 image: /assets/images/2018/09/bf2.jpg
+image_alt: a screenshot from the Battlefield 2 videogame (from 2005)
 caption: "Battlefield 2, 2005"
 ---
 

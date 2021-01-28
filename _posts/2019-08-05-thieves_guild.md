@@ -5,6 +5,7 @@ meta_description: "Holding hands with the thieves guild"
 date: 2019-08-05
 categories: [testing, plagiarism, corporate world]
 image: /assets/images/2019/08/oceans.jpg
+image_alt: a movie still from Ocean's Eleven from 2001
 caption: "Ocean's Eleven, 2001"
 ---
 

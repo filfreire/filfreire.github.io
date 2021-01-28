@@ -92,6 +92,6 @@ Never give up. There's an army of testers, developers, managers, friends and lov
 
 Take into account that your background makes you unique as a tester in special ways. Your craft will be very unique and different from another tester. Say you have an accounting background, or statistician, or human resources, psychologist, pharmaceutical, sports, gardener, etc. This past adds skills. Being good with numbers and analysis; Being good with interacting with people (stakeholders, developers); Being good with documenting stuff; Being patient, methodical, among many others.
 
-Also, on a closing note: The biggest illusion you can have as a tester is: “my job will be something related to adding quality and preventing bugs”.  You don’t add quality. You don’t prevent bugs. You don’t have a magic wand to magically do that stuff.
+Also, on a closing note: The biggest illusion you can have as a tester is: “my job will be something related to adding quality and preventing bugs”. You don’t add quality. You don’t prevent bugs. You don’t have a magic wand to magically do that stuff.
 
 Your mission as a tester is simple: You hunt bugs down. With your bare hands. With tools. With traps, tools and even automation. And then you show them as trophies, the right way. If they still go to production, it’s not your call. Your job is to give the people who do make that decision a fighting change, and the actual power to make such a decision, knowing what they’re up against.

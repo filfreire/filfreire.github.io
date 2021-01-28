@@ -5,6 +5,7 @@ meta_description: "What hiring managers want (QA Edition)"
 date: 2019-10-13
 categories: [testing, hiring, personal experience]
 image: /assets/images/2019/10/whatwomenwant.jpg
+image_alt: a movie still from What women want from 2000
 caption: "What women want, 2000"
 ---
 

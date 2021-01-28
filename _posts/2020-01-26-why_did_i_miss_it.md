@@ -5,6 +5,7 @@ meta_description: "Why did I miss it?"
 date: 2020-01-26
 categories: [testing, personal experience]
 image: /assets/images/2020/01/stranding.jpg
+image_alt: a screenshot from Death Stranding videogame from 2019
 caption: "Death Stranding, 2019"
 ---
 

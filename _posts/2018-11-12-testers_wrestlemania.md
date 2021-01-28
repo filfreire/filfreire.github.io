@@ -5,6 +5,7 @@ meta_description: "Do testers dream of Wrestlemania?"
 date: 2018-11-12
 categories: [testing, wrestling, storytelling]
 image: /assets/images/2018/11/wrestlemania_22.jpg
+image_alt: a still from the Wrestlemania 22 WWE event, from 2006
 caption: "Wrestlemania 22, 2006"
 ---
 

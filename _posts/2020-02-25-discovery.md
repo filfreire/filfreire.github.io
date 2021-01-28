@@ -5,6 +5,7 @@ meta_description: "Self proclaimed UN of Testers latest discovery"
 date: 2020-02-25
 categories: [istqb, fever dreams, testing]
 image: /assets/images/2020/02/2049.jpg
+image_alt: a movie still from Blade Runner 2049 movie from 2017
 caption: "\"Blade Runner 2049\", 2017"
 ---
 

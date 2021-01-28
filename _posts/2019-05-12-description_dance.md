@@ -5,6 +5,7 @@ meta_description: "The description dance"
 date: 2019-05-12
 categories: [industry, job market, job descriptions, recruitment]
 image: /assets/images/2019/05/poppins.jpg
+image_alt: a movie still from Mary Poppins, 1964
 caption: "Mary Poppins, 1964"
 ---
 

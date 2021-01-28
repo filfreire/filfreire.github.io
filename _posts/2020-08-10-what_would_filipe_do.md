@@ -5,6 +5,7 @@ meta_description: "What would Filipe do?"
 date: 2020-08-10
 categories: [testing, raid software testing, guerrilla testing]
 image: /assets/images/2020/08/truman.jpg
+image_alt: a movie still from The Truman Show from 1998
 caption: "The Truman Show, 1998"
 ---
 

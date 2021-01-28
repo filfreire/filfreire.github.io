@@ -5,6 +5,7 @@ meta_description: "Oh-my-SLOW-zsh: my transition back to bash"
 date: 2018-12-14
 categories: [short-post, bash, ohmyzsh]
 image: /assets/images/2018/12/turbo.jpg
+image_alt: a movie still from Turbo from 2013
 caption: "Turbo, 2013"
 ---
 

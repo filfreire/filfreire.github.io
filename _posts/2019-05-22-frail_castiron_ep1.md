@@ -5,6 +5,7 @@ meta_description: "Frail and cast-iron tools - Episode 1"
 date: 2019-05-22
 categories: [tools, testing, api testing, postman, personal experience]
 image: /assets/images/2019/05/deltaforce.jpg
+image_alt: a movie still from Delta Force from 1986
 caption: "Delta Force, 1986"
 ---
 

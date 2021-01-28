@@ -6,6 +6,7 @@ meta_description: "A guide for opportunist software engineers with load testing 
 date: 2020-10-14
 categories: [thought piece, parody]
 image: /assets/images/2020/10/wolf.jpg
+image_alt: a movie still from The Wolf of Wall Street from 2013
 caption: "The Wolf of Wall Street, 2013"
 ---
 

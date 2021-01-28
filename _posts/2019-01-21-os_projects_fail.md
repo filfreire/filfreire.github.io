@@ -5,6 +5,7 @@ meta_description: "Why Opensource projects fail?"
 date: 2019-01-21
 categories: [opensource, development, quality]
 image: /assets/images/2019/01/jp3.jpg
+image_alt: a movie still from Jurassic Park 3 from 2001
 caption: "Jurassic Park 3, 2001"
 ---
 

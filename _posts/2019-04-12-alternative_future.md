@@ -5,6 +5,7 @@ meta_description: "An alternative testing universe"
 date: 2019-04-12
 categories: [testing, xdsd, future]
 image: /assets/images/2019/04/poirot.jpg
+image_alt: a still from Agatha Christie's Poirot TV Series that ran from 1989 until 2013
 caption: "Agatha Christie's Poirot TV Series, 1989—2013"
 ---
 

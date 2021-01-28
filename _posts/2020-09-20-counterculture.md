@@ -5,6 +5,7 @@ meta_description: "On the shoulders of counterculture"
 date: 2020-09-20
 categories: [counterculture, personal experience]
 image: /assets/images/2020/09/vendetta.jpg
+image_alt: a movie still from V for Vendetta from 2005
 caption: "V for Vendetta, 2005 (film)"
 ---
 

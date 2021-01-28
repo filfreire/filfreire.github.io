@@ -5,6 +5,7 @@ meta_description: "Gamers and Testers - Episode 3"
 date: 2019-08-01
 categories: [career, testing, quality, interview]
 image: /assets/images/2019/08/wic.jpg
+image_alt: a screenshot from World in Conflict videogame from 2007
 caption: "World in Conflict, 2007"
 ---
 

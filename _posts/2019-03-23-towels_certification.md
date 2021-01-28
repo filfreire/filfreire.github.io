@@ -5,6 +5,7 @@ meta_description: "Selling Towels Certification"
 date: 2019-03-23
 categories: [certifications, testing, rant]
 image: /assets/images/2019/03/mulan.jpg
+image_alt: a movie still from Mulan from 1998
 caption: "Mulan, 1998"
 ---
 

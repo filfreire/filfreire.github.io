@@ -5,6 +5,7 @@ meta_description: "Gamers and testers, Episode 1"
 date: 2018-09-05
 categories: [career, testing, quality, interview]
 image: /assets/images/2018/09/eng.jpg
+image_alt: a movie still from The Emperor's New Groove, 2000
 caption: "The Emperor's New Groove, 2000"
 ---
 
@@ -28,7 +29,7 @@ I was in parallel researching about the game and it's implementation when I reac
 > From memory there was not a build every day. All builds were burnt to CD and tested on PS1 test kits. Build number was written on the disk so the tester knew which version we were testing.
 
 <figure>
-    <img src="/assets/images/2018/09/ps1_min.png">
+    <img src="/assets/images/2018/09/ps1_min.png" alt="A PlayStation 1 debug kit is pictured.">
     <figcaption>PS1 Debug Kit, source <a href="https://youtu.be/VmLrLAeIwZc">Youtube</a></figcaption>
 </figure>
 

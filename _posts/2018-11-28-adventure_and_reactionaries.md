@@ -5,6 +5,7 @@ meta_description: "Adventure and reactionaries"
 date: 2018-11-28
 categories: [testing, quality, adventure]
 image: /assets/images/2018/11/treasure_planet.jpg
+image_alt: a movie still from Treasure Planet from 2002
 caption: "Treasure Planet, 2002"
 ---
 

@@ -5,6 +5,7 @@ meta_description: "On the uselessness of quality infotainment"
 date: 2020-05-13
 categories: [testing, quality infotainment, love letter]
 image: /assets/images/2020/05/office_space.jpg
+image_alt: a movie still from Office Space from 1999
 caption: "Office Space, 1999"
 ---
 

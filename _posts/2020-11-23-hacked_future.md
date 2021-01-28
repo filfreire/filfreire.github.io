@@ -6,6 +6,7 @@ meta_description: "What could really kill the soul of Testing?"
 date: 2020-11-23
 categories: [thought piece, silly predictions]
 image: /assets/images/2020/11/hackers.png
+image_alt: a movie still from Hackers from 1995
 caption: "Hackers, 1995"
 ---
 

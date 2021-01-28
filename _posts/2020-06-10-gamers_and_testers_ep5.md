@@ -5,6 +5,7 @@ meta_description: "Gamers and Testers - Episode 5"
 date: 2020-06-10
 categories: [career, testing, quality, interview]
 image: /assets/images/2020/06/returnfire.jpg
+image_alt: a screenshot of the Return Fire videogame from 1995/1996
 caption: "Return Fire, 1995 (screenshot of the PC port released in 1996)"
 ---
 
@@ -14,7 +15,7 @@ Hello there! This is the fifth post of my "[Gamers and Testers](https://gamersan
 This post in particular is slightly different than the past posts in the _Gamers and Testers_ series. My guest was not a dedicated videogame tester at any point in his career. His name is [Reichart Von Wolfsheild](https://www.linkedin.com/in/reichart-von-wolfsheild-986551/). When I first reached out to him, I was reaching to "a name on an old credits section" of one of my favourite childhood games, __[Return Fire](https://en.wikipedia.org/wiki/Return_Fire)__. Once I started to do some research on who was the man behind that name. Well, words are not enough.
 
 <center><figure>
-    <img src="https://www.prolific.com/stream/8CEUEPM3V21TAGSJYCCMBARN81QT.jpg">
+    <img src="https://www.prolific.com/stream/8CEUEPM3V21TAGSJYCCMBARN81QT.jpg" alt="Cover of Return Fire videogame (courtesy of Reichart Von Wolfsheild)">
     <figcaption>Cover of "Return Fire" (courtesy of Reichart Von Wolfsheild)</figcaption>
 </figure></center>
 
@@ -126,7 +127,7 @@ In an interview, proving you have a philosophy, and a plan for testing and a hea
 
 
 <center><figure>
-    <img src="https://www.prolific.com/stream/PKPKYSVK2N2MU71NPCXVPQEN71QT.jpg">
+    <img src="https://www.prolific.com/stream/PKPKYSVK2N2MU71NPCXVPQEN71QT.jpg" alt="Cartoon of Reichart drawn by the famous artist Van Arno who did the cover of Return Fire (courtesy of Reichart Von Wolfsheild)">
     <figcaption>Cartoon of Reichart drawn by the famous artist Van Arno who did the cover of Return Fire (courtesy of Reichart Von Wolfsheild)</figcaption>
 </figure></center>
 
@@ -142,7 +143,7 @@ I still would enjoy making the game I want to play.
 
 
 <center><figure>
-    <img src="https://www.prolific.com/stream/VCF43LL4MS5GE3G9HXLKMMWKV6QT.jpg">
+    <img src="https://www.prolific.com/stream/VCF43LL4MS5GE3G9HXLKMMWKV6QT.jpg" alt="Reichart giving Elon Musk the Edison award for the Tesla (courtesy of Reichart Von Wolfsheild)">
     <figcaption> Reichart giving Elon Musk the Edison award for the Tesla (courtesy of Reichart Von Wolfsheild) </figcaption>
 </figure></center>
 

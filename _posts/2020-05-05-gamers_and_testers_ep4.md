@@ -5,6 +5,7 @@ meta_description: "Gamers and Testers - Episode 4"
 date: 2020-05-05
 categories: [career, testing, quality, interview]
 image: /assets/images/2020/05/ff10.jpg
+image_alt: a screenshot from Final Fantasy X videogame from 2001
 caption: "Final Fantasy X, 2001"
 ---
 
@@ -79,7 +80,7 @@ However, if that game was released on the original Playstation, the infamous bug
 >
 > I imagine the biggest change for game testers right now is Virtual Reality. To me, that's a whole new world of testing!
 
-<figure><img src="/assets/images/2020/05/wwe.gif"></figure>
+<figure><img src="/assets/images/2020/05/wwe.gif" alt="a moving GIF image of a completely bugged out match on WWE videogame, where characters legs are poorly animated and glitchy"></figure>
 
 ### 8. What advice would you give to someone who wants to join the Testing craft in the videogames industry?
 

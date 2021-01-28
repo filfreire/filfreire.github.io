@@ -6,6 +6,7 @@ meta_description: "A look at grifting in corporate Software Testing"
 date: 2021-01-24
 categories: [thought piece]
 image: /assets/images/2021/01/catchmeifyoucan.jpg
+image_alt: a movie still from Catch Me If You Can from 2002
 caption: "Catch Me If You Can, 2002"
 ---
 

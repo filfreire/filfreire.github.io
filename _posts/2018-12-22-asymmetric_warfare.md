@@ -5,6 +5,7 @@ meta_description: "Asymmetric warfare, raids, and software testing"
 date: 2018-12-22
 categories: [Raid-ST, testing, quality]
 image: /assets/images/2018/12/cod4.jpg
+image_alt: a screenshot from Call of Duty Modern Warfare Remastered videogame from 2016
 caption: "Call of Duty: Modern Warfare Remastered, 2016"
 ---
 
@@ -40,7 +41,7 @@ And what are some of the most common ideas to top the sloppiness?
 2. "Let's create a big and costly, easily outdated, and hard to maintain automated check suite";
 
 <figure>
-    <img src="/assets/images/2018/12/borat.jpg">
+    <img src="/assets/images/2018/12/borat.jpg" alt="image from the movie Borat from 2006">
     <figcaption>Sure, let's follow this approach... (image from Borat, 2006)</figcaption>
 </figure>
 
@@ -105,7 +106,7 @@ All of this can be done in separate or with some mixture. Expert testers will sa
 The idea of **Raid-ST** is not to be a unique flagship of testing expertise, but rather facilitate the introduction, "later in the war", of expert testing, while ALSO contributing towards decent quality assurance and quality control processes (which may also facilitate expert testing efforts). In other words, it's like a first layer of "violent hygiene": the main premise is to debilitate "the monster" in a methodical yet "portable"/easy to deploy way, so that, for example, later efforts can be made into having even better testing happening in the project.
 
 <figure>
-    <img src="/assets/images/2018/12/RaidST.jpg">
+    <img src="/assets/images/2018/12/RaidST.jpg" alt="A visual representation of raid software testing method showing the system of Raids, Monster Projects and Tester Commandos connected in closed cycle">
     <figcaption>A visual representation of Raid-ST</figcaption>
 </figure>
 
