@@ -125,4 +125,4 @@ One thing is certain, this particular revolution [will not be televised... or on
 
 ________
 
-_If you read this far, thank you. Those that know me, will see most of this post for what it is: a biased and faulty product of entertaining my thoughts and imagination, and will hopefully not take much of it seriously. On the serious parts, maybe someone can make use of it to start meaningful exchanges of ideas and opinions. Feel free to reach out to me with comments, ideas, grammar errors, and suggestions via any of my social media. Until next time, stay safe, take care!_
+_If you read this far, thank you. Those that know me, will see most of this post for what it is: a biased and faulty product of entertaining my thoughts and imagination, and will hopefully not take much of it seriously. On the serious parts, maybe someone can make use of it to start meaningful exchanges of ideas and opinions. Feel free to reach out to me with comments, ideas, grammar errors, and suggestions via any of my social media. Until next time, stay safe, take care! If you are up for it, you can also <a href="https://www.buymeacoffee.com/filipefreire">buy me a coffee ☕</a>_

@@ -100,4 +100,4 @@ If you're someone who is senior professional, well established, and you think of
 
 If on the other hand, you're a junior professional, I invite you to be open to all the good things that "different" technical communities have to offer... just guard your heart of stupidity... like for example, keep in your heart that dumb polarization is a shortcut for demagogues and fanatics.
 
-Thank you for reading. Feel free to reach out to me with comments, ideas, grammar errors, and suggestions via any of my social media. Until next time, take care!
+Thank you for reading. Feel free to reach out to me with comments, ideas, grammar errors, and suggestions via any of my social media. Until next time, take care! If you are up for it, you can also <a href="https://www.buymeacoffee.com/filipefreire">buy me a coffee ☕</a>

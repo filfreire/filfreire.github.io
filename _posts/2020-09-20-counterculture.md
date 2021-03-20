@@ -90,4 +90,4 @@ I think a lot tech organisations are somewhat lost and don't recognise their tru
 
 I personally believe that these also don't recognize that, in effect, their success or survival is intimately related to (a handful of) folks that are in effect countering that toxic culture. When good culture is always counterculture, "change" is an illusion. Don't leave it up to others, it's up to each of us to do actual change. It always has been.
 
-_Thank you for reading. Feel free to reach out to me with comments, ideas, grammar errors, and suggestions via any of my social media. Until next time, take care!_
+_Thank you for reading. Feel free to reach out to me with comments, ideas, grammar errors, and suggestions via any of my social media. Until next time, take care! If you are up for it, you can also <a href="https://www.buymeacoffee.com/filipefreire">buy me a coffee ☕</a>_

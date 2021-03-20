@@ -135,4 +135,4 @@ Ah, by the way, there's also guerrilla techniques you can apply:
 
 ____
 
-_Thank you for reading. If you haven't realised yet, yes, this post is a parody. Feel free to reach out to me with comments, ideas, grammar errors, and suggestions via any of my social media. Until next time, take care!_
+_Thank you for reading. If you haven't realised yet, yes, this post is a parody. Feel free to reach out to me with comments, ideas, grammar errors, and suggestions via any of my social media. Until next time, take care! If you are up for it, you can also <a href="https://www.buymeacoffee.com/filipefreire">buy me a coffee ☕</a>_

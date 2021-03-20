@@ -61,3 +61,5 @@ To avoid wasting time fantasizing about tools, keep focused on what matters:
 - ...
 
 If you're in the business of hiring Testers, do your future self a favor, and bear in mind that, even if they’re certified, it's often the case that certification itself is "paper-thin", or equivalent to memorizing 4 sheets of paper and then doing a quiz. Instead, provide ways for your Testers to do proper testing training. Here are two personal recommendations: [Rapid Software Testing (RST)](https://rapid-software-testing.com/) and [Black Box Software Testing (BBST)](https://associationforsoftwaretesting.org/bbst-black-box-software-testing-courses/).
+
+_Thank you for reading. Feel free to reach out to me with comments, ideas, grammar errors, and suggestions via any of my social media. Until next time, take care! If you are up for it, you can also <a href="https://www.buymeacoffee.com/filipefreire">buy me a coffee ☕</a>_

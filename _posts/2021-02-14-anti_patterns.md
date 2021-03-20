@@ -118,4 +118,4 @@ These two sides need to help each other for the magic to happen. There are a few
 
 ________
 
-_If you read this far, thank you. Feel free to reach out to me with comments, ideas, grammar errors, and suggestions via any of my social media. Until next time, stay safe, take care!_
+_If you read this far, thank you. Feel free to reach out to me with comments, ideas, grammar errors, and suggestions via any of my social media. Until next time, stay safe, take care! If you are up for it, you can also <a href="https://www.buymeacoffee.com/filipefreire">buy me a coffee ☕</a>_
