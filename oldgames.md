@@ -9,7 +9,7 @@ This is a personal page where I take note of steps I took in order to be able to
 
 - **Disney's Timon & Pumbaa's Jungle Games** - [Download link](https://www.myabandonware.com/game/disney-s-timon-pumbaa-s-jungle-games-3j3) - On the Downloads section, use the FIX installer. It should install the Game + a standalone DOSbox and should work on Windows 10 x64.
 
-- **Bionicle** - (Nestle promotional cd game)[Download link](https://biomediaproject.com/bmp/promo-cds/nestle/) - Setup and game should work ok on Windows 10 x64, if there are issues, try to run in compatibility mode.
+- **Bionicle** (Nestle promotional cd game) - [Download link](https://biomediaproject.com/bmp/promo-cds/nestle/) - Setup and game should work ok on Windows 10 x64, if there are issues, try to run in compatibility mode.
 
 - **Disney's Arcade Frenzy** - [Download link](https://collectionchamber.blogspot.com/p/disneys-arcade-frenzy.html) - use the MEGA download link on the page, and download both files there (there `.exe` and the `.D01`), run the installation, and then start the game. It should open up a Windows 95 "vm" - just click on the game icon on the desktop of that VM.
 
