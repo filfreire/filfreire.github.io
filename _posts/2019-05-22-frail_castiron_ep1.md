@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Frail and cast-iron tools - Episode 1"
-meta_description: "Frail and cast-iron tools - Episode 1"
+description: "A portrait of my user experience with the Postman tool"
+meta_description: "A portrait of my user experience with the Postman tool"
 date: 2019-05-22
 categories: [tools, testing, api testing, postman, personal experience]
 image: /assets/images/2019/05/deltaforce.jpg
