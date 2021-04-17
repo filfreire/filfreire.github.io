@@ -52,6 +52,7 @@ Feel free to have a look! Or also [suggest something new](https://github.com/fil
 - [websocat](https://github.com/vi/websocat) (Netcat, curl and socat for WebSockets)
 - [docker](https://docs.docker.com/engine/install/)
 - [dive](https://github.com/wagoodman/dive) (for discovering ways to shrink the size of docker image)
+- [jq](https://stedolan.github.io/jq/) and [xpath](https://manpages.ubuntu.com/manpages/precise/en/man1/xpath.1p.html)
 
 **Useful browser extensions**: [uBlock origin](https://github.com/gorhill/uBlock), [https everywhere](https://www.eff.org/https-everywhere), [Open multiple urls](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh?hl=en), [ModHeader](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj), [noscript](https://noscript.net/)
 
