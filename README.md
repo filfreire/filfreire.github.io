@@ -9,30 +9,30 @@ For styling the blog uses [Tacit CSS framework](https://yegor256.github.io/tacit
 ## How to build
 
 ```
-gem install bundle
-bundle install
-```
+# Make sure to have installed on your machine (bellow example for ubuntu):
+sudo apt install ruby make gcc g++ ruby-dev zlib1g-dev
 
-Make sure to have installed on your machine (bellow example for ubuntu):
-```
-ruby, make, gcc, g++, ruby-dev, zlib1g-dev
-```
+# install bundle
+gem install bundle && bundle install
 
-Could be necessary to also:
-```
+# Could be necessary to also:
 sudo gem install github-pages
 ```
 
-## How to run
+## How to run locally
 
 ```
 jekyll serve
-```
 
-## How to run (with drafts)
-
-```
+# How to run (with drafts)
 jekyll serve --drafts
+```
+
+## How to run locally with docker
+
+```
+# add to .bashrc or .bash_aliases:
+alias jekyll="docker run -it --rm -v $(pwd):/usr/src/app -p 4000:4000 starefossen/github-pages"
 ```
 
 ## Notes
