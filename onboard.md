@@ -17,6 +17,8 @@ Feel free to have a look! Or also [suggest something new](https://github.com/fil
 - [shell (.bashrc) settings](https://github.com/filfreire/scripts/blob/master/dotrc) and [terminal color](https://github.com/filfreire/scripts/blob/master/spacegray_eighties_macOs.terminal)
 - [homebrew](https://brew.sh/)
 - [postman](https://www.getpostman.com/), curl, wget, [paw](https://paw.cloud/) and [httpie](https://httpie.org/)
+- [k6.io](https://k6.io/docs/getting-started/installation/)
+- [poetry](https://python-poetry.org/)
 - vim (does it come by default?) and [vim settings](https://github.com/filfreire/scripts/blob/master/.vimrc) (also clone [scripts project](https://github.com/filfreire/scripts))
 - basic folder struct (personal, screenShots, work, books)
 - git and `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
@@ -48,6 +50,8 @@ Feel free to have a look! Or also [suggest something new](https://github.com/fil
 - [keybase](https://keybase.io/)
 - [scrcpy](https://github.com/Genymobile/scrcpy) (to provide display of android devices connected via USB)
 - [websocat](https://github.com/vi/websocat) (Netcat, curl and socat for WebSockets)
+- [docker](https://docs.docker.com/engine/install/)
+- [dive](https://github.com/wagoodman/dive) (for discovering ways to shrink the size of docker image)
 
 **Useful browser extensions**: [uBlock origin](https://github.com/gorhill/uBlock), [https everywhere](https://www.eff.org/https-everywhere), [Open multiple urls](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh?hl=en), [ModHeader](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj), [noscript](https://noscript.net/)
 
