@@ -67,7 +67,7 @@ Feel free to have a look! Or also [suggest something new](https://github.com/fil
 
 **VS Code packages**:
 ```
-bibhasdn.unique-lines, erd0s.terraform-autocomplete, eriklynd.json-tools, euskadi31.json-pretty-printer, fabiospampinato.vscode-diff, hashicorp.terraform, hookyqr.minify, lextudio.restructuredtext, mikestead.dotenv, ms-azuretools.vscode-docker, ms-mssql.mssql, ms-python.python, ms-toolsai.jupyter, ms-vscode-remote.remote-containers, nidu.copy-json-path, redhat.vscode-yaml, shardulm94.trailing-spaces, streetsidesoftware.code-spell-checker, torn4dom4n.latex-support, waderyan.gitblame
+batisteo.vscode-django, bibhasdn.unique-lines, donjayamanne.python-extension-pack, erd0s.terraform-autocomplete, eriklynd.json-tools, euskadi31.json-pretty-printer, fabiospampinato.vscode-diff, hashicorp.terraform, hbenl.vscode-test-explorer, hookyqr.minify, lextudio.restructuredtext, littlefoxteam.vscode-python-test-adapter, magicstack.magicpython, mikestead.dotenv, ms-azuretools.vscode-docker, ms-dotnettools.csharp, ms-mssql.mssql, ms-python.python, ms-python.vscode-pylance, ms-toolsai.jupyter, ms-vscode-remote.remote-containers, ms-vscode.test-adapter-converter, nidu.copy-json-path, njpwerner.autodocstring, poeticandroid.vscode-poetry, ptd.vscode-unitymeta, redhat.vscode-commons, redhat.vscode-yaml, shardulm94.trailing-spaces, streetsidesoftware.code-spell-checker, tht13.python, torn4dom4n.latex-support, visualstudioexptteam.vscodeintellicode, waderyan.gitblame, wholroyd.jinja, yzane.markdown-pdf, yzhang.markdown-all-in-one
 ```
 
 **Sublime packages**:

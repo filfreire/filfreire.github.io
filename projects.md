@@ -33,6 +33,7 @@ I'm trying to contribute to OSS every day, projects I contributed in a way so fa
 - Some minor contributions to [ERDDAP](http://coastwatch.pfeg.noaa.gov/erddap/download/changes.html) data server for oceanographic data.
 - Sometimes I study profanity detection and exploits, especially when testing software in which the user can embellish/personalize products, [here](/profanity-study) will find a draft with some of my personal study notes on it.
 - 🔥 Sometimes I have to write and prepare job descriptions directed at a segment of the industry: Craftsman Testers. You can find reusable examples [here](/example-job-ads).
+- I enjoy playing some older DOS/Win95 games from time to time. I write down instructions of the ones I play for my future self in [here](/oldgames)
 
 ## Talks
 
