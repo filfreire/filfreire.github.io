@@ -63,6 +63,7 @@ You can view the slides for most of my talks over at [speakerdeck (@filipe)](htt
 
 ## Random stuff
 
+- I was a peer advisor for [James Bach](https://www.satisfice.com/)'s [RSTA Class](https://rapid-software-testing.com/), in the following editions: April 2020; July, June, May, February 2019; December, September and June 2018.
 - **Usual setup/onboard list can be found [here](/onboard)**.
 - My *[Self proclaimed UN of Testers latest discovery
 ](https://filfreire.com/posts/discovery)* blog post was published also on [Tea-Time with Testers's April 2020 magazine](https://www.teatimewithtesters.com/).
